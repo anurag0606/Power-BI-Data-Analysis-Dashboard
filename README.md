@@ -28,7 +28,7 @@ Each folder includes:
 Here are some previews of the dashboards (add screenshots in each folder and link them here):
 
 - E-Commerce Sales Dashboard  
-  ![Data Professional Survey Breakdown Screenshot](Data Professional Survey Breakdown/Data Professional Survey Breakdown.png)
+  ![Data Professional Survey Breakdown Screenshot](/blob/main/Data%20Professional%20Survey%20Breakdown/Data%20Professional%20Survey%20Breakdown.png)
 
 - Hospital Dashboard  
   ![Hospital Screenshot](Hospital%20Dashboard/screenshot.png)
