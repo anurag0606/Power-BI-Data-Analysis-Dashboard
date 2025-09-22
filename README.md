@@ -28,7 +28,7 @@ Each folder includes:
 Here are some previews of the dashboards (add screenshots in each folder and link them here):
 
 - E-Commerce Sales Dashboard  
-  ![Data Professional Survey Breakdown Screenshot](https://github.com/anurag0606/Power-BI-Data-Analysis-Dashboard/blob/main/Data%20Professional%20Survey%20Breakdown/Data%20Professional%20Survey%20Breakdown.png)
+  ![Data Professional Survey Breakdown Screenshot](https://github.com/anurag0606/Power-BI-Data-Analysis-Dashboard/blob/main/Data%20Professional%20Survey%20Breakdown/Data%20Professional%20Survey%20Breakdown.png?raw=true)
 
 - Hospital Dashboard  
   ![Hospital Screenshot](Hospital%20Dashboard/screenshot.png)
