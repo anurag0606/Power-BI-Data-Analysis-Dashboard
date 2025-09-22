@@ -30,8 +30,17 @@ Here are some previews of the dashboards (add screenshots in each folder and lin
 - Data Professional Survey Breakdown  
   [Data Professional Survey Breakdown Screenshot](https://github.com/anurag0606/Power-BI-Data-Analysis-Dashboard/blob/main/Data%20Professional%20Survey%20Breakdown/Data%20Professional%20Survey%20Breakdown.png)
 
+ - Data Professional Survey Breakdown  
+   [Data Professional Survey Breakdown Screenshot](https://github.com/anurag0606/Power-BI-Data-Analysis-Dashboard/blob/main/Data%20Professional%20Survey%20Breakdown/Data%20Professional%20Survey%20Breakdown.png)
+
 - Hospital Dashboard  
   ![Hospital Screenshot](Hospital%20Dashboard/screenshot.png)
+
+- Data Professional Survey Breakdown  
+  [Data Professional Survey Breakdown Screenshot](https://github.com/anurag0606/Power-BI-Data-Analysis-Dashboard/blob/main/Data%20Professional%20Survey%20Breakdown/Data%20Professional%20Survey%20Breakdown.png)
+
+- Data Professional Survey Breakdown  
+  [Data Professional Survey Breakdown Screenshot](https://github.com/anurag0606/Power-BI-Data-Analysis-Dashboard/blob/main/Data%20Professional%20Survey%20Breakdown/Data%20Professional%20Survey%20Breakdown.png)
 
 
 ## 🛠️ Tools Used
