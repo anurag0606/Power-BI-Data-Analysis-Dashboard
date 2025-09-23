@@ -34,10 +34,13 @@ Here are some previews of the dashboards (add screenshots in each folder and lin
    [E-Comerce Salse Dashboard Screenshot](https://github.com/anurag0606/Power-BI-Data-Analysis-Dashboard/blob/main/E-Comerce%20Salse%20Dashboard/E-Comerce%20Salse%20Dashboard.png)
 
 - Hospital Dashboard  
-  [Hospital Screenshot](https://github.com/anurag0606/Power-BI-Data-Analysis-Dashboard/blob/main/Hospital%20Dashboard/Hospital%20Dashboard.png)
+  [Hospital Dashhboard Screenshot](https://github.com/anurag0606/Power-BI-Data-Analysis-Dashboard/blob/main/Hospital%20Dashboard/Hospital%20Dashboard.png)
 
 - OLA Dashhboard <br>
   [OLA Dashhboard Screenshot](https://github.com/anurag0606/Power-BI-Data-Analysis-Dashboard/tree/main/OLA%20Peoject/Screenshort)
+
+- Sales Report_Dashboard <br>
+  [Sales Report_Dashboard Screenshot](https://github.com/anurag0606/Power-BI-Data-Analysis-Dashboard/tree/main/Sales%20Report_Finished/Screenshort)
 
 - Sales Report_Dashboard <br>
   [Sales Report_Dashboard Screenshot](https://github.com/anurag0606/Power-BI-Data-Analysis-Dashboard/tree/main/Sales%20Report_Finished/Screenshort)
