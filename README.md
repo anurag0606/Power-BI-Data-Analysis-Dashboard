@@ -39,8 +39,8 @@ Here are some previews of the dashboards (add screenshots in each folder and lin
 - OLA Dashhboard <br>
   [OLA Dashhboard](https://github.com/anurag0606/Power-BI-Data-Analysis-Dashboard/tree/main/OLA%20Peoject/Screenshort)
 
-- Data Professional Survey Breakdown  
-  [Data Professional Survey Breakdown Screenshot](https://github.com/anurag0606/Power-BI-Data-Analysis-Dashboard/blob/main/Data%20Professional%20Survey%20Breakdown/Data%20Professional%20Survey%20Breakdown.png)
+- Sales Report_Dashboard 
+  [Sales Report_Dashboard Screenshot](https://github.com/anurag0606/Power-BI-Data-Analysis-Dashboard/blob/main/Data%20Professional%20Survey%20Breakdown/Data%20Professional%20Survey%20Breakdown.png)
 
 
 ## 🛠️ Tools Used
