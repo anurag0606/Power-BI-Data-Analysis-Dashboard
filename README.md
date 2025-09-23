@@ -42,8 +42,8 @@ Here are some previews of the dashboards (add screenshots in each folder and lin
 - Sales Report_Dashboard <br>
   [Sales Report_Dashboard Screenshot](https://github.com/anurag0606/Power-BI-Data-Analysis-Dashboard/tree/main/Sales%20Report_Finished/Screenshort)
 
-- Sales Report_Dashboard <br>
-  [Sales Report_Dashboard Screenshot](https://github.com/anurag0606/Power-BI-Data-Analysis-Dashboard/tree/main/Sales%20Report_Finished/Screenshort)
+- Virat Kholi Statistics Dashboard <br>
+  [Virat Kholi Statistics Dashboard Screenshot](https://github.com/anurag0606/Power-BI-Data-Analysis-Dashboard/blob/main/Virat%20Kholi%20Statistics%20Dashboard/Virat%20Kholi%20Statistics%20Dashboard%20ss.png)
 
 
 ## 🛠️ Tools Used
