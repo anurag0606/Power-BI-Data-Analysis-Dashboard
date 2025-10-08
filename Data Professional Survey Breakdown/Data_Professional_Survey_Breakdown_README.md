@@ -140,3 +140,9 @@ It serves as a benchmark for aspiring data professionals and organizations plann
 📧 Email: [anuragdigrase2003@gmail.com]  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/anurag-digrase-799348243/)  
 💼 Data Analyst | Power BI | SQL | Python
+
+---
+
+## 🖼️ Dashboard Preview
+
+![Data Professional Survey Breakdown Dashboard](Hospital%20Dashboard.png)
