@@ -145,4 +145,4 @@ It serves as a benchmark for aspiring data professionals and organizations plann
 
 ## 🖼️ Dashboard Preview
 
-![Data Professional Survey Breakdown Dashboard](Hospital%20Dashboard.png)
+![Data Professional Survey Breakdown Dashboard](Data%20Professional%20Survey%20Breakdown.png)
