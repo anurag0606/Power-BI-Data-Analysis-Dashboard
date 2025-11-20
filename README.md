@@ -28,7 +28,7 @@ Each folder includes:
 Here are some previews of the dashboards (add screenshots in each folder and link them here):
 
 - Covid-19 Global Analysis Report<br>
-  [Covid-19 Global Analysis Report Screenshot](https://github.com/anurag0606/Power-BI-Data-Analysis-Dashboard/blob/main/Covid%2019%20Dashboard/Covid%2019%20Dashboard%20.png)
+  [Covid-19 Global Analysis Report Screenshot](https://github.com/anurag0606/Power-BI-Data-Analysis-Dashboard/blob/main/Covid-19%20Global%20Analysis%20Report%20Dashboard/Covid-19%20Global%20Analysis%20Report%20Dashboard%20.png)
 
 - Data Professional Survey Breakdown  
   [Data Professional Survey Breakdown Screenshot](https://github.com/anurag0606/Power-BI-Data-Analysis-Dashboard/blob/main/Data%20Professional%20Survey%20Breakdown/Data%20Professional%20Survey%20Breakdown.png)
@@ -43,7 +43,7 @@ Here are some previews of the dashboards (add screenshots in each folder and lin
   [OLA Dashhboard Screenshot](https://github.com/anurag0606/Power-BI-Data-Analysis-Dashboard/tree/main/OLA%20Peoject/Screenshort)
 
 - Sales Report_Dashboard <br>
-  [Sales Report_Dashboard Screenshot](https://github.com/anurag0606/Power-BI-Data-Analysis-Dashboard/tree/main/Sales%20Report_Finished/Screenshort)
+  [Sales Report_Dashboard Screenshot](https://github.com/anurag0606/Power-BI-Data-Analysis-Dashboard/tree/main/Sales%20Report/Screenshort)
 
 - Virat Kholi Statistics Dashboard <br>
   [Virat Kholi Statistics Dashboard Screenshot](https://github.com/anurag0606/Power-BI-Data-Analysis-Dashboard/blob/main/Virat%20Kholi%20Statistics%20Dashboard/Virat%20Kholi%20Statistics%20Dashboard%20ss.png)
