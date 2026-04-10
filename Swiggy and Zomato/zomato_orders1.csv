@@ -1,0 +1,1001 @@
+Order ID,Date,Time,Restaurant,Cuisine,Customer ID,Delivery Partner ID,Order Status,Food Item,Quantity,Order Value (INR),Delivery Time (min),Customer Rating,Delivery Partner Rating,Cancellation Reason
+ZM100222,11/15/2025,10:10:00 PM,Meghana Foods,South Indian,CUST3807,DP542,Delivered,Burger Combo,4,414.19,50,3.10,3.00,
+ZM100696,11/18/2025,2:25:00 PM,Taco Bell,Biryani,CUST8594,DP846,Delivered,Paneer Butter Masala,4,611.94,25,3.10,3.70,
+ZM100805,12/7/2025,12:46:00 PM,Burger King,South Indian,CUST2376,DP651,Cancelled by Customer,Paneer Butter Masala,,,,,,Found cheaper elsewhere
+ZM100755,12/9/2025,12:02:00 PM,Leon Grill,Fast Food,CUST3903,DP929,Cancelled by Customer,Burger Combo,,,,,,Delivery too far
+ZM100894,12/9/2025,9:26:00 AM,WOW Momo,North Indian,CUST4846,DP744,Cancelled by Restaurant,Noodles,,,,,,Item not available
+ZM100056,12/3/2025,7:39:00 PM,Paradise Biryani,Bakery,CUST5941,DP935,Delivered,Tacos,2,179.28,60,3.50,4.40,
+ZM100070,11/18/2025,7:05:00 AM,Beijing Bites,American,CUST7693,DP730,Delivered,Pasta Alfredo,1,242.50,31,4.10,3.30,
+ZM100440,12/8/2025,9:31:00 PM,Chianti,Thai,CUST1781,DP703,Delivered,Tacos,3,732.56,39,3.50,4.70,
+ZM100422,12/6/2025,5:21:00 PM,Paradise Biryani,Fast Food,CUST3381,DP741,Delivered,Momos,1,245.38,60,3.00,3.20,
+ZM100018,11/25/2025,4:30:00 AM,Five Star Chicken,Biryani,CUST8062,DP681,Delivered,Chicken Wings,2,732.00,46,3.40,3.20,
+ZM100850,12/7/2025,1:30:00 AM,Chianti,South Indian,CUST6359,DP665,Cancelled by Customer,Sandwich,,,,,,Delivery too far
+ZM100705,12/10/2025,10:16:00 AM,Tunday Kababi,Chinese,CUST8295,DP993,Delivered,Chicken Wings,4,137.02,30,4.80,4.50,
+ZM100863,11/14/2025,11:13:00 AM,Biriyani Zone,Fast Food,CUST1648,DP766,Cancelled by Customer,Pasta Alfredo,,,,,,Ordered by mistake
+ZM100468,11/26/2025,5:17:00 AM,Tunday Kababi,American,CUST7210,DP875,Delivered,Sandwich,3,542.45,49,3.00,4.30,
+ZM100668,11/27/2025,12:33:00 PM,A2B - Adyar Ananda Bhavan,North Indian,CUST4926,DP629,Delivered,Pasta Alfredo,1,776.35,23,4.40,4.60,
+ZM100500,11/13/2025,4:57:00 AM,Five Star Chicken,Chinese,CUST3384,DP872,Delivered,Farmhouse Pizza,1,554.73,27,3.40,4.70,
+ZM100577,12/12/2025,1:15:00 AM,WOW Momo,North Indian,CUST8509,DP981,Delivered,Farmhouse Pizza,1,436.30,33,4.60,4.30,
+ZM100698,12/8/2025,11:21:00 PM,A2B - Adyar Ananda Bhavan,Italian,CUST9411,DP555,Delivered,Fried Rice,4,350.48,23,4.10,4.80,
+ZM100362,11/19/2025,7:40:00 PM,Five Star Chicken,Italian,CUST5072,DP746,Delivered,Pasta Alfredo,3,524.90,59,3.20,4.30,
+ZM100544,12/8/2025,10:33:00 PM,McDonald's,Mexican,CUST6187,DP653,Delivered,Fried Rice,3,424.19,56,3.90,3.40,
+ZM100213,11/23/2025,6:58:00 AM,Paradise Biryani,Italian,CUST6053,DP633,Delivered,Fried Rice,3,724.90,44,3.90,4.30,
+ZM100119,11/28/2025,10:35:00 PM,Koshy’s,Mexican,CUST8043,DP556,Delivered,Noodles,4,443.06,33,4.50,3.20,
+ZM100963,11/18/2025,8:30:00 AM,Leon Grill,Bakery,CUST8500,DP593,Cancelled by Partner,Tacos,,,,,,Customer unreachable
+ZM100662,11/29/2025,2:24:00 PM,Meghana Foods,Italian,CUST3883,DP829,Delivered,Paneer Butter Masala,3,226.42,36,4.60,3.60,
+ZM100810,11/25/2025,9:58:00 PM,Biriyani Zone,Italian,CUST2942,DP536,Cancelled by Customer,Chicken Biryani,,,,,,Change of mind
+ZM100088,11/19/2025,3:05:00 AM,Koshy’s,South Indian,CUST1919,DP650,Delivered,Momos,1,466.07,39,4.80,3.10,
+ZM100510,11/28/2025,3:04:00 AM,Biriyani Zone,Fast Food,CUST6946,DP543,Delivered,Tacos,2,680.33,27,3.20,4.40,
+ZM100909,11/18/2025,10:31:00 PM,Truffles,South Indian,CUST1478,DP582,Cancelled by Restaurant,Burger Combo,,,,,,High demand
+ZM100589,12/9/2025,1:47:00 AM,Burger King,Chinese,CUST8287,DP803,Delivered,Paneer Butter Masala,1,498.35,27,3.10,3.50,
+ZM100840,11/30/2025,6:38:00 AM,Meghana Foods,North Indian,CUST2878,DP863,Cancelled by Customer,Margherita Pizza,,,,,,Delivery too far
+ZM100098,11/15/2025,7:01:00 PM,Taco Bell,South Indian,CUST5295,DP799,Delivered,Momos,4,130.86,54,3.20,3.70,
+ZM100419,11/22/2025,7:00:00 AM,WOW Momo,Bakery,CUST7939,DP789,Delivered,Farmhouse Pizza,1,240.73,57,3.50,4.70,
+ZM100065,12/3/2025,3:25:00 AM,Beijing Bites,American,CUST1745,DP998,Delivered,Chicken Tikka,3,259.96,20,4.40,3.30,
+ZM100973,12/8/2025,5:32:00 PM,Meghana Foods,Bakery,CUST7211,DP587,Cancelled by Partner,Chicken Wings,,,,,,Personal emergency
+ZM100309,11/20/2025,10:52:00 PM,WOW Momo,Mexican,CUST1020,DP524,Delivered,Veg Biryani,3,283.55,24,3.70,4.60,
+ZM100486,11/27/2025,7:30:00 PM,Meghana Foods,Thai,CUST3209,DP746,Delivered,Burger Combo,3,186.36,52,3.90,4.40,
+ZM100156,11/28/2025,2:37:00 AM,Five Star Chicken,Chinese,CUST4048,DP755,Delivered,Fried Rice,3,430.47,37,3.50,3.20,
+ZM100735,12/9/2025,6:41:00 PM,Taco Bell,South Indian,CUST6534,DP900,Delivered,Sandwich,1,445.71,56,3.60,3.90,
+ZM100615,11/23/2025,7:31:00 AM,Tunday Kababi,Fast Food,CUST5553,DP600,Delivered,Chicken Biryani,3,162.93,32,4.20,3.40,
+ZM100450,11/15/2025,6:27:00 PM,Biriyani Zone,Thai,CUST8126,DP768,Delivered,Chicken Wings,2,876.24,54,3.40,4.20,
+ZM100859,11/26/2025,9:51:00 PM,Chianti,Biryani,CUST1217,DP619,Cancelled by Customer,Tacos,,,,,,Ordered by mistake
+ZM100773,12/11/2025,12:52:00 PM,Truffles,Chinese,CUST8240,DP528,Cancelled by Customer,Veg Biryani,,,,,,Found cheaper elsewhere
+ZM100218,12/8/2025,9:31:00 PM,Barbeque Nation,South Indian,CUST8916,DP837,Delivered,Tacos,2,127.13,52,3.90,3.10,
+ZM100261,11/18/2025,3:10:00 AM,Tunday Kababi,Fast Food,CUST4470,DP753,Delivered,Sandwich,1,740.63,45,3.40,3.90,
+ZM100408,11/17/2025,4:27:00 PM,Leon Grill,North Indian,CUST4465,DP576,Delivered,Fried Rice,2,463.12,34,3.20,4.30,
+ZM100337,12/2/2025,11:14:00 PM,McDonald's,North Indian,CUST1578,DP798,Delivered,Pasta Alfredo,4,898.03,36,4.80,3.80,
+ZM100420,12/1/2025,8:53:00 PM,Biriyani Zone,Bakery,CUST8925,DP629,Delivered,Momos,2,442.32,55,4.00,3.70,
+ZM100823,12/2/2025,7:26:00 PM,A2B - Adyar Ananda Bhavan,South Indian,CUST2709,DP845,Cancelled by Customer,Paneer Butter Masala,,,,,,Delivery too far
+ZM100487,11/25/2025,6:45:00 AM,Onesta,Bakery,CUST8046,DP665,Delivered,Pasta Alfredo,2,557.71,53,3.50,3.10,
+ZM100845,11/28/2025,12:13:00 PM,Beijing Bites,North Indian,CUST9721,DP610,Cancelled by Customer,Pasta Alfredo,,,,,,Ordered by mistake
+ZM100526,12/8/2025,9:34:00 AM,Empire Restaurant,Fast Food,CUST6050,DP861,Delivered,Burger Combo,2,565.37,44,3.40,3.20,
+ZM100822,12/6/2025,1:20:00 PM,Burger King,Bakery,CUST8778,DP555,Cancelled by Customer,Chicken Tikka,,,,,,Change of mind
+ZM100269,12/6/2025,2:57:00 AM,KFC,Chinese,CUST3290,DP626,Delivered,Momos,1,579.87,44,3.70,3.90,
+ZM100839,12/11/2025,3:46:00 PM,Truffles,Mexican,CUST6630,DP881,Cancelled by Customer,Burger Combo,,,,,,Change of mind
+ZM100353,11/17/2025,3:37:00 AM,Onesta,Italian,CUST7713,DP651,Delivered,Noodles,2,726.81,53,4.90,3.70,
+ZM100415,11/27/2025,8:59:00 PM,Leon Grill,North Indian,CUST1019,DP959,Delivered,Momos,1,192.69,28,4.80,4.10,
+ZM100667,11/25/2025,12:47:00 PM,KFC,Fast Food,CUST3374,DP685,Delivered,Fried Rice,4,490.39,35,4.90,4.80,
+ZM100956,12/4/2025,4:59:00 AM,Biriyani Zone,North Indian,CUST7179,DP996,Cancelled by Partner,Chicken Biryani,,,,,,Vehicle issue
+ZM100179,11/26/2025,9:28:00 PM,Leon Grill,Bakery,CUST7861,DP577,Delivered,Paneer Butter Masala,2,144.63,27,3.40,3.90,
+ZM100700,11/21/2025,3:47:00 PM,Little Italy,Chinese,CUST8454,DP887,Delivered,Sandwich,4,155.30,46,4.80,3.60,
+ZM100924,11/27/2025,1:22:00 PM,Little Italy,North Indian,CUST7427,DP672,Cancelled by Restaurant,Fried Rice,,,,,,Kitchen closed
+ZM100383,11/24/2025,6:46:00 PM,Taco Bell,South Indian,CUST3611,DP712,Delivered,Momos,3,529.81,31,4.00,4.60,
+ZM100199,12/12/2025,1:30:00 PM,Biriyani Zone,North Indian,CUST9866,DP530,Delivered,Tacos,2,571.08,22,3.80,4.40,
+ZM100569,11/16/2025,9:02:00 AM,Little Italy,Mexican,CUST9061,DP555,Delivered,Chicken Biryani,4,883.95,32,4.20,3.40,
+ZM100983,12/1/2025,6:46:00 AM,Beijing Bites,American,CUST3190,DP702,Cancelled by Partner,Veg Biryani,,,,,,Vehicle issue
+ZM100381,12/7/2025,5:32:00 PM,KFC,Bakery,CUST5178,DP502,Delivered,Veg Biryani,4,337.71,36,3.30,4.20,
+ZM100493,12/4/2025,5:48:00 AM,Meghana Foods,American,CUST6901,DP942,Delivered,Chicken Tikka,3,161.41,20,3.10,4.30,
+ZM100352,11/29/2025,10:35:00 PM,KFC,Thai,CUST5631,DP558,Delivered,Margherita Pizza,2,446.68,26,4.00,4.20,
+ZM100989,11/18/2025,2:38:00 PM,Leon Grill,Chinese,CUST9376,DP595,Cancelled by Partner,Tacos,,,,,,Vehicle issue
+ZM100723,11/26/2025,8:50:00 PM,McDonald's,Bakery,CUST6656,DP954,Delivered,Chicken Wings,2,812.31,59,4.60,4.30,
+ZM100443,11/24/2025,10:10:00 PM,Burger King,Chinese,CUST2284,DP695,Delivered,Momos,3,396.99,52,4.00,4.50,
+ZM100751,12/4/2025,3:27:00 PM,Barbeque Nation,Fast Food,CUST4450,DP735,Cancelled by Customer,Farmhouse Pizza,,,,,,Found cheaper elsewhere
+ZM100455,11/22/2025,8:10:00 AM,Chianti,Biryani,CUST2121,DP593,Delivered,Momos,3,342.05,54,4.60,3.80,
+ZM100636,11/19/2025,3:22:00 AM,Beijing Bites,Thai,CUST2758,DP592,Delivered,Sandwich,4,405.84,57,3.40,4.30,
+ZM100632,12/12/2025,4:31:00 PM,Koshy’s,North Indian,CUST5145,DP522,Delivered,Chicken Tikka,1,145.58,52,4.20,3.90,
+ZM100304,11/23/2025,6:52:00 AM,McDonald's,Fast Food,CUST3320,DP896,Delivered,Tacos,2,836.65,40,3.10,3.30,
+ZM100006,11/13/2025,11:19:00 PM,Truffles,Biryani,CUST4598,DP850,Delivered,Pasta Alfredo,2,536.63,35,3.30,3.80,
+ZM100790,12/12/2025,2:31:00 AM,Empire Restaurant,Thai,CUST3333,DP648,Cancelled by Customer,Chicken Biryani,,,,,,Found cheaper elsewhere
+ZM100950,11/22/2025,5:34:00 AM,Tunday Kababi,South Indian,CUST7968,DP981,Cancelled by Partner,Margherita Pizza,,,,,,Personal emergency
+ZM100852,11/29/2025,4:07:00 AM,Beijing Bites,South Indian,CUST6298,DP588,Cancelled by Customer,Farmhouse Pizza,,,,,,Ordered by mistake
+ZM100814,11/30/2025,7:47:00 PM,Onesta,Thai,CUST3445,DP943,Cancelled by Customer,Momos,,,,,,Change of mind
+ZM100655,12/11/2025,10:08:00 AM,Five Star Chicken,Bakery,CUST6518,DP639,Delivered,Momos,2,607.17,25,4.40,4.20,
+ZM100469,12/7/2025,12:38:00 AM,Leon Grill,Fast Food,CUST7348,DP597,Delivered,Momos,2,370.14,24,4.30,4.10,
+ZM100183,11/27/2025,11:54:00 AM,Burger King,American,CUST6654,DP988,Delivered,Margherita Pizza,1,567.31,54,3.80,5.00,
+ZM100382,12/2/2025,3:55:00 PM,McDonald's,North Indian,CUST9037,DP904,Delivered,Paneer Butter Masala,3,585.57,60,4.20,4.30,
+ZM100828,11/27/2025,2:20:00 AM,Beijing Bites,Chinese,CUST4369,DP658,Cancelled by Customer,Sandwich,,,,,,Delivery too far
+ZM100955,11/25/2025,1:53:00 PM,WOW Momo,South Indian,CUST6464,DP898,Cancelled by Partner,Farmhouse Pizza,,,,,,Vehicle issue
+ZM100558,12/9/2025,8:36:00 PM,Little Italy,Biryani,CUST4869,DP748,Delivered,Tacos,2,634.14,43,4.60,3.50,
+ZM100439,12/9/2025,9:12:00 AM,Barbeque Nation,Thai,CUST7906,DP755,Delivered,Burger Combo,4,272.93,29,3.90,3.00,
+ZM100872,12/7/2025,4:04:00 PM,Koshy’s,Thai,CUST8101,DP889,Cancelled by Restaurant,Noodles,,,,,,Kitchen closed
+ZM100625,11/20/2025,4:37:00 AM,Taco Bell,Chinese,CUST5749,DP649,Delivered,Veg Biryani,3,401.71,60,4.80,3.70,
+ZM100870,11/29/2025,6:01:00 AM,Barbeque Nation,American,CUST8344,DP995,Cancelled by Restaurant,Margherita Pizza,,,,,,High demand
+ZM100532,12/3/2025,9:26:00 AM,Burger King,Fast Food,CUST1249,DP990,Delivered,Momos,4,643.48,37,3.30,3.50,
+ZM100695,11/21/2025,3:16:00 AM,Taco Bell,Thai,CUST7931,DP546,Delivered,Chicken Tikka,4,467.45,44,4.00,4.10,
+ZM100268,11/24/2025,12:17:00 AM,Leon Grill,Chinese,CUST8248,DP940,Delivered,Chicken Wings,3,683.50,60,4.50,4.80,
+ZM100427,11/16/2025,9:26:00 AM,Barbeque Nation,Biryani,CUST9294,DP554,Delivered,Chicken Tikka,4,845.18,56,3.00,3.40,
+ZM100124,11/20/2025,12:21:00 PM,Truffles,Bakery,CUST6083,DP881,Delivered,Sandwich,1,309.79,57,3.80,3.20,
+ZM100566,11/23/2025,10:24:00 PM,Beijing Bites,Biryani,CUST7159,DP836,Delivered,Pasta Alfredo,1,672.30,27,3.20,4.20,
+ZM100584,11/22/2025,8:15:00 PM,A2B - Adyar Ananda Bhavan,Bakery,CUST8379,DP710,Delivered,Tacos,4,660.04,33,3.30,3.50,
+ZM100807,11/23/2025,11:28:00 AM,Tunday Kababi,Mexican,CUST7700,DP688,Cancelled by Customer,Burger Combo,,,,,,Delivery too far
+ZM100771,12/2/2025,1:51:00 AM,Chianti,Italian,CUST8184,DP891,Cancelled by Customer,Chicken Biryani,,,,,,Found cheaper elsewhere
+ZM100587,12/5/2025,3:50:00 PM,Beijing Bites,American,CUST8772,DP754,Delivered,Veg Biryani,2,207.89,29,4.40,4.90,
+ZM100084,12/6/2025,11:48:00 PM,Barbeque Nation,Biryani,CUST7246,DP697,Delivered,Burger Combo,2,787.69,46,3.10,4.50,
+ZM100453,11/18/2025,4:17:00 PM,A2B - Adyar Ananda Bhavan,North Indian,CUST7121,DP596,Delivered,Momos,4,742.41,58,3.50,3.00,
+ZM100676,11/16/2025,7:28:00 PM,Barbeque Nation,North Indian,CUST3764,DP525,Delivered,Veg Biryani,2,827.34,49,3.40,4.40,
+ZM100064,12/6/2025,10:46:00 AM,KFC,Thai,CUST9595,DP805,Delivered,Momos,2,269.40,50,3.60,4.20,
+ZM100028,12/3/2025,8:52:00 PM,Chianti,North Indian,CUST2891,DP955,Delivered,Pasta Alfredo,3,846.77,26,4.90,3.30,
+ZM100592,11/30/2025,12:44:00 PM,McDonald's,Mexican,CUST1977,DP643,Delivered,Tacos,2,612.98,37,3.40,3.30,
+ZM100940,11/17/2025,6:05:00 PM,Truffles,Thai,CUST9830,DP865,Cancelled by Restaurant,Sandwich,,,,,,Kitchen closed
+ZM100201,11/14/2025,1:03:00 PM,Tunday Kababi,Bakery,CUST2943,DP591,Delivered,Burger Combo,1,652.53,54,3.30,4.70,
+ZM100336,12/2/2025,9:27:00 AM,Biriyani Zone,American,CUST7620,DP838,Delivered,Chicken Tikka,2,523.49,35,4.80,4.60,
+ZM100246,12/12/2025,8:57:00 PM,Beijing Bites,Mexican,CUST2025,DP795,Delivered,Noodles,4,423.29,33,3.40,4.50,
+ZM100100,12/10/2025,9:41:00 PM,Tunday Kababi,American,CUST9071,DP559,Delivered,Pasta Alfredo,4,211.01,22,4.90,3.60,
+ZM100944,12/3/2025,12:24:00 PM,Little Italy,Bakery,CUST1001,DP627,Cancelled by Restaurant,Pasta Alfredo,,,,,,High demand
+ZM100880,11/29/2025,8:42:00 AM,Taco Bell,Thai,CUST9005,DP825,Cancelled by Restaurant,Tacos,,,,,,High demand
+ZM100794,11/22/2025,3:47:00 AM,Beijing Bites,American,CUST4934,DP689,Cancelled by Customer,Chicken Wings,,,,,,Found cheaper elsewhere
+ZM100848,12/5/2025,12:47:00 PM,Beijing Bites,South Indian,CUST7908,DP514,Cancelled by Customer,Veg Biryani,,,,,,Ordered by mistake
+ZM100059,11/22/2025,9:13:00 AM,Leon Grill,Thai,CUST2419,DP642,Delivered,Momos,4,482.60,57,3.50,4.70,
+ZM100335,12/9/2025,12:15:00 AM,Chianti,Fast Food,CUST5529,DP827,Delivered,Fried Rice,3,352.81,26,4.00,3.70,
+ZM100959,12/4/2025,8:44:00 PM,Meghana Foods,Chinese,CUST7382,DP592,Cancelled by Partner,Farmhouse Pizza,,,,,,Vehicle issue
+ZM100445,11/13/2025,2:26:00 AM,Truffles,Chinese,CUST7479,DP638,Delivered,Farmhouse Pizza,2,364.52,38,4.40,4.20,
+ZM100015,11/25/2025,5:38:00 AM,Biriyani Zone,Thai,CUST6107,DP704,Delivered,Sandwich,4,872.20,54,4.50,4.40,
+ZM100856,11/13/2025,7:25:00 PM,Biriyani Zone,South Indian,CUST6314,DP823,Cancelled by Customer,Noodles,,,,,,Ordered by mistake
+ZM100060,11/14/2025,3:23:00 PM,Barbeque Nation,Mexican,CUST4475,DP681,Delivered,Noodles,4,382.39,51,4.70,3.40,
+ZM100155,12/8/2025,2:17:00 AM,Barbeque Nation,Fast Food,CUST7077,DP690,Delivered,Farmhouse Pizza,4,860.58,22,4.20,4.40,
+ZM100593,12/8/2025,3:47:00 AM,Tunday Kababi,Mexican,CUST3784,DP795,Delivered,Burger Combo,2,713.06,34,4.80,4.20,
+ZM100496,12/1/2025,11:21:00 PM,Taco Bell,Fast Food,CUST5221,DP949,Delivered,Pasta Alfredo,3,304.24,52,3.60,3.10,
+ZM100752,11/23/2025,11:12:00 AM,McDonald's,North Indian,CUST8807,DP502,Cancelled by Customer,Noodles,,,,,,Change of mind
+ZM100717,11/19/2025,9:58:00 AM,Tunday Kababi,Thai,CUST4307,DP724,Delivered,Chicken Wings,1,240.35,43,3.70,3.30,
+ZM100522,11/22/2025,6:52:00 AM,A2B - Adyar Ananda Bhavan,American,CUST2865,DP851,Delivered,Momos,1,360.06,52,4.10,4.50,
+ZM100720,11/28/2025,5:37:00 PM,Taco Bell,North Indian,CUST6157,DP705,Delivered,Chicken Wings,2,720.72,53,4.90,3.20,
+ZM100775,12/11/2025,10:03:00 AM,Paradise Biryani,South Indian,CUST7735,DP619,Cancelled by Customer,Noodles,,,,,,Delivery too far
+ZM100586,11/29/2025,12:09:00 AM,Burger King,Italian,CUST9842,DP759,Delivered,Chicken Tikka,1,889.55,26,4.20,4.70,
+ZM100008,11/22/2025,5:02:00 PM,Paradise Biryani,Mexican,CUST8019,DP959,Delivered,Paneer Butter Masala,3,228.91,55,4.10,4.50,
+ZM100497,11/30/2025,1:00:00 AM,Burger King,American,CUST7262,DP766,Delivered,Chicken Tikka,2,386.59,45,4.30,3.20,
+ZM100612,12/2/2025,11:44:00 AM,McDonald's,Fast Food,CUST9182,DP893,Delivered,Chicken Wings,2,536.24,27,4.80,3.80,
+ZM100460,11/30/2025,12:25:00 AM,KFC,Italian,CUST2539,DP766,Delivered,Burger Combo,4,312.79,22,3.40,4.50,
+ZM100447,12/4/2025,11:55:00 PM,Truffles,Italian,CUST1881,DP513,Delivered,Paneer Butter Masala,4,200.35,24,4.90,3.90,
+ZM100294,12/6/2025,1:40:00 PM,Taco Bell,South Indian,CUST8265,DP914,Delivered,Noodles,3,835.59,24,3.00,3.10,
+ZM100165,11/24/2025,5:15:00 AM,Little Italy,Biryani,CUST2330,DP523,Delivered,Tacos,3,777.17,56,3.10,4.70,
+ZM100406,11/22/2025,11:03:00 AM,KFC,Thai,CUST7171,DP834,Delivered,Pasta Alfredo,3,771.20,36,4.20,4.10,
+ZM100234,11/30/2025,11:20:00 AM,Leon Grill,Bakery,CUST3230,DP653,Delivered,Momos,3,463.37,47,4.60,4.70,
+ZM100574,11/15/2025,11:36:00 AM,Truffles,Mexican,CUST4129,DP653,Delivered,Momos,3,625.28,31,4.10,4.90,
+ZM100472,11/27/2025,5:56:00 PM,Leon Grill,Biryani,CUST4419,DP835,Delivered,Margherita Pizza,1,405.76,58,4.40,3.00,
+ZM100025,11/23/2025,1:21:00 AM,Leon Grill,South Indian,CUST5351,DP702,Delivered,Burger Combo,3,849.07,33,4.30,3.60,
+ZM100778,11/26/2025,11:12:00 AM,Beijing Bites,South Indian,CUST1201,DP804,Cancelled by Customer,Chicken Biryani,,,,,,Wrong address entered
+ZM100149,12/7/2025,4:36:00 AM,Truffles,Mexican,CUST6080,DP763,Delivered,Veg Biryani,3,277.24,32,4.80,3.60,
+ZM100831,12/10/2025,1:37:00 PM,Barbeque Nation,Thai,CUST9043,DP735,Cancelled by Customer,Farmhouse Pizza,,,,,,Wrong address entered
+ZM100097,11/15/2025,11:33:00 AM,KFC,Mexican,CUST7511,DP995,Delivered,Chicken Biryani,2,708.24,34,4.70,4.40,
+ZM100572,12/12/2025,5:35:00 PM,Onesta,Mexican,CUST8898,DP562,Delivered,Burger Combo,4,778.36,24,4.10,3.00,
+ZM100318,11/18/2025,11:46:00 PM,KFC,South Indian,CUST1999,DP930,Delivered,Pasta Alfredo,3,750.38,46,4.90,4.20,
+ZM100933,11/30/2025,4:40:00 PM,Leon Grill,Chinese,CUST7150,DP897,Cancelled by Restaurant,Pasta Alfredo,,,,,,Kitchen closed
+ZM100578,11/21/2025,6:18:00 PM,McDonald's,Biryani,CUST1750,DP624,Delivered,Chicken Tikka,1,148.76,29,4.00,3.00,
+ZM100449,12/5/2025,9:41:00 AM,Tunday Kababi,Chinese,CUST8801,DP739,Delivered,Paneer Butter Masala,2,142.29,42,4.70,3.70,
+ZM100951,11/20/2025,4:53:00 AM,Beijing Bites,South Indian,CUST5413,DP824,Cancelled by Partner,Pasta Alfredo,,,,,,Customer unreachable
+ZM100787,12/3/2025,2:17:00 PM,Little Italy,South Indian,CUST1691,DP753,Cancelled by Customer,Chicken Wings,,,,,,Found cheaper elsewhere
+ZM100212,11/15/2025,11:21:00 AM,A2B - Adyar Ananda Bhavan,North Indian,CUST4974,DP856,Delivered,Chicken Tikka,2,870.42,27,4.50,4.50,
+ZM100366,11/22/2025,12:36:00 AM,KFC,Bakery,CUST5990,DP955,Delivered,Burger Combo,1,554.56,20,4.70,4.60,
+ZM100925,11/29/2025,11:08:00 PM,Taco Bell,Bakery,CUST2176,DP770,Cancelled by Restaurant,Burger Combo,,,,,,Kitchen closed
+ZM100608,12/2/2025,2:03:00 PM,Five Star Chicken,Fast Food,CUST5982,DP790,Delivered,Pasta Alfredo,3,499.20,53,4.70,3.90,
+ZM100552,12/1/2025,1:08:00 AM,Meghana Foods,Biryani,CUST9624,DP939,Delivered,Chicken Wings,3,208.27,50,4.90,3.20,
+ZM100343,11/14/2025,3:37:00 PM,McDonald's,Fast Food,CUST6134,DP824,Delivered,Sandwich,2,727.57,51,3.70,5.00,
+ZM100732,11/26/2025,4:01:00 AM,Beijing Bites,Mexican,CUST7694,DP556,Delivered,Chicken Wings,1,702.27,55,3.70,4.90,
+ZM100605,11/23/2025,12:33:00 PM,Truffles,Italian,CUST2791,DP584,Delivered,Chicken Wings,1,182.53,31,3.60,4.90,
+ZM100620,11/13/2025,8:09:00 PM,Paradise Biryani,South Indian,CUST3243,DP602,Delivered,Veg Biryani,4,618.27,37,3.80,4.10,
+ZM100302,11/24/2025,12:57:00 AM,Taco Bell,Biryani,CUST9064,DP777,Delivered,Noodles,2,559.22,32,4.70,4.60,
+ZM100699,11/26/2025,2:30:00 PM,Koshy’s,South Indian,CUST2866,DP879,Delivered,Chicken Wings,3,397.26,57,3.20,4.00,
+ZM100116,11/13/2025,10:27:00 PM,Biriyani Zone,North Indian,CUST3972,DP945,Delivered,Paneer Butter Masala,3,668.11,39,4.80,3.70,
+ZM100764,11/29/2025,9:52:00 PM,WOW Momo,Bakery,CUST7666,DP640,Cancelled by Customer,Sandwich,,,,,,Change of mind
+ZM100516,11/13/2025,2:59:00 AM,Meghana Foods,South Indian,CUST3906,DP994,Delivered,Burger Combo,2,245.84,38,4.20,4.40,
+ZM100283,11/17/2025,5:36:00 PM,Meghana Foods,Bakery,CUST1130,DP688,Delivered,Chicken Biryani,4,795.51,39,3.70,4.10,
+ZM100875,11/30/2025,3:49:00 PM,Tunday Kababi,American,CUST8878,DP536,Cancelled by Restaurant,Burger Combo,,,,,,Kitchen closed
+ZM100388,11/18/2025,6:21:00 PM,Burger King,North Indian,CUST7950,DP927,Delivered,Pasta Alfredo,1,284.41,60,4.50,4.70,
+ZM100922,11/16/2025,7:21:00 AM,A2B - Adyar Ananda Bhavan,Bakery,CUST6458,DP578,Cancelled by Restaurant,Veg Biryani,,,,,,Kitchen closed
+ZM100328,11/27/2025,5:37:00 PM,Taco Bell,North Indian,CUST9589,DP950,Delivered,Fried Rice,2,171.18,52,3.80,4.60,
+ZM100093,11/16/2025,10:28:00 PM,Paradise Biryani,American,CUST4770,DP810,Delivered,Veg Biryani,1,830.28,51,4.70,4.80,
+ZM100260,11/17/2025,3:10:00 AM,Paradise Biryani,Thai,CUST1040,DP944,Delivered,Tacos,3,661.87,43,3.90,4.00,
+ZM100803,11/30/2025,9:46:00 PM,Meghana Foods,Italian,CUST4325,DP731,Cancelled by Customer,Chicken Tikka,,,,,,Wrong address entered
+ZM100881,11/20/2025,12:34:00 PM,Meghana Foods,Bakery,CUST5043,DP624,Cancelled by Restaurant,Burger Combo,,,,,,High demand
+ZM100776,11/15/2025,8:27:00 PM,Empire Restaurant,Mexican,CUST8605,DP907,Cancelled by Customer,Burger Combo,,,,,,Wrong address entered
+ZM100340,11/21/2025,11:27:00 AM,Truffles,Italian,CUST7089,DP633,Delivered,Farmhouse Pizza,2,700.48,39,3.80,4.80,
+ZM100480,11/25/2025,5:27:00 PM,Burger King,Biryani,CUST7014,DP955,Delivered,Noodles,2,193.54,49,3.70,3.30,
+ZM100252,12/8/2025,6:39:00 AM,Paradise Biryani,Thai,CUST9006,DP585,Delivered,Fried Rice,4,439.12,51,3.80,4.70,
+ZM100324,12/9/2025,7:12:00 PM,KFC,American,CUST8750,DP519,Delivered,Sandwich,3,804.76,36,3.80,4.00,
+ZM100483,11/18/2025,1:54:00 AM,WOW Momo,Fast Food,CUST1187,DP824,Delivered,Sandwich,4,444.89,27,4.70,3.50,
+ZM100901,11/23/2025,4:11:00 AM,Biriyani Zone,Italian,CUST8404,DP816,Cancelled by Restaurant,Farmhouse Pizza,,,,,,High demand
+ZM100385,11/25/2025,10:09:00 PM,Empire Restaurant,South Indian,CUST1653,DP849,Delivered,Pasta Alfredo,3,467.62,59,4.80,3.50,
+ZM100139,11/18/2025,9:37:00 AM,Paradise Biryani,Thai,CUST5096,DP526,Delivered,Fried Rice,4,873.69,32,4.60,3.30,
+ZM100939,11/30/2025,11:55:00 PM,Paradise Biryani,Thai,CUST9788,DP901,Cancelled by Restaurant,Sandwich,,,,,,Item not available
+ZM100561,11/30/2025,4:15:00 PM,A2B - Adyar Ananda Bhavan,Mexican,CUST8122,DP506,Delivered,Tacos,2,416.24,44,3.90,3.30,
+ZM100651,12/5/2025,10:07:00 PM,A2B - Adyar Ananda Bhavan,Biryani,CUST6343,DP519,Delivered,Chicken Biryani,1,797.77,27,3.70,3.00,
+ZM100442,12/1/2025,7:07:00 PM,Burger King,American,CUST4259,DP795,Delivered,Farmhouse Pizza,1,441.17,42,4.70,4.90,
+ZM100307,12/7/2025,12:03:00 AM,Five Star Chicken,Bakery,CUST4619,DP827,Delivered,Sandwich,1,262.02,40,4.80,4.90,
+ZM100727,11/18/2025,10:13:00 PM,KFC,Mexican,CUST9737,DP932,Delivered,Margherita Pizza,1,473.45,35,4.60,5.00,
+ZM100467,12/3/2025,6:31:00 PM,Onesta,Italian,CUST3627,DP535,Delivered,Noodles,2,544.02,40,4.50,3.60,
+ZM100358,11/19/2025,3:10:00 AM,Taco Bell,Fast Food,CUST8835,DP909,Delivered,Paneer Butter Masala,1,432.61,49,3.50,3.80,
+ZM100818,11/25/2025,1:01:00 AM,McDonald's,Biryani,CUST3102,DP656,Cancelled by Customer,Sandwich,,,,,,Found cheaper elsewhere
+ZM100473,11/27/2025,2:43:00 AM,Tunday Kababi,North Indian,CUST1666,DP875,Delivered,Farmhouse Pizza,4,761.18,23,4.60,3.50,
+ZM100498,11/21/2025,8:54:00 PM,Barbeque Nation,Bakery,CUST9883,DP567,Delivered,Chicken Tikka,2,452.64,39,4.80,3.70,
+ZM100542,11/24/2025,8:20:00 PM,Tunday Kababi,Fast Food,CUST2781,DP850,Delivered,Fried Rice,1,761.18,31,3.60,3.80,
+ZM100847,12/11/2025,8:25:00 PM,Meghana Foods,Bakery,CUST4305,DP975,Cancelled by Customer,Momos,,,,,,Change of mind
+ZM100000,11/22/2025,3:48:00 AM,Empire Restaurant,American,CUST2424,DP802,Delivered,Chicken Tikka,2,228.84,26,4.40,4.80,
+ZM100400,11/27/2025,3:47:00 PM,Tunday Kababi,Fast Food,CUST5597,DP939,Delivered,Momos,3,499.84,26,3.40,4.20,
+ZM100975,12/3/2025,4:29:00 PM,Biriyani Zone,Italian,CUST7449,DP611,Cancelled by Partner,Veg Biryani,,,,,,Personal emergency
+ZM100762,12/10/2025,4:20:00 AM,Five Star Chicken,Italian,CUST5494,DP598,Cancelled by Customer,Fried Rice,,,,,,Found cheaper elsewhere
+ZM100678,11/26/2025,2:51:00 PM,Tunday Kababi,Mexican,CUST5361,DP647,Delivered,Chicken Biryani,2,676.58,32,4.90,4.60,
+ZM100172,11/27/2025,8:23:00 PM,Onesta,American,CUST6992,DP891,Delivered,Fried Rice,1,780.79,47,3.30,3.50,
+ZM100202,11/25/2025,1:24:00 PM,Chianti,Chinese,CUST9920,DP717,Delivered,Tacos,2,771.16,21,5.00,3.90,
+ZM100508,12/7/2025,2:25:00 PM,A2B - Adyar Ananda Bhavan,Biryani,CUST3945,DP898,Delivered,Veg Biryani,2,481.59,48,3.20,4.00,
+ZM100581,12/9/2025,11:21:00 PM,Five Star Chicken,Thai,CUST6496,DP532,Delivered,Paneer Butter Masala,3,772.41,33,4.50,4.20,
+ZM100127,11/18/2025,7:14:00 PM,Five Star Chicken,Mexican,CUST8682,DP726,Delivered,Pasta Alfredo,3,794.11,60,3.60,3.90,
+ZM100893,11/22/2025,9:18:00 PM,Little Italy,South Indian,CUST2404,DP693,Cancelled by Restaurant,Margherita Pizza,,,,,,Item not available
+ZM100117,12/8/2025,7:19:00 PM,Paradise Biryani,South Indian,CUST6585,DP580,Delivered,Paneer Butter Masala,1,191.57,53,3.40,3.80,
+ZM100533,11/23/2025,7:06:00 PM,Chianti,South Indian,CUST5641,DP793,Delivered,Chicken Tikka,3,548.51,37,3.30,4.40,
+ZM100883,11/21/2025,5:01:00 AM,Barbeque Nation,Biryani,CUST3644,DP506,Cancelled by Restaurant,Noodles,,,,,,Kitchen closed
+ZM100323,11/20/2025,9:16:00 PM,Five Star Chicken,Thai,CUST2641,DP973,Delivered,Momos,4,207.76,29,3.30,4.20,
+ZM100281,12/11/2025,4:06:00 PM,Taco Bell,Bakery,CUST7870,DP614,Delivered,Paneer Butter Masala,2,846.30,22,4.10,4.80,
+ZM100519,11/27/2025,11:30:00 PM,Leon Grill,American,CUST3125,DP814,Delivered,Burger Combo,3,322.53,56,5.00,3.70,
+ZM100338,11/20/2025,7:31:00 PM,Beijing Bites,Fast Food,CUST6873,DP759,Delivered,Tacos,2,655.33,60,4.60,4.80,
+ZM100623,12/9/2025,9:27:00 AM,Onesta,South Indian,CUST8799,DP998,Delivered,Noodles,3,573.23,56,3.90,3.50,
+ZM100344,12/11/2025,12:09:00 AM,Tunday Kababi,American,CUST2442,DP566,Delivered,Chicken Tikka,2,569.50,30,4.00,4.50,
+ZM100409,12/7/2025,5:22:00 AM,Taco Bell,Biryani,CUST8889,DP845,Delivered,Tacos,1,635.67,46,4.60,4.40,
+ZM100227,11/18/2025,11:08:00 AM,Empire Restaurant,American,CUST4043,DP848,Delivered,Momos,4,502.67,42,4.10,3.80,
+ZM100372,11/24/2025,4:29:00 PM,Chianti,Chinese,CUST6273,DP758,Delivered,Tacos,2,689.79,28,3.20,4.30,
+ZM100697,12/5/2025,10:06:00 PM,McDonald's,Mexican,CUST5921,DP576,Delivered,Fried Rice,1,346.75,47,3.20,4.60,
+ZM100960,12/1/2025,11:08:00 PM,Burger King,Biryani,CUST7597,DP744,Cancelled by Partner,Sandwich,,,,,,Customer unreachable
+ZM100325,12/7/2025,9:24:00 AM,Paradise Biryani,Chinese,CUST8785,DP971,Delivered,Noodles,4,150.25,41,4.40,3.10,
+ZM100917,11/15/2025,1:14:00 PM,WOW Momo,Fast Food,CUST3069,DP766,Cancelled by Restaurant,Momos,,,,,,Kitchen closed
+ZM100482,12/2/2025,4:28:00 PM,Little Italy,Mexican,CUST7251,DP540,Delivered,Sandwich,1,584.28,39,3.10,4.60,
+ZM100292,12/10/2025,8:28:00 AM,Taco Bell,Bakery,CUST7625,DP937,Delivered,Fried Rice,1,648.20,36,4.60,3.30,
+ZM100253,12/10/2025,7:17:00 PM,Empire Restaurant,Italian,CUST9115,DP781,Delivered,Margherita Pizza,1,334.39,54,3.60,4.60,
+ZM100378,11/28/2025,3:29:00 AM,Leon Grill,Thai,CUST5712,DP854,Delivered,Sandwich,2,699.08,55,3.80,4.00,
+ZM100228,11/24/2025,10:33:00 PM,Paradise Biryani,South Indian,CUST3527,DP878,Delivered,Momos,3,742.48,24,3.20,3.30,
+ZM100245,11/25/2025,5:27:00 AM,WOW Momo,Thai,CUST8080,DP702,Delivered,Burger Combo,4,300.85,45,4.30,3.40,
+ZM100969,11/21/2025,6:10:00 PM,KFC,Bakery,CUST4115,DP966,Cancelled by Partner,Veg Biryani,,,,,,Customer unreachable
+ZM100599,11/28/2025,3:49:00 PM,McDonald's,Bakery,CUST7305,DP957,Delivered,Paneer Butter Masala,3,608.91,60,3.00,4.30,
+ZM100210,11/30/2025,8:17:00 AM,Biriyani Zone,Italian,CUST4120,DP526,Delivered,Farmhouse Pizza,1,839.34,43,3.20,4.40,
+ZM100707,12/9/2025,9:31:00 PM,Koshy’s,Bakery,CUST1606,DP749,Delivered,Sandwich,4,694.92,58,4.50,5.00,
+ZM100350,11/14/2025,9:51:00 PM,Biriyani Zone,Thai,CUST1323,DP524,Delivered,Noodles,1,583.26,23,4.30,4.30,
+ZM100987,12/8/2025,11:44:00 AM,Empire Restaurant,Italian,CUST6605,DP719,Cancelled by Partner,Veg Biryani,,,,,,Customer unreachable
+ZM100233,11/27/2025,2:37:00 AM,Taco Bell,American,CUST1110,DP985,Delivered,Chicken Tikka,4,583.17,32,3.90,3.30,
+ZM100272,11/30/2025,3:50:00 AM,Barbeque Nation,Mexican,CUST3162,DP698,Delivered,Pasta Alfredo,1,532.06,20,5.00,4.90,
+ZM100111,11/28/2025,7:47:00 AM,Koshy’s,Fast Food,CUST5176,DP691,Delivered,Sandwich,4,431.01,26,3.60,3.60,
+ZM100315,11/29/2025,2:59:00 AM,A2B - Adyar Ananda Bhavan,Biryani,CUST2342,DP742,Delivered,Chicken Wings,2,195.65,33,3.30,3.60,
+ZM100266,11/21/2025,3:11:00 PM,Empire Restaurant,North Indian,CUST4751,DP696,Delivered,Tacos,3,757.35,47,4.40,4.00,
+ZM100548,12/8/2025,6:25:00 AM,Burger King,Bakery,CUST3056,DP568,Delivered,Sandwich,3,775.17,29,3.60,4.70,
+ZM100176,11/14/2025,5:35:00 PM,McDonald's,Fast Food,CUST6511,DP759,Delivered,Noodles,3,246.75,59,4.50,3.60,
+ZM100476,12/9/2025,5:41:00 AM,Little Italy,Thai,CUST6772,DP962,Delivered,Burger Combo,3,632.87,54,5.00,3.90,
+ZM100672,12/7/2025,11:50:00 PM,Biriyani Zone,Thai,CUST1448,DP890,Delivered,Chicken Biryani,3,448.28,55,4.50,3.90,
+ZM100477,12/2/2025,6:46:00 PM,WOW Momo,Fast Food,CUST4504,DP692,Delivered,Burger Combo,4,764.40,40,4.20,4.10,
+ZM100107,12/9/2025,2:10:00 AM,Onesta,Mexican,CUST1710,DP872,Delivered,Momos,3,520.33,26,3.90,3.40,
+ZM100241,12/12/2025,3:21:00 AM,Biriyani Zone,Italian,CUST9199,DP577,Delivered,Fried Rice,2,467.71,45,3.90,4.40,
+ZM100602,12/1/2025,5:58:00 AM,Burger King,South Indian,CUST8839,DP877,Delivered,Fried Rice,2,227.96,41,3.50,3.20,
+ZM100050,12/4/2025,2:52:00 PM,Onesta,North Indian,CUST3091,DP818,Delivered,Burger Combo,3,641.72,45,4.40,4.70,
+ZM100650,11/14/2025,9:20:00 PM,WOW Momo,Bakery,CUST5001,DP626,Delivered,Chicken Biryani,4,389.21,42,3.80,3.10,
+ZM100869,11/26/2025,2:40:00 AM,Tunday Kababi,American,CUST4236,DP625,Cancelled by Customer,Paneer Butter Masala,,,,,,Delivery too far
+ZM100299,11/24/2025,5:08:00 PM,WOW Momo,Bakery,CUST5602,DP529,Delivered,Margherita Pizza,2,140.33,58,3.40,4.80,
+ZM100219,11/27/2025,12:32:00 AM,Empire Restaurant,Thai,CUST5697,DP508,Delivered,Fried Rice,4,129.24,53,4.40,4.10,
+ZM100316,11/15/2025,3:56:00 AM,A2B - Adyar Ananda Bhavan,Bakery,CUST4029,DP689,Delivered,Chicken Wings,4,818.00,36,3.20,4.10,
+ZM100528,11/26/2025,10:19:00 AM,Little Italy,South Indian,CUST8907,DP963,Delivered,Farmhouse Pizza,1,726.68,25,3.90,3.00,
+ZM100527,11/15/2025,10:44:00 AM,Meghana Foods,American,CUST5958,DP610,Delivered,Burger Combo,1,507.70,35,3.70,4.70,
+ZM100629,11/25/2025,6:48:00 PM,KFC,Bakery,CUST6104,DP853,Delivered,Chicken Wings,1,210.92,28,4.80,4.00,
+ZM100322,11/19/2025,2:17:00 AM,Truffles,Bakery,CUST1202,DP902,Delivered,Fried Rice,4,550.60,37,4.00,4.80,
+ZM100214,12/1/2025,5:30:00 PM,Onesta,Mexican,CUST7781,DP523,Delivered,Chicken Biryani,4,714.07,40,4.80,3.70,
+ZM100685,12/8/2025,5:02:00 PM,Biriyani Zone,Fast Food,CUST5321,DP764,Delivered,Burger Combo,3,824.18,36,4.20,4.50,
+ZM100838,11/18/2025,11:07:00 AM,Tunday Kababi,Chinese,CUST4397,DP759,Cancelled by Customer,Margherita Pizza,,,,,,Delivery too far
+ZM100041,11/28/2025,3:05:00 PM,Beijing Bites,Thai,CUST6491,DP547,Delivered,Chicken Wings,2,633.90,38,4.00,4.30,
+ZM100833,11/20/2025,10:09:00 AM,Leon Grill,Chinese,CUST5081,DP591,Cancelled by Customer,Burger Combo,,,,,,Delivery too far
+ZM100785,12/1/2025,6:40:00 AM,Beijing Bites,South Indian,CUST4102,DP841,Cancelled by Customer,Farmhouse Pizza,,,,,,Ordered by mistake
+ZM100035,12/3/2025,7:46:00 AM,Barbeque Nation,North Indian,CUST5573,DP679,Delivered,Pasta Alfredo,2,430.80,37,4.70,4.90,
+ZM100417,11/18/2025,1:00:00 PM,Taco Bell,Biryani,CUST2373,DP645,Delivered,Momos,1,451.88,36,4.00,3.50,
+ZM100715,12/11/2025,7:00:00 PM,Biriyani Zone,Chinese,CUST2817,DP999,Delivered,Sandwich,1,671.00,48,4.60,4.90,
+ZM100090,11/21/2025,8:13:00 AM,Onesta,Biryani,CUST8622,DP961,Delivered,Paneer Butter Masala,2,479.70,36,3.90,4.30,
+ZM100129,12/3/2025,2:37:00 AM,Truffles,Biryani,CUST1672,DP730,Delivered,Noodles,4,480.92,55,4.90,4.50,
+ZM100505,12/6/2025,2:15:00 AM,Little Italy,Mexican,CUST1685,DP811,Delivered,Sandwich,4,656.53,49,4.80,3.90,
+ZM100524,11/27/2025,1:12:00 AM,McDonald's,Mexican,CUST7782,DP975,Delivered,Paneer Butter Masala,4,815.81,54,4.80,3.90,
+ZM100538,11/13/2025,10:42:00 PM,WOW Momo,Fast Food,CUST3798,DP644,Delivered,Chicken Wings,4,143.61,50,3.20,4.00,
+ZM100297,11/23/2025,9:03:00 PM,Barbeque Nation,American,CUST3248,DP714,Delivered,Chicken Wings,4,808.57,50,3.10,3.60,
+ZM100027,12/6/2025,5:16:00 PM,Biriyani Zone,Chinese,CUST9900,DP860,Delivered,Farmhouse Pizza,1,805.83,43,3.60,3.90,
+ZM100590,11/24/2025,11:07:00 AM,Koshy’s,Italian,CUST7759,DP945,Delivered,Tacos,3,299.45,27,3.70,3.20,
+ZM100360,11/24/2025,11:09:00 PM,Tunday Kababi,Chinese,CUST3140,DP747,Delivered,Noodles,4,727.75,59,3.10,4.40,
+ZM100499,12/6/2025,10:16:00 PM,McDonald's,Biryani,CUST3215,DP720,Delivered,Fried Rice,2,792.82,39,4.40,4.80,
+ZM100501,12/12/2025,10:52:00 AM,Koshy’s,Bakery,CUST4079,DP554,Delivered,Margherita Pizza,4,701.58,60,4.90,3.50,
+ZM100031,11/19/2025,3:04:00 PM,Burger King,Bakery,CUST3426,DP720,Delivered,Fried Rice,1,207.26,29,4.10,4.70,
+ZM100906,12/8/2025,5:45:00 PM,Chianti,North Indian,CUST9158,DP907,Cancelled by Restaurant,Paneer Butter Masala,,,,,,High demand
+ZM100478,11/18/2025,6:46:00 PM,Biriyani Zone,Fast Food,CUST1267,DP765,Delivered,Chicken Wings,4,868.66,20,4.50,5.00,
+ZM100997,12/2/2025,1:37:00 AM,Meghana Foods,North Indian,CUST6269,DP608,Cancelled by Partner,Veg Biryani,,,,,,Vehicle issue
+ZM100109,11/20/2025,3:08:00 PM,Truffles,South Indian,CUST6327,DP695,Delivered,Farmhouse Pizza,2,171.23,37,4.20,4.20,
+ZM100074,11/27/2025,2:56:00 PM,Truffles,Biryani,CUST1339,DP891,Delivered,Veg Biryani,4,692.94,58,3.50,3.20,
+ZM100601,11/14/2025,11:27:00 AM,Meghana Foods,Thai,CUST1669,DP687,Delivered,Pasta Alfredo,3,812.62,27,3.80,3.90,
+ZM100645,11/23/2025,3:17:00 AM,Truffles,Thai,CUST9270,DP633,Delivered,Momos,4,738.33,32,3.60,4.00,
+ZM100279,11/26/2025,2:10:00 AM,Biriyani Zone,Biryani,CUST3734,DP688,Delivered,Pasta Alfredo,1,507.00,52,3.70,4.00,
+ZM100432,12/1/2025,7:27:00 AM,Five Star Chicken,American,CUST5348,DP605,Delivered,Paneer Butter Masala,2,509.22,32,3.50,3.50,
+ZM100376,11/19/2025,6:13:00 PM,A2B - Adyar Ananda Bhavan,Bakery,CUST1927,DP602,Delivered,Momos,1,527.73,21,3.80,3.10,
+ZM100588,12/7/2025,5:27:00 AM,Meghana Foods,North Indian,CUST8424,DP522,Delivered,Pasta Alfredo,3,342.35,47,3.50,4.20,
+ZM100824,11/25/2025,6:03:00 AM,Leon Grill,Mexican,CUST4058,DP601,Cancelled by Customer,Veg Biryani,,,,,,Change of mind
+ZM100857,11/20/2025,1:15:00 PM,WOW Momo,Chinese,CUST6209,DP935,Cancelled by Customer,Pasta Alfredo,,,,,,Ordered by mistake
+ZM100802,12/2/2025,12:45:00 PM,Onesta,Mexican,CUST5396,DP797,Cancelled by Customer,Chicken Wings,,,,,,Wrong address entered
+ZM100582,12/9/2025,9:20:00 AM,McDonald's,Bakery,CUST3185,DP551,Delivered,Paneer Butter Masala,3,551.66,48,3.50,4.20,
+ZM100861,12/5/2025,9:09:00 PM,Meghana Foods,Chinese,CUST9171,DP651,Cancelled by Customer,Farmhouse Pizza,,,,,,Change of mind
+ZM100162,11/28/2025,11:12:00 PM,Chianti,Fast Food,CUST1907,DP925,Delivered,Paneer Butter Masala,2,718.87,28,3.90,4.80,
+ZM100714,12/10/2025,11:31:00 AM,Koshy’s,South Indian,CUST6820,DP893,Delivered,Noodles,2,214.14,34,4.00,5.00,
+ZM100512,11/15/2025,4:56:00 AM,Little Italy,North Indian,CUST3155,DP991,Delivered,Burger Combo,3,361.42,48,3.60,3.40,
+ZM100395,12/10/2025,10:24:00 AM,Beijing Bites,Fast Food,CUST5140,DP599,Delivered,Chicken Tikka,4,826.39,52,3.30,3.40,
+ZM100784,11/24/2025,10:26:00 PM,Meghana Foods,Italian,CUST1894,DP716,Cancelled by Customer,Fried Rice,,,,,,Ordered by mistake
+ZM100221,11/17/2025,1:32:00 PM,Truffles,Fast Food,CUST2320,DP834,Delivered,Burger Combo,4,560.70,34,3.60,4.70,
+ZM100929,11/17/2025,6:40:00 AM,Empire Restaurant,Fast Food,CUST2670,DP847,Cancelled by Restaurant,Tacos,,,,,,High demand
+ZM100390,12/10/2025,1:51:00 AM,Little Italy,American,CUST8391,DP822,Delivered,Fried Rice,1,568.47,34,4.80,3.80,
+ZM100634,12/10/2025,4:58:00 AM,Biriyani Zone,Biryani,CUST9272,DP791,Delivered,Farmhouse Pizza,3,245.23,52,4.60,4.20,
+ZM100517,11/28/2025,7:45:00 PM,Taco Bell,North Indian,CUST2063,DP649,Delivered,Chicken Biryani,3,371.80,44,4.60,4.50,
+ZM100931,11/27/2025,6:07:00 AM,KFC,Thai,CUST6545,DP803,Cancelled by Restaurant,Pasta Alfredo,,,,,,Item not available
+ZM100716,12/9/2025,8:50:00 PM,Leon Grill,South Indian,CUST6925,DP580,Delivered,Sandwich,1,515.70,30,4.30,4.70,
+ZM100709,12/10/2025,9:08:00 AM,Koshy’s,Mexican,CUST3643,DP647,Delivered,Chicken Biryani,4,605.70,42,3.90,3.90,
+ZM100239,11/30/2025,6:14:00 PM,Chianti,Bakery,CUST2392,DP555,Delivered,Fried Rice,1,736.76,43,4.40,4.60,
+ZM100238,11/27/2025,4:45:00 AM,A2B - Adyar Ananda Bhavan,Italian,CUST8851,DP798,Delivered,Margherita Pizza,2,677.88,44,3.10,5.00,
+ZM100178,12/3/2025,11:29:00 PM,Empire Restaurant,Biryani,CUST8871,DP587,Delivered,Chicken Wings,3,874.32,57,4.20,4.40,
+ZM100424,11/22/2025,5:47:00 PM,A2B - Adyar Ananda Bhavan,Biryani,CUST9489,DP646,Delivered,Veg Biryani,2,619.43,48,3.00,4.70,
+ZM100236,11/24/2025,8:16:00 AM,WOW Momo,Bakery,CUST3947,DP849,Delivered,Margherita Pizza,4,404.71,56,3.40,5.00,
+ZM100674,12/7/2025,8:31:00 AM,Chianti,Chinese,CUST3187,DP633,Delivered,Sandwich,4,738.26,40,3.90,4.70,
+ZM100114,12/3/2025,12:00:00 PM,KFC,Biryani,CUST7022,DP558,Delivered,Fried Rice,2,240.69,50,3.40,3.20,
+ZM100037,12/9/2025,8:21:00 PM,Koshy’s,Fast Food,CUST4114,DP630,Delivered,Tacos,3,460.39,52,3.20,4.80,
+ZM100204,11/17/2025,10:32:00 PM,Koshy’s,Biryani,CUST1797,DP625,Delivered,Momos,1,307.72,24,3.20,3.10,
+ZM100354,12/7/2025,1:20:00 AM,Burger King,Mexican,CUST2809,DP927,Delivered,Chicken Tikka,4,377.87,20,3.00,3.20,
+ZM100081,11/13/2025,9:57:00 AM,Chianti,American,CUST4122,DP971,Delivered,Burger Combo,4,884.59,35,3.90,3.30,
+ZM100993,12/11/2025,9:20:00 AM,McDonald's,Bakery,CUST4270,DP546,Cancelled by Partner,Veg Biryani,,,,,,Vehicle issue
+ZM100520,11/24/2025,4:56:00 PM,Chianti,Mexican,CUST1025,DP560,Delivered,Chicken Wings,2,809.26,34,4.40,5.00,
+ZM100682,12/9/2025,7:00:00 PM,Meghana Foods,North Indian,CUST1745,DP502,Delivered,Farmhouse Pizza,2,487.33,42,5.00,4.90,
+ZM100518,11/27/2025,4:35:00 AM,KFC,American,CUST9666,DP544,Delivered,Farmhouse Pizza,4,529.22,33,4.20,3.20,
+ZM100463,12/12/2025,5:42:00 AM,Biriyani Zone,Biryani,CUST8786,DP852,Delivered,Chicken Biryani,4,735.53,20,4.90,4.20,
+ZM100287,12/4/2025,3:10:00 AM,Meghana Foods,Italian,CUST2565,DP758,Delivered,Sandwich,4,666.66,43,3.90,4.50,
+ZM100125,12/2/2025,7:33:00 AM,WOW Momo,Chinese,CUST3419,DP620,Delivered,Chicken Biryani,1,533.87,32,4.80,3.70,
+ZM100029,12/9/2025,6:53:00 PM,McDonald's,American,CUST9280,DP750,Delivered,Margherita Pizza,2,679.74,33,4.40,4.70,
+ZM100329,11/24/2025,12:59:00 AM,Little Italy,Italian,CUST6904,DP860,Delivered,Sandwich,2,772.84,35,3.10,3.10,
+ZM100347,12/9/2025,1:05:00 PM,Chianti,Biryani,CUST9524,DP805,Delivered,Margherita Pizza,2,170.92,22,3.60,3.60,
+ZM100806,11/28/2025,5:42:00 PM,Barbeque Nation,Biryani,CUST8622,DP762,Cancelled by Customer,Veg Biryani,,,,,,Found cheaper elsewhere
+ZM100134,11/23/2025,2:53:00 AM,A2B - Adyar Ananda Bhavan,Thai,CUST9331,DP685,Delivered,Burger Combo,3,754.28,53,3.20,4.30,
+ZM100230,12/7/2025,2:42:00 PM,Tunday Kababi,Thai,CUST6315,DP942,Delivered,Fried Rice,4,200.57,25,3.70,3.20,
+ZM100259,12/8/2025,10:59:00 AM,Barbeque Nation,Bakery,CUST2237,DP824,Delivered,Chicken Wings,2,570.39,37,4.30,3.80,
+ZM100890,12/3/2025,2:42:00 PM,Little Italy,Fast Food,CUST3200,DP601,Cancelled by Restaurant,Paneer Butter Masala,,,,,,Item not available
+ZM100970,11/16/2025,12:14:00 AM,Koshy’s,Thai,CUST6653,DP625,Cancelled by Partner,Tacos,,,,,,Customer unreachable
+ZM100191,12/7/2025,12:28:00 AM,WOW Momo,American,CUST9442,DP667,Delivered,Noodles,2,256.89,60,4.80,4.70,
+ZM100375,12/1/2025,10:57:00 PM,McDonald's,Chinese,CUST7839,DP845,Delivered,Fried Rice,3,674.08,42,4.10,4.20,
+ZM100643,11/26/2025,9:31:00 AM,McDonald's,Mexican,CUST1486,DP550,Delivered,Chicken Biryani,1,315.54,51,3.50,4.90,
+ZM100816,11/17/2025,6:51:00 PM,Tunday Kababi,Fast Food,CUST2406,DP660,Cancelled by Customer,Momos,,,,,,Delivery too far
+ZM100187,11/25/2025,5:23:00 AM,Koshy’s,Mexican,CUST2465,DP833,Delivered,Chicken Wings,2,709.61,38,3.60,4.30,
+ZM100812,12/3/2025,11:19:00 PM,Beijing Bites,Biryani,CUST9898,DP967,Cancelled by Customer,Paneer Butter Masala,,,,,,Found cheaper elsewhere
+ZM100451,11/22/2025,9:49:00 PM,Burger King,American,CUST5256,DP579,Delivered,Farmhouse Pizza,4,540.94,25,3.90,3.70,
+ZM100765,12/9/2025,11:12:00 PM,Tunday Kababi,Mexican,CUST9474,DP888,Cancelled by Customer,Farmhouse Pizza,,,,,,Wrong address entered
+ZM100209,11/15/2025,7:41:00 AM,A2B - Adyar Ananda Bhavan,Chinese,CUST9683,DP568,Delivered,Momos,4,833.50,55,3.80,3.80,
+ZM100205,11/19/2025,1:30:00 AM,Paradise Biryani,Mexican,CUST4836,DP917,Delivered,Chicken Tikka,2,708.42,23,3.30,5.00,
+ZM100719,11/22/2025,10:41:00 PM,Barbeque Nation,Chinese,CUST7706,DP959,Delivered,Momos,4,734.03,28,4.60,3.80,
+ZM100368,11/21/2025,12:24:00 PM,Tunday Kababi,South Indian,CUST5783,DP780,Delivered,Chicken Biryani,2,121.71,42,4.70,4.90,
+ZM100397,11/19/2025,7:49:00 PM,Onesta,Fast Food,CUST4170,DP662,Delivered,Farmhouse Pizza,2,643.61,35,3.20,4.20,
+ZM100712,11/27/2025,4:24:00 AM,Little Italy,Italian,CUST4845,DP607,Delivered,Paneer Butter Masala,4,198.70,46,4.90,4.00,
+ZM100474,12/10/2025,10:22:00 AM,Truffles,Italian,CUST9621,DP836,Delivered,Fried Rice,1,198.96,34,4.10,3.40,
+ZM100063,11/25/2025,6:07:00 PM,Taco Bell,Bakery,CUST2976,DP869,Delivered,Tacos,3,394.41,49,3.50,3.50,
+ZM100967,12/11/2025,2:53:00 AM,A2B - Adyar Ananda Bhavan,Thai,CUST1175,DP992,Cancelled by Partner,Chicken Wings,,,,,,Customer unreachable
+ZM100795,11/17/2025,12:42:00 PM,Chianti,Biryani,CUST2071,DP560,Cancelled by Customer,Burger Combo,,,,,,Ordered by mistake
+ZM100226,11/19/2025,4:46:00 AM,Truffles,Thai,CUST7499,DP996,Delivered,Tacos,3,161.88,47,3.50,3.20,
+ZM100131,12/10/2025,5:13:00 PM,Little Italy,North Indian,CUST7108,DP969,Delivered,Chicken Tikka,4,892.97,53,4.00,3.30,
+ZM100242,12/1/2025,12:50:00 AM,Onesta,South Indian,CUST3321,DP678,Delivered,Margherita Pizza,4,838.03,25,3.20,4.90,
+ZM100913,12/2/2025,12:52:00 PM,Paradise Biryani,Thai,CUST8159,DP913,Cancelled by Restaurant,Sandwich,,,,,,High demand
+ZM100610,11/28/2025,5:40:00 AM,Leon Grill,Chinese,CUST3514,DP582,Delivered,Tacos,3,262.18,31,4.70,4.40,
+ZM100363,12/1/2025,10:39:00 PM,Paradise Biryani,Chinese,CUST9123,DP945,Delivered,Sandwich,1,129.08,30,4.00,3.90,
+ZM100091,12/3/2025,11:07:00 PM,Burger King,Chinese,CUST5097,DP733,Delivered,Chicken Biryani,4,857.28,57,3.60,4.90,
+ZM100036,11/22/2025,5:23:00 PM,Paradise Biryani,Thai,CUST5349,DP519,Delivered,Farmhouse Pizza,1,209.97,36,3.40,4.90,
+ZM100761,11/19/2025,7:18:00 PM,Five Star Chicken,Chinese,CUST3101,DP881,Cancelled by Customer,Chicken Biryani,,,,,,Wrong address entered
+ZM100774,12/3/2025,8:50:00 PM,Truffles,South Indian,CUST1914,DP786,Cancelled by Customer,Pasta Alfredo,,,,,,Delivery too far
+ZM100706,11/27/2025,4:05:00 PM,Empire Restaurant,Mexican,CUST6469,DP504,Delivered,Noodles,2,277.04,56,4.70,3.80,
+ZM100295,12/8/2025,3:08:00 AM,WOW Momo,South Indian,CUST9128,DP515,Delivered,Veg Biryani,4,159.50,56,3.90,4.40,
+ZM100554,11/22/2025,6:24:00 PM,Five Star Chicken,American,CUST9399,DP963,Delivered,Noodles,1,824.80,54,4.60,3.90,
+ZM100034,11/13/2025,2:03:00 PM,Barbeque Nation,American,CUST8541,DP679,Delivered,Paneer Butter Masala,1,418.38,22,4.70,3.40,
+ZM100514,12/6/2025,8:05:00 PM,Onesta,Mexican,CUST5556,DP817,Delivered,Burger Combo,4,181.94,58,3.00,4.80,
+ZM100791,11/28/2025,6:38:00 AM,Taco Bell,North Indian,CUST4262,DP601,Cancelled by Customer,Veg Biryani,,,,,,Wrong address entered
+ZM100966,12/10/2025,9:39:00 PM,Truffles,Italian,CUST3705,DP794,Cancelled by Partner,Chicken Biryani,,,,,,Vehicle issue
+ZM100529,11/26/2025,5:15:00 AM,Beijing Bites,Fast Food,CUST9456,DP846,Delivered,Chicken Wings,3,724.92,29,4.50,3.20,
+ZM100531,11/28/2025,1:34:00 AM,KFC,Thai,CUST4285,DP598,Delivered,Momos,3,137.53,39,4.30,3.40,
+ZM100048,11/25/2025,3:54:00 PM,Koshy’s,North Indian,CUST7232,DP744,Delivered,Chicken Tikka,4,423.79,57,4.90,3.00,
+ZM100255,12/9/2025,10:18:00 PM,Barbeque Nation,American,CUST2923,DP897,Delivered,Sandwich,1,470.79,42,4.70,3.20,
+ZM100804,11/15/2025,8:00:00 AM,Beijing Bites,American,CUST7178,DP792,Cancelled by Customer,Burger Combo,,,,,,Delivery too far
+ZM100915,12/2/2025,8:12:00 PM,KFC,Biryani,CUST3087,DP936,Cancelled by Restaurant,Farmhouse Pizza,,,,,,Item not available
+ZM100464,11/23/2025,5:17:00 AM,Taco Bell,South Indian,CUST1983,DP530,Delivered,Chicken Tikka,2,509.94,59,3.70,4.90,
+ZM100756,11/18/2025,11:47:00 PM,KFC,Mexican,CUST4161,DP727,Cancelled by Customer,Farmhouse Pizza,,,,,,Change of mind
+ZM100007,12/2/2025,1:54:00 AM,Barbeque Nation,North Indian,CUST6155,DP608,Delivered,Momos,3,432.91,24,3.40,4.90,
+ZM100895,11/27/2025,10:57:00 PM,Empire Restaurant,North Indian,CUST1118,DP840,Cancelled by Restaurant,Margherita Pizza,,,,,,Item not available
+ZM100927,12/2/2025,7:48:00 PM,A2B - Adyar Ananda Bhavan,Mexican,CUST3681,DP795,Cancelled by Restaurant,Pasta Alfredo,,,,,,Item not available
+ZM100321,12/6/2025,4:18:00 AM,Meghana Foods,Bakery,CUST6238,DP966,Delivered,Chicken Biryani,4,277.50,60,3.30,4.20,
+ZM100290,12/9/2025,5:36:00 AM,Tunday Kababi,Mexican,CUST6051,DP737,Delivered,Farmhouse Pizza,4,214.17,42,4.90,3.40,
+ZM100560,11/30/2025,8:07:00 AM,Tunday Kababi,Chinese,CUST3745,DP737,Delivered,Chicken Tikka,3,162.37,36,4.50,3.20,
+ZM100038,12/11/2025,2:53:00 PM,Empire Restaurant,Thai,CUST6143,DP839,Delivered,Momos,2,404.09,24,4.90,4.80,
+ZM100868,12/6/2025,4:17:00 AM,Little Italy,Biryani,CUST4348,DP620,Cancelled by Customer,Fried Rice,,,,,,Change of mind
+ZM100312,12/2/2025,5:48:00 AM,Paradise Biryani,Chinese,CUST8909,DP860,Delivered,Tacos,1,546.70,25,3.70,5.00,
+ZM100854,12/10/2025,10:27:00 PM,Leon Grill,Fast Food,CUST2103,DP953,Cancelled by Customer,Veg Biryani,,,,,,Found cheaper elsewhere
+ZM100495,12/7/2025,6:47:00 AM,Chianti,Mexican,CUST3572,DP509,Delivered,Fried Rice,1,151.01,53,3.60,4.00,
+ZM100198,11/14/2025,5:25:00 PM,Tunday Kababi,North Indian,CUST6049,DP870,Delivered,Chicken Wings,2,520.33,49,4.10,4.10,
+ZM100800,11/27/2025,10:38:00 PM,Truffles,Chinese,CUST7358,DP884,Cancelled by Customer,Fried Rice,,,,,,Wrong address entered
+ZM100821,11/17/2025,1:05:00 AM,McDonald's,Fast Food,CUST7404,DP695,Cancelled by Customer,Noodles,,,,,,Ordered by mistake
+ZM100020,11/25/2025,3:18:00 PM,McDonald's,Bakery,CUST2604,DP525,Delivered,Paneer Butter Masala,3,480.85,24,3.90,4.70,
+ZM100220,11/26/2025,11:49:00 PM,Koshy’s,Chinese,CUST6807,DP636,Delivered,Chicken Biryani,1,529.02,35,3.40,4.10,
+ZM100319,11/30/2025,5:50:00 PM,Koshy’s,Thai,CUST1568,DP757,Delivered,Pasta Alfredo,4,566.72,35,4.00,3.20,
+ZM100769,12/3/2025,2:08:00 AM,Empire Restaurant,Mexican,CUST1393,DP803,Cancelled by Customer,Burger Combo,,,,,,Change of mind
+ZM100772,12/9/2025,9:20:00 PM,Five Star Chicken,South Indian,CUST1994,DP969,Cancelled by Customer,Chicken Biryani,,,,,,Delivery too far
+ZM100681,12/12/2025,4:00:00 PM,McDonald's,Fast Food,CUST5198,DP537,Delivered,Tacos,4,655.74,44,4.40,4.50,
+ZM100067,12/7/2025,1:45:00 AM,Biriyani Zone,Mexican,CUST3485,DP576,Delivered,Chicken Biryani,1,432.55,24,4.20,4.40,
+ZM100402,11/24/2025,7:15:00 AM,Meghana Foods,Thai,CUST5767,DP568,Delivered,Margherita Pizza,4,630.05,29,3.70,3.40,
+ZM100580,11/16/2025,3:37:00 AM,KFC,Mexican,CUST7586,DP666,Delivered,Noodles,2,169.23,32,3.90,4.60,
+ZM100174,11/23/2025,11:13:00 PM,Leon Grill,South Indian,CUST3363,DP601,Delivered,Paneer Butter Masala,1,427.24,41,4.10,3.70,
+ZM100416,11/18/2025,11:09:00 PM,Koshy’s,Thai,CUST8899,DP904,Delivered,Burger Combo,3,802.36,53,3.90,4.90,
+ZM100267,12/10/2025,3:29:00 AM,KFC,Fast Food,CUST2120,DP771,Delivered,Farmhouse Pizza,3,226.96,28,4.30,4.40,
+ZM100333,12/12/2025,11:17:00 PM,Empire Restaurant,Mexican,CUST6004,DP864,Delivered,Paneer Butter Masala,2,588.89,20,3.40,4.20,
+ZM100311,11/15/2025,7:43:00 PM,Barbeque Nation,Chinese,CUST2715,DP537,Delivered,Chicken Wings,1,743.37,22,3.60,3.60,
+ZM100373,11/14/2025,1:07:00 PM,Koshy’s,Biryani,CUST3185,DP570,Delivered,Tacos,2,333.40,41,4.90,3.90,
+ZM100534,12/5/2025,5:50:00 AM,Truffles,American,CUST1826,DP554,Delivered,Noodles,3,541.65,23,3.30,3.90,
+ZM100458,11/27/2025,7:24:00 AM,WOW Momo,Bakery,CUST2314,DP931,Delivered,Margherita Pizza,4,898.41,49,4.40,3.10,
+ZM100430,12/9/2025,8:48:00 AM,Truffles,Bakery,CUST6785,DP764,Delivered,Pasta Alfredo,2,647.99,34,4.60,3.80,
+ZM100624,11/20/2025,4:04:00 AM,Taco Bell,Thai,CUST8553,DP949,Delivered,Tacos,1,779.32,30,4.20,3.30,
+ZM100609,12/8/2025,10:27:00 AM,Little Italy,American,CUST6785,DP645,Delivered,Chicken Tikka,4,410.08,38,4.50,3.10,
+ZM100072,12/4/2025,9:20:00 PM,Five Star Chicken,Italian,CUST2169,DP530,Delivered,Burger Combo,1,544.76,29,4.80,4.70,
+ZM100334,11/20/2025,9:56:00 PM,Biriyani Zone,Bakery,CUST7506,DP799,Delivered,Burger Combo,3,478.02,33,3.90,4.40,
+ZM100348,11/26/2025,11:31:00 AM,Koshy’s,Chinese,CUST7609,DP509,Delivered,Farmhouse Pizza,4,400.22,32,3.30,4.80,
+ZM100441,12/9/2025,11:34:00 PM,Little Italy,North Indian,CUST5256,DP684,Delivered,Chicken Tikka,3,491.70,60,3.20,4.50,
+ZM100110,11/23/2025,6:06:00 PM,A2B - Adyar Ananda Bhavan,Mexican,CUST4522,DP720,Delivered,Fried Rice,4,197.36,27,4.70,4.30,
+ZM100842,11/25/2025,10:25:00 PM,Tunday Kababi,Chinese,CUST5573,DP930,Cancelled by Customer,Chicken Wings,,,,,,Ordered by mistake
+ZM100367,11/26/2025,7:11:00 PM,Beijing Bites,Mexican,CUST8751,DP866,Delivered,Farmhouse Pizza,3,763.74,34,4.70,3.70,
+ZM100607,12/8/2025,4:10:00 PM,Taco Bell,Bakery,CUST9513,DP830,Delivered,Chicken Wings,1,347.38,24,3.00,4.60,
+ZM100553,11/18/2025,9:32:00 AM,Tunday Kababi,Thai,CUST2279,DP850,Delivered,Chicken Biryani,1,311.28,60,4.50,4.90,
+ZM100855,12/6/2025,2:01:00 PM,Leon Grill,Mexican,CUST9784,DP905,Cancelled by Customer,Chicken Biryani,,,,,,Found cheaper elsewhere
+ZM100786,11/27/2025,11:42:00 PM,Leon Grill,Fast Food,CUST6499,DP815,Cancelled by Customer,Sandwich,,,,,,Delivery too far
+ZM100349,12/5/2025,7:39:00 AM,McDonald's,Italian,CUST1612,DP692,Delivered,Tacos,1,579.96,30,3.20,4.40,
+ZM100077,11/21/2025,1:40:00 PM,Burger King,North Indian,CUST9431,DP922,Delivered,Chicken Wings,1,365.32,40,3.20,4.50,
+ZM100082,11/23/2025,5:20:00 PM,McDonald's,South Indian,CUST5891,DP928,Delivered,Margherita Pizza,4,385.10,52,3.50,3.00,
+ZM100635,12/10/2025,3:22:00 AM,Five Star Chicken,North Indian,CUST1070,DP998,Delivered,Fried Rice,2,678.33,38,3.30,4.50,
+ZM100019,11/29/2025,2:01:00 PM,Tunday Kababi,North Indian,CUST4139,DP597,Delivered,Pasta Alfredo,1,167.28,41,4.60,3.20,
+ZM100637,11/16/2025,12:06:00 PM,Paradise Biryani,Bakery,CUST3226,DP753,Delivered,Chicken Tikka,2,437.91,40,3.20,3.20,
+ZM100244,12/3/2025,1:31:00 AM,KFC,North Indian,CUST9454,DP589,Delivered,Sandwich,3,625.42,30,4.90,4.50,
+ZM100964,11/28/2025,12:04:00 PM,Chianti,American,CUST8008,DP766,Cancelled by Partner,Margherita Pizza,,,,,,Personal emergency
+ZM100903,11/22/2025,10:59:00 AM,Taco Bell,North Indian,CUST6333,DP847,Cancelled by Restaurant,Momos,,,,,,Item not available
+ZM100300,11/17/2025,4:06:00 PM,Chianti,Fast Food,CUST9743,DP917,Delivered,Momos,2,879.70,26,3.50,3.50,
+ZM100957,12/5/2025,12:55:00 PM,KFC,Chinese,CUST6022,DP801,Cancelled by Partner,Fried Rice,,,,,,Vehicle issue
+ZM100897,11/23/2025,5:45:00 PM,Onesta,Mexican,CUST6521,DP809,Cancelled by Restaurant,Momos,,,,,,Kitchen closed
+ZM100396,12/9/2025,6:11:00 AM,Five Star Chicken,North Indian,CUST2608,DP601,Delivered,Sandwich,4,622.85,24,3.60,3.10,
+ZM100413,12/8/2025,7:53:00 PM,Little Italy,Biryani,CUST2127,DP617,Delivered,Pasta Alfredo,3,250.82,41,4.80,4.20,
+ZM100783,11/27/2025,10:32:00 AM,WOW Momo,American,CUST1132,DP765,Cancelled by Customer,Farmhouse Pizza,,,,,,Wrong address entered
+ZM100051,11/25/2025,12:55:00 AM,Paradise Biryani,Biryani,CUST1823,DP633,Delivered,Noodles,1,185.48,47,3.30,3.90,
+ZM100257,12/6/2025,7:03:00 AM,Meghana Foods,Biryani,CUST5740,DP793,Delivered,Farmhouse Pizza,3,585.55,30,3.60,4.40,
+ZM100379,11/21/2025,1:36:00 AM,Paradise Biryani,Bakery,CUST8259,DP924,Delivered,Burger Combo,3,873.35,23,3.00,3.50,
+ZM100980,12/9/2025,4:38:00 PM,McDonald's,American,CUST8711,DP702,Cancelled by Partner,Chicken Tikka,,,,,,Vehicle issue
+ZM100896,11/24/2025,1:25:00 AM,Beijing Bites,Thai,CUST1118,DP692,Cancelled by Restaurant,Momos,,,,,,Item not available
+ZM100049,12/12/2025,12:00:00 PM,A2B - Adyar Ananda Bhavan,Bakery,CUST8999,DP612,Delivered,Sandwich,4,539.81,54,4.60,4.80,
+ZM100611,12/5/2025,3:59:00 AM,Meghana Foods,Fast Food,CUST1568,DP840,Delivered,Noodles,2,463.89,43,3.40,4.10,
+ZM100359,11/29/2025,10:08:00 PM,Little Italy,South Indian,CUST8908,DP910,Delivered,Paneer Butter Masala,1,885.62,30,3.20,4.80,
+ZM100066,12/11/2025,6:53:00 PM,A2B - Adyar Ananda Bhavan,Chinese,CUST8216,DP674,Delivered,Pasta Alfredo,4,200.02,20,4.10,3.90,
+ZM100462,12/4/2025,4:25:00 PM,A2B - Adyar Ananda Bhavan,Italian,CUST8113,DP666,Delivered,Farmhouse Pizza,1,793.65,33,4.90,3.50,
+ZM100596,12/11/2025,1:22:00 AM,Onesta,Thai,CUST2605,DP731,Delivered,Veg Biryani,4,534.27,50,4.60,4.40,
+ZM100200,11/13/2025,2:21:00 AM,Onesta,North Indian,CUST7887,DP691,Delivered,Margherita Pizza,4,260.39,28,4.50,5.00,
+ZM100461,11/21/2025,7:06:00 AM,Onesta,Bakery,CUST9534,DP562,Delivered,Pasta Alfredo,3,850.25,30,4.30,3.10,
+ZM100874,11/13/2025,10:14:00 AM,Burger King,Chinese,CUST3878,DP631,Cancelled by Restaurant,Fried Rice,,,,,,High demand
+ZM100627,11/15/2025,11:22:00 PM,A2B - Adyar Ananda Bhavan,American,CUST3243,DP765,Delivered,Pasta Alfredo,3,194.75,57,3.70,3.30,
+ZM100256,11/17/2025,8:05:00 AM,Beijing Bites,Biryani,CUST3281,DP901,Delivered,Tacos,3,791.62,59,4.30,3.30,
+ZM100203,11/25/2025,12:56:00 PM,Barbeque Nation,Italian,CUST2848,DP516,Delivered,Chicken Wings,3,240.99,32,4.90,4.50,
+ZM100923,11/16/2025,7:11:00 AM,Barbeque Nation,North Indian,CUST3933,DP938,Cancelled by Restaurant,Sandwich,,,,,,High demand
+ZM100384,11/25/2025,6:19:00 PM,Paradise Biryani,South Indian,CUST9691,DP743,Delivered,Farmhouse Pizza,2,809.05,41,3.70,3.60,
+ZM100666,11/19/2025,8:03:00 AM,Koshy’s,Italian,CUST1916,DP751,Delivered,Paneer Butter Masala,1,256.62,37,3.90,3.50,
+ZM100004,12/9/2025,12:55:00 PM,Truffles,Thai,CUST5741,DP540,Delivered,Margherita Pizza,3,570.33,24,3.10,3.50,
+ZM100484,11/18/2025,9:34:00 PM,Paradise Biryani,North Indian,CUST4617,DP578,Delivered,Margherita Pizza,1,369.07,56,3.30,4.00,
+ZM100047,11/14/2025,6:26:00 PM,Truffles,Chinese,CUST7678,DP669,Delivered,Paneer Butter Masala,2,418.77,29,4.40,3.10,
+ZM100567,11/18/2025,10:06:00 PM,Five Star Chicken,Chinese,CUST8429,DP972,Delivered,Chicken Biryani,2,317.60,49,4.30,3.20,
+ZM100693,11/23/2025,1:01:00 PM,Truffles,Bakery,CUST3669,DP698,Delivered,Margherita Pizza,2,307.26,45,3.20,4.70,
+ZM100023,12/6/2025,1:59:00 AM,Five Star Chicken,Thai,CUST9701,DP580,Delivered,Veg Biryani,3,164.59,57,4.00,4.80,
+ZM100247,12/9/2025,6:19:00 PM,Little Italy,Fast Food,CUST6134,DP805,Delivered,Farmhouse Pizza,2,476.89,36,4.30,4.00,
+ZM100789,11/27/2025,11:18:00 AM,Beijing Bites,Bakery,CUST1110,DP685,Cancelled by Customer,Paneer Butter Masala,,,,,,Delivery too far
+ZM100677,11/30/2025,9:05:00 PM,Koshy’s,Biryani,CUST1231,DP867,Delivered,Margherita Pizza,2,189.47,43,3.30,4.10,
+ZM100918,11/21/2025,8:32:00 PM,Barbeque Nation,South Indian,CUST1150,DP775,Cancelled by Restaurant,Burger Combo,,,,,,High demand
+ZM100289,11/17/2025,1:24:00 PM,WOW Momo,Fast Food,CUST2785,DP579,Delivered,Chicken Wings,3,302.22,32,3.30,4.50,
+ZM100291,12/4/2025,4:05:00 AM,Truffles,Chinese,CUST6370,DP575,Delivered,Momos,3,764.58,58,3.10,4.70,
+ZM100043,11/29/2025,9:29:00 PM,Five Star Chicken,Italian,CUST2746,DP898,Delivered,Tacos,4,505.61,35,3.30,4.40,
+ZM100137,11/16/2025,11:38:00 PM,Leon Grill,Chinese,CUST8277,DP812,Delivered,Tacos,4,154.08,43,4.40,3.50,
+ZM100971,11/19/2025,10:34:00 PM,Leon Grill,North Indian,CUST8350,DP993,Cancelled by Partner,Noodles,,,,,,Customer unreachable
+ZM100815,11/30/2025,7:46:00 AM,Beijing Bites,Mexican,CUST9451,DP800,Cancelled by Customer,Chicken Tikka,,,,,,Ordered by mistake
+ZM100475,12/5/2025,7:27:00 PM,Little Italy,Thai,CUST7997,DP952,Delivered,Tacos,4,701.96,60,4.20,4.30,
+ZM100628,12/3/2025,12:43:00 PM,Onesta,Bakery,CUST9612,DP933,Delivered,Farmhouse Pizza,2,199.89,29,4.00,4.70,
+ZM100103,12/5/2025,12:22:00 PM,KFC,Fast Food,CUST8450,DP546,Delivered,Fried Rice,3,167.23,37,3.40,3.20,
+ZM100982,11/28/2025,10:24:00 PM,Little Italy,Chinese,CUST8110,DP502,Cancelled by Partner,Farmhouse Pizza,,,,,,Personal emergency
+ZM100096,11/17/2025,6:24:00 PM,Taco Bell,Thai,CUST5835,DP882,Delivered,Fried Rice,3,767.77,36,4.80,4.90,
+ZM100878,11/30/2025,12:44:00 PM,Onesta,American,CUST2167,DP709,Cancelled by Restaurant,Pasta Alfredo,,,,,,Kitchen closed
+ZM100535,11/30/2025,1:50:00 AM,Truffles,Bakery,CUST8304,DP815,Delivered,Burger Combo,2,669.65,57,4.30,4.40,
+ZM100387,11/17/2025,5:21:00 PM,Tunday Kababi,Mexican,CUST2572,DP585,Delivered,Veg Biryani,3,820.66,32,3.60,3.20,
+ZM100005,11/15/2025,7:56:00 AM,KFC,Bakery,CUST5374,DP859,Delivered,Margherita Pizza,4,615.83,43,3.30,3.70,
+ZM100305,12/9/2025,5:57:00 PM,Taco Bell,South Indian,CUST3580,DP874,Delivered,Farmhouse Pizza,4,577.09,41,3.60,3.30,
+ZM100570,12/8/2025,6:27:00 PM,Koshy’s,Italian,CUST5105,DP897,Delivered,Noodles,1,831.84,36,3.20,3.10,
+ZM100033,11/25/2025,1:52:00 PM,Leon Grill,Chinese,CUST6442,DP900,Delivered,Chicken Tikka,2,881.44,31,4.80,3.00,
+ZM100054,12/12/2025,8:26:00 AM,Beijing Bites,North Indian,CUST4571,DP738,Delivered,Noodles,2,306.07,50,4.30,4.10,
+ZM100653,11/30/2025,11:00:00 AM,Five Star Chicken,South Indian,CUST6563,DP585,Delivered,Momos,4,198.04,33,3.70,4.00,
+ZM100083,11/24/2025,7:47:00 PM,Onesta,Chinese,CUST6272,DP945,Delivered,Chicken Wings,4,389.20,55,4.50,3.80,
+ZM100942,11/25/2025,3:15:00 PM,KFC,North Indian,CUST4378,DP834,Cancelled by Restaurant,Paneer Butter Masala,,,,,,Kitchen closed
+ZM100122,11/25/2025,10:48:00 PM,Taco Bell,South Indian,CUST8033,DP793,Delivered,Burger Combo,1,460.25,49,4.80,4.70,
+ZM100014,12/11/2025,8:13:00 AM,Five Star Chicken,South Indian,CUST8787,DP984,Delivered,Chicken Biryani,4,756.50,54,4.50,3.30,
+ZM100171,11/27/2025,10:31:00 AM,Onesta,North Indian,CUST1828,DP644,Delivered,Chicken Biryani,4,514.25,35,3.40,3.70,
+ZM100530,12/8/2025,7:00:00 AM,Meghana Foods,Mexican,CUST2426,DP670,Delivered,Burger Combo,1,123.21,22,4.40,4.20,
+ZM100398,11/27/2025,3:22:00 PM,WOW Momo,Biryani,CUST6182,DP990,Delivered,Pasta Alfredo,3,660.90,29,4.10,3.70,
+ZM100658,12/12/2025,9:25:00 PM,Chianti,Chinese,CUST8106,DP978,Delivered,Noodles,4,286.10,49,3.50,4.30,
+ZM100661,11/23/2025,8:03:00 AM,Paradise Biryani,Italian,CUST8952,DP786,Delivered,Chicken Biryani,2,269.69,35,4.60,3.60,
+ZM100039,11/15/2025,4:15:00 AM,A2B - Adyar Ananda Bhavan,Thai,CUST7211,DP846,Delivered,Margherita Pizza,4,374.42,38,4.10,3.40,
+ZM100053,11/16/2025,2:47:00 AM,Onesta,North Indian,CUST1659,DP886,Delivered,Tacos,1,899.93,42,3.40,3.10,
+ZM100652,11/28/2025,10:27:00 PM,Koshy’s,Biryani,CUST7188,DP792,Delivered,Fried Rice,4,327.96,50,4.20,5.00,
+ZM100138,12/3/2025,3:19:00 PM,Barbeque Nation,Thai,CUST8218,DP736,Delivered,Chicken Tikka,3,873.17,50,4.80,3.40,
+ZM100099,11/30/2025,9:47:00 PM,Taco Bell,South Indian,CUST4626,DP831,Delivered,Pasta Alfredo,2,487.75,59,4.80,4.10,
+ZM100217,12/8/2025,6:39:00 PM,Onesta,Chinese,CUST1104,DP711,Delivered,Fried Rice,1,528.68,24,4.90,4.30,
+ZM100331,11/28/2025,6:03:00 AM,Onesta,Biryani,CUST5670,DP514,Delivered,Fried Rice,3,388.51,36,4.50,4.40,
+ZM100190,11/25/2025,5:53:00 PM,Onesta,Chinese,CUST5215,DP867,Delivered,Sandwich,4,332.81,27,3.70,4.50,
+ZM100411,11/26/2025,1:20:00 AM,Five Star Chicken,Chinese,CUST1305,DP949,Delivered,Veg Biryani,2,321.44,31,4.00,3.80,
+ZM100792,12/3/2025,5:56:00 AM,Biriyani Zone,Chinese,CUST5029,DP591,Cancelled by Customer,Farmhouse Pizza,,,,,,Ordered by mistake
+ZM100168,12/2/2025,8:42:00 PM,McDonald's,Fast Food,CUST7070,DP763,Delivered,Sandwich,3,692.68,42,5.00,3.30,
+ZM100389,12/9/2025,7:01:00 AM,Burger King,Bakery,CUST1620,DP544,Delivered,Pasta Alfredo,1,702.57,29,3.00,4.40,
+ZM100414,11/30/2025,1:09:00 PM,McDonald's,South Indian,CUST2577,DP590,Delivered,Veg Biryani,2,527.71,52,4.40,4.70,
+ZM100320,11/24/2025,5:38:00 PM,Five Star Chicken,Biryani,CUST4471,DP913,Delivered,Paneer Butter Masala,1,860.42,48,3.30,5.00,
+ZM100568,12/4/2025,2:34:00 PM,WOW Momo,American,CUST1984,DP632,Delivered,Paneer Butter Masala,1,336.28,23,3.80,3.70,
+ZM100479,12/8/2025,10:18:00 AM,Empire Restaurant,American,CUST5521,DP970,Delivered,Chicken Tikka,2,787.46,21,4.50,4.90,
+ZM100079,12/11/2025,6:56:00 AM,Biriyani Zone,Thai,CUST4920,DP863,Delivered,Paneer Butter Masala,3,461.73,51,3.20,4.90,
+ZM100884,12/9/2025,3:09:00 AM,Paradise Biryani,Bakery,CUST2316,DP765,Cancelled by Restaurant,Tacos,,,,,,High demand
+ZM100401,11/16/2025,4:46:00 AM,Burger King,Italian,CUST7637,DP893,Delivered,Margherita Pizza,1,687.39,21,4.70,4.30,
+ZM100988,11/23/2025,12:16:00 AM,Onesta,American,CUST8961,DP542,Cancelled by Partner,Margherita Pizza,,,,,,Personal emergency
+ZM100910,11/13/2025,11:08:00 AM,Biriyani Zone,Italian,CUST5220,DP840,Cancelled by Restaurant,Tacos,,,,,,Kitchen closed
+ZM100888,11/19/2025,7:09:00 AM,Paradise Biryani,American,CUST3759,DP917,Cancelled by Restaurant,Veg Biryani,,,,,,High demand
+ZM100216,11/25/2025,10:20:00 PM,WOW Momo,American,CUST6770,DP586,Delivered,Momos,4,873.88,51,3.90,4.50,
+ZM100128,11/22/2025,10:20:00 AM,Biriyani Zone,Biryani,CUST7041,DP925,Delivered,Veg Biryani,3,515.72,39,3.90,3.10,
+ZM100899,12/1/2025,10:42:00 PM,Paradise Biryani,Biryani,CUST6833,DP947,Cancelled by Restaurant,Veg Biryani,,,,,,Kitchen closed
+ZM100094,11/17/2025,12:01:00 PM,Barbeque Nation,Italian,CUST1645,DP658,Delivered,Noodles,3,648.66,28,4.30,4.80,
+ZM100886,11/25/2025,10:28:00 PM,Five Star Chicken,American,CUST7743,DP885,Cancelled by Restaurant,Tacos,,,,,,Kitchen closed
+ZM100160,11/27/2025,12:53:00 AM,Taco Bell,Thai,CUST2077,DP658,Delivered,Noodles,3,484.58,55,3.30,4.80,
+ZM100921,12/2/2025,10:32:00 AM,KFC,American,CUST8836,DP823,Cancelled by Restaurant,Sandwich,,,,,,High demand
+ZM100692,11/23/2025,3:27:00 PM,WOW Momo,Biryani,CUST2158,DP780,Delivered,Paneer Butter Masala,2,793.36,38,3.60,3.10,
+ZM100313,12/12/2025,2:43:00 PM,Little Italy,Biryani,CUST9849,DP635,Delivered,Burger Combo,2,161.77,41,3.40,3.40,
+ZM100513,12/6/2025,12:07:00 AM,Leon Grill,American,CUST9084,DP621,Delivered,Veg Biryani,4,508.15,51,4.10,3.00,
+ZM100264,11/22/2025,10:18:00 AM,Little Italy,American,CUST1848,DP702,Delivered,Chicken Biryani,3,315.30,43,4.30,4.30,
+ZM100753,11/14/2025,12:19:00 AM,Koshy’s,Thai,CUST9011,DP890,Cancelled by Customer,Tacos,,,,,,Ordered by mistake
+ZM100433,12/5/2025,6:55:00 AM,Barbeque Nation,Biryani,CUST9071,DP814,Delivered,Farmhouse Pizza,2,727.57,27,4.80,4.40,
+ZM100405,12/10/2025,9:01:00 AM,Taco Bell,Italian,CUST1760,DP520,Delivered,Veg Biryani,2,523.95,43,3.80,4.80,
+ZM100011,11/19/2025,3:54:00 AM,Burger King,American,CUST5315,DP997,Delivered,Momos,3,207.01,47,3.30,3.00,
+ZM100164,12/10/2025,8:33:00 AM,Beijing Bites,Thai,CUST3762,DP803,Delivered,Margherita Pizza,2,607.52,59,4.10,4.00,
+ZM100936,12/9/2025,4:41:00 PM,Chianti,Italian,CUST8856,DP640,Cancelled by Restaurant,Veg Biryani,,,,,,High demand
+ZM100177,11/16/2025,5:23:00 PM,Burger King,Mexican,CUST7824,DP798,Delivered,Tacos,3,490.42,21,3.70,4.30,
+ZM100032,12/8/2025,1:25:00 AM,A2B - Adyar Ananda Bhavan,Fast Food,CUST6794,DP899,Delivered,Momos,1,821.16,33,4.40,4.30,
+ZM100604,12/1/2025,3:26:00 PM,Onesta,Thai,CUST5788,DP731,Delivered,Fried Rice,1,486.73,54,4.40,4.10,
+ZM100998,12/3/2025,4:06:00 PM,Leon Grill,South Indian,CUST4028,DP629,Cancelled by Partner,Burger Combo,,,,,,Personal emergency
+ZM100113,12/11/2025,8:01:00 PM,Burger King,Thai,CUST5712,DP807,Delivered,Farmhouse Pizza,1,440.43,47,4.70,4.40,
+ZM100656,12/10/2025,7:20:00 PM,Chianti,Mexican,CUST5913,DP721,Delivered,Burger Combo,2,390.91,24,4.30,3.60,
+ZM100941,11/16/2025,10:14:00 PM,Beijing Bites,South Indian,CUST3948,DP502,Cancelled by Restaurant,Paneer Butter Masala,,,,,,Item not available
+ZM100718,11/29/2025,12:13:00 AM,Barbeque Nation,Mexican,CUST7799,DP684,Delivered,Farmhouse Pizza,3,513.92,25,3.50,4.40,
+ZM100345,11/23/2025,2:48:00 PM,Koshy’s,Bakery,CUST1230,DP956,Delivered,Burger Combo,4,418.99,22,4.10,4.50,
+ZM100421,12/3/2025,7:43:00 PM,Taco Bell,Bakery,CUST3650,DP551,Delivered,Tacos,2,786.90,27,4.50,3.90,
+ZM100865,12/5/2025,7:01:00 AM,Meghana Foods,Italian,CUST4644,DP811,Cancelled by Customer,Momos,,,,,,Wrong address entered
+ZM100306,11/29/2025,9:49:00 PM,Onesta,Fast Food,CUST5825,DP565,Delivered,Paneer Butter Masala,3,294.13,57,4.60,3.80,
+ZM100540,11/28/2025,1:40:00 PM,Five Star Chicken,Bakery,CUST8063,DP901,Delivered,Chicken Tikka,2,547.40,50,3.80,3.70,
+ZM100143,11/16/2025,4:44:00 AM,Onesta,Mexican,CUST9991,DP981,Delivered,Noodles,1,826.57,21,3.50,4.70,
+ZM100481,11/24/2025,8:31:00 AM,Barbeque Nation,American,CUST2264,DP870,Delivered,Momos,3,191.69,45,4.10,3.40,
+ZM100631,11/15/2025,11:41:00 PM,McDonald's,Italian,CUST2830,DP539,Delivered,Margherita Pizza,2,283.68,25,3.80,4.50,
+ZM100871,11/22/2025,6:52:00 AM,Onesta,South Indian,CUST7524,DP693,Cancelled by Restaurant,Farmhouse Pizza,,,,,,Kitchen closed
+ZM100426,12/4/2025,1:38:00 PM,Taco Bell,Bakery,CUST6703,DP677,Delivered,Burger Combo,2,523.84,24,4.80,4.10,
+ZM100745,11/28/2025,6:52:00 PM,Koshy’s,South Indian,CUST2663,DP626,Delivered,Chicken Wings,1,437.85,34,4.80,3.00,
+ZM100801,11/14/2025,10:01:00 PM,Taco Bell,Mexican,CUST8606,DP591,Cancelled by Customer,Fried Rice,,,,,,Wrong address entered
+ZM100250,11/29/2025,8:21:00 PM,McDonald's,Biryani,CUST3838,DP784,Delivered,Burger Combo,4,264.89,60,4.10,4.80,
+ZM100080,12/7/2025,10:36:00 AM,Burger King,North Indian,CUST3522,DP755,Delivered,Fried Rice,4,192.70,27,3.90,3.20,
+ZM100144,11/19/2025,8:46:00 PM,Chianti,Bakery,CUST8489,DP532,Delivered,Chicken Biryani,3,305.36,27,3.10,3.80,
+ZM100930,11/17/2025,5:02:00 AM,Koshy’s,Chinese,CUST2573,DP682,Cancelled by Restaurant,Veg Biryani,,,,,,Kitchen closed
+ZM100646,11/25/2025,11:43:00 AM,Burger King,Thai,CUST7165,DP726,Delivered,Veg Biryani,1,892.76,27,3.80,3.60,
+ZM100030,12/4/2025,1:44:00 AM,Truffles,Bakery,CUST5291,DP582,Delivered,Sandwich,3,154.39,41,4.50,4.30,
+ZM100161,11/30/2025,4:20:00 PM,Chianti,Bakery,CUST2215,DP730,Delivered,Momos,4,762.20,24,3.30,3.60,
+ZM100488,11/21/2025,7:39:00 PM,Truffles,South Indian,CUST1396,DP894,Delivered,Pasta Alfredo,4,450.36,42,3.40,3.70,
+ZM100075,11/21/2025,9:11:00 AM,Five Star Chicken,North Indian,CUST8141,DP825,Delivered,Momos,2,486.99,48,4.80,3.40,
+ZM100726,12/4/2025,8:14:00 AM,A2B - Adyar Ananda Bhavan,Bakery,CUST3028,DP524,Delivered,Fried Rice,1,690.95,43,3.50,4.00,
+ZM100055,11/20/2025,8:44:00 AM,Taco Bell,Chinese,CUST1420,DP975,Delivered,Noodles,1,726.68,30,4.90,3.20,
+ZM100985,11/29/2025,4:41:00 PM,Onesta,Chinese,CUST7551,DP756,Cancelled by Partner,Farmhouse Pizza,,,,,,Customer unreachable
+ZM100827,11/13/2025,2:01:00 PM,Little Italy,South Indian,CUST9789,DP714,Cancelled by Customer,Paneer Butter Masala,,,,,,Delivery too far
+ZM100026,12/8/2025,10:55:00 PM,A2B - Adyar Ananda Bhavan,Mexican,CUST2200,DP775,Delivered,Farmhouse Pizza,1,127.27,59,5.00,5.00,
+ZM100953,12/7/2025,2:19:00 PM,WOW Momo,Bakery,CUST1424,DP993,Cancelled by Partner,Burger Combo,,,,,,Vehicle issue
+ZM100731,11/29/2025,3:01:00 PM,Onesta,Bakery,CUST9408,DP941,Delivered,Sandwich,2,232.59,28,4.00,3.90,
+ZM100926,11/19/2025,9:39:00 AM,Beijing Bites,Thai,CUST2594,DP567,Cancelled by Restaurant,Burger Combo,,,,,,Kitchen closed
+ZM100887,11/14/2025,3:02:00 AM,Five Star Chicken,Fast Food,CUST3338,DP637,Cancelled by Restaurant,Sandwich,,,,,,Item not available
+ZM100711,11/14/2025,10:00:00 AM,Paradise Biryani,Bakery,CUST2412,DP841,Delivered,Sandwich,3,740.86,30,4.20,3.60,
+ZM100679,11/19/2025,4:52:00 PM,Paradise Biryani,Chinese,CUST3955,DP709,Delivered,Burger Combo,2,588.06,38,4.50,3.40,
+ZM100844,11/25/2025,1:20:00 PM,Truffles,North Indian,CUST5476,DP578,Cancelled by Customer,Pasta Alfredo,,,,,,Ordered by mistake
+ZM100248,11/30/2025,8:51:00 PM,Paradise Biryani,Biryani,CUST5873,DP970,Delivered,Chicken Biryani,3,394.55,49,4.20,4.60,
+ZM100879,11/14/2025,1:19:00 AM,Paradise Biryani,Biryani,CUST4182,DP890,Cancelled by Restaurant,Paneer Butter Masala,,,,,,Item not available
+ZM100811,12/1/2025,1:18:00 AM,Beijing Bites,Fast Food,CUST6394,DP628,Cancelled by Customer,Chicken Tikka,,,,,,Wrong address entered
+ZM100147,11/15/2025,4:02:00 PM,Meghana Foods,Bakery,CUST2698,DP895,Delivered,Farmhouse Pizza,3,702.91,42,4.60,3.70,
+ZM100471,11/16/2025,4:25:00 AM,Little Italy,North Indian,CUST7366,DP836,Delivered,Chicken Tikka,1,498.59,26,3.10,4.30,
+ZM100826,11/28/2025,1:57:00 AM,Chianti,North Indian,CUST6353,DP940,Cancelled by Customer,Paneer Butter Masala,,,,,,Found cheaper elsewhere
+ZM100962,12/8/2025,4:52:00 AM,Five Star Chicken,American,CUST7064,DP862,Cancelled by Partner,Veg Biryani,,,,,,Personal emergency
+ZM100687,12/6/2025,5:04:00 AM,Meghana Foods,Italian,CUST9108,DP520,Delivered,Paneer Butter Masala,1,486.79,30,4.40,3.90,
+ZM100357,12/9/2025,3:14:00 AM,Meghana Foods,North Indian,CUST5395,DP949,Delivered,Sandwich,2,637.42,30,3.70,4.80,
+ZM100061,11/17/2025,8:49:00 AM,WOW Momo,American,CUST7658,DP750,Delivered,Noodles,3,553.52,53,4.90,3.20,
+ZM100680,11/17/2025,4:58:00 AM,Empire Restaurant,American,CUST8506,DP543,Delivered,Margherita Pizza,2,601.79,35,3.70,4.40,
+ZM100992,11/24/2025,9:28:00 PM,McDonald's,Italian,CUST3167,DP705,Cancelled by Partner,Chicken Biryani,,,,,,Customer unreachable
+ZM100952,11/20/2025,10:02:00 PM,Taco Bell,Biryani,CUST9379,DP809,Cancelled by Partner,Pasta Alfredo,,,,,,Vehicle issue
+ZM100571,11/28/2025,12:38:00 AM,Onesta,Chinese,CUST7411,DP794,Delivered,Pasta Alfredo,1,847.66,44,3.50,4.40,
+ZM100371,11/14/2025,3:22:00 PM,Tunday Kababi,Biryani,CUST8091,DP929,Delivered,Fried Rice,2,871.81,20,4.10,3.10,
+ZM100017,12/5/2025,12:14:00 AM,Truffles,North Indian,CUST8953,DP609,Delivered,Chicken Tikka,1,826.23,41,3.10,3.50,
+ZM100793,12/6/2025,12:44:00 AM,Biriyani Zone,South Indian,CUST3248,DP694,Cancelled by Customer,Veg Biryani,,,,,,Ordered by mistake
+ZM100648,11/18/2025,3:44:00 AM,Five Star Chicken,Mexican,CUST9105,DP802,Delivered,Pasta Alfredo,4,491.21,30,4.00,3.80,
+ZM100991,11/27/2025,3:31:00 AM,Chianti,Biryani,CUST4091,DP937,Cancelled by Partner,Paneer Butter Masala,,,,,,Customer unreachable
+ZM100240,11/18/2025,8:28:00 AM,Taco Bell,Chinese,CUST8052,DP554,Delivered,Pasta Alfredo,1,559.31,45,4.90,3.70,
+ZM100978,12/12/2025,11:56:00 AM,Little Italy,Bakery,CUST1145,DP551,Cancelled by Partner,Farmhouse Pizza,,,,,,Customer unreachable
+ZM100820,11/21/2025,1:46:00 PM,A2B - Adyar Ananda Bhavan,Fast Food,CUST1380,DP790,Cancelled by Customer,Noodles,,,,,,Wrong address entered
+ZM100638,11/18/2025,12:19:00 PM,A2B - Adyar Ananda Bhavan,Thai,CUST6111,DP851,Delivered,Tacos,1,184.15,51,3.20,3.60,
+ZM100819,11/19/2025,12:19:00 AM,Taco Bell,Fast Food,CUST7867,DP717,Cancelled by Customer,Chicken Tikka,,,,,,Delivery too far
+ZM100431,11/25/2025,12:19:00 AM,Biriyani Zone,Italian,CUST8807,DP660,Delivered,Margherita Pizza,1,431.17,41,3.20,4.90,
+ZM100594,11/25/2025,7:50:00 AM,Truffles,Bakery,CUST5573,DP507,Delivered,Sandwich,4,792.52,33,4.20,4.70,
+ZM100733,12/9/2025,12:36:00 PM,Five Star Chicken,American,CUST8961,DP514,Delivered,Veg Biryani,2,211.84,39,5.00,3.60,
+ZM100684,12/7/2025,5:11:00 PM,Onesta,Fast Food,CUST6132,DP522,Delivered,Chicken Wings,2,189.93,53,3.90,3.50,
+ZM100235,12/2/2025,8:35:00 PM,Beijing Bites,Mexican,CUST9044,DP995,Delivered,Farmhouse Pizza,2,872.37,40,3.60,4.40,
+ZM100549,12/12/2025,2:26:00 AM,Empire Restaurant,Chinese,CUST7813,DP940,Delivered,Tacos,4,633.18,28,3.20,4.30,
+ZM100900,12/2/2025,3:25:00 AM,Tunday Kababi,Bakery,CUST3275,DP513,Cancelled by Restaurant,Tacos,,,,,,Item not available
+ZM100504,12/7/2025,6:35:00 AM,Barbeque Nation,North Indian,CUST4323,DP887,Delivered,Burger Combo,1,841.84,46,3.40,4.30,
+ZM100858,11/21/2025,4:27:00 PM,WOW Momo,North Indian,CUST8354,DP695,Cancelled by Customer,Noodles,,,,,,Change of mind
+ZM100551,12/7/2025,2:29:00 PM,Leon Grill,North Indian,CUST9948,DP795,Delivered,Noodles,4,780.51,35,4.40,3.50,
+ZM100509,11/24/2025,11:45:00 PM,Burger King,Chinese,CUST4308,DP951,Delivered,Burger Combo,4,372.30,21,3.40,4.20,
+ZM100832,11/28/2025,7:39:00 PM,Truffles,American,CUST8476,DP677,Cancelled by Customer,Pasta Alfredo,,,,,,Change of mind
+ZM100943,12/7/2025,2:59:00 AM,Biriyani Zone,North Indian,CUST3043,DP759,Cancelled by Restaurant,Chicken Biryani,,,,,,High demand
+ZM100392,11/15/2025,2:28:00 AM,Taco Bell,Thai,CUST8170,DP695,Delivered,Chicken Biryani,3,733.78,39,4.20,3.60,
+ZM100754,11/30/2025,6:22:00 PM,Truffles,Thai,CUST8293,DP844,Cancelled by Customer,Veg Biryani,,,,,,Change of mind
+ZM100141,11/29/2025,3:07:00 AM,Barbeque Nation,Mexican,CUST2337,DP691,Delivered,Farmhouse Pizza,1,443.62,45,4.00,3.50,
+ZM100977,12/1/2025,12:12:00 AM,Tunday Kababi,Fast Food,CUST6798,DP554,Cancelled by Partner,Margherita Pizza,,,,,,Customer unreachable
+ZM100972,12/7/2025,11:01:00 PM,Barbeque Nation,Chinese,CUST7013,DP929,Cancelled by Partner,Chicken Biryani,,,,,,Customer unreachable
+ZM100423,11/13/2025,8:29:00 PM,Koshy’s,South Indian,CUST7564,DP814,Delivered,Chicken Biryani,3,292.98,25,4.20,4.40,
+ZM100492,11/18/2025,8:49:00 AM,Burger King,Mexican,CUST9631,DP522,Delivered,Noodles,2,662.16,21,3.80,4.80,
+ZM100434,12/12/2025,6:28:00 PM,Meghana Foods,Mexican,CUST9374,DP643,Delivered,Farmhouse Pizza,3,504.03,56,4.70,4.00,
+ZM100902,11/21/2025,10:29:00 PM,Chianti,Bakery,CUST4079,DP501,Cancelled by Restaurant,Pasta Alfredo,,,,,,Kitchen closed
+ZM100326,12/4/2025,12:42:00 PM,Empire Restaurant,Fast Food,CUST4734,DP568,Delivered,Sandwich,3,362.54,51,4.70,4.40,
+ZM100688,11/28/2025,12:10:00 PM,Burger King,Mexican,CUST5654,DP592,Delivered,Chicken Wings,4,207.74,29,3.20,3.20,
+ZM100690,12/10/2025,8:24:00 AM,Onesta,South Indian,CUST2737,DP928,Delivered,Farmhouse Pizza,1,341.74,27,3.80,4.20,
+ZM100186,11/14/2025,6:07:00 PM,Barbeque Nation,Italian,CUST1084,DP993,Delivered,Veg Biryani,1,442.38,50,3.20,4.50,
+ZM100945,12/3/2025,1:34:00 AM,A2B - Adyar Ananda Bhavan,Thai,CUST3291,DP795,Cancelled by Restaurant,Chicken Wings,,,,,,High demand
+ZM100330,12/6/2025,9:21:00 AM,Taco Bell,Mexican,CUST9008,DP804,Delivered,Fried Rice,4,615.62,27,4.40,3.50,
+ZM100092,11/15/2025,10:18:00 AM,Beijing Bites,Bakery,CUST5837,DP511,Delivered,Sandwich,4,203.19,44,4.10,4.10,
+ZM100148,11/24/2025,11:20:00 AM,McDonald's,North Indian,CUST8840,DP823,Delivered,Farmhouse Pizza,3,754.54,31,4.70,4.40,
+ZM100285,11/14/2025,6:39:00 PM,Barbeque Nation,Chinese,CUST1157,DP986,Delivered,Veg Biryani,4,138.65,54,3.70,4.70,
+ZM100691,12/2/2025,5:14:00 AM,Empire Restaurant,South Indian,CUST1718,DP835,Delivered,Chicken Wings,4,474.16,37,4.20,3.00,
+ZM100591,12/6/2025,12:49:00 PM,Barbeque Nation,South Indian,CUST8454,DP591,Delivered,Chicken Wings,4,162.38,47,3.30,4.90,
+ZM100683,12/4/2025,5:13:00 PM,Leon Grill,Bakery,CUST3938,DP633,Delivered,Margherita Pizza,4,643.58,28,4.90,4.10,
+ZM100068,11/17/2025,7:12:00 PM,A2B - Adyar Ananda Bhavan,South Indian,CUST4697,DP897,Delivered,Chicken Tikka,1,555.30,46,4.20,4.60,
+ZM100489,12/3/2025,5:46:00 AM,Taco Bell,Biryani,CUST4271,DP850,Delivered,Sandwich,4,606.08,48,3.10,4.60,
+ZM100457,11/25/2025,12:45:00 AM,Little Italy,South Indian,CUST3468,DP507,Delivered,Margherita Pizza,3,217.53,48,4.50,3.50,
+ZM100889,11/27/2025,12:03:00 AM,Truffles,Bakery,CUST7829,DP835,Cancelled by Restaurant,Fried Rice,,,,,,Item not available
+ZM100781,11/17/2025,1:30:00 AM,McDonald's,American,CUST8140,DP762,Cancelled by Customer,Noodles,,,,,,Change of mind
+ZM100327,12/3/2025,3:07:00 PM,WOW Momo,American,CUST7671,DP879,Delivered,Tacos,4,591.88,25,3.40,3.40,
+ZM100689,11/16/2025,5:44:00 AM,Chianti,American,CUST7822,DP971,Delivered,Noodles,2,575.17,20,4.10,4.10,
+ZM100152,11/17/2025,2:49:00 AM,Koshy’s,South Indian,CUST5843,DP656,Delivered,Burger Combo,2,545.47,40,3.20,3.70,
+ZM100002,12/5/2025,3:19:00 PM,Five Star Chicken,American,CUST3547,DP610,Delivered,Momos,1,711.87,30,4.40,3.70,
+ZM100675,12/7/2025,11:27:00 PM,Five Star Chicken,Fast Food,CUST7182,DP983,Delivered,Momos,3,274.96,46,3.70,3.80,
+ZM100271,11/26/2025,8:42:00 PM,Chianti,Italian,CUST4921,DP753,Delivered,Tacos,4,350.52,23,4.60,4.60,
+ZM100782,11/22/2025,12:12:00 PM,Five Star Chicken,Thai,CUST3385,DP575,Cancelled by Customer,Momos,,,,,,Found cheaper elsewhere
+ZM100511,11/26/2025,1:06:00 PM,Chianti,Biryani,CUST3459,DP583,Delivered,Paneer Butter Masala,4,549.27,22,4.50,4.80,
+ZM100277,11/19/2025,10:27:00 PM,Little Italy,South Indian,CUST9474,DP900,Delivered,Veg Biryani,2,667.17,30,4.00,3.70,
+ZM100106,11/21/2025,12:52:00 AM,McDonald's,North Indian,CUST7897,DP769,Delivered,Farmhouse Pizza,2,579.31,21,3.30,3.10,
+ZM100356,12/4/2025,3:50:00 PM,Meghana Foods,South Indian,CUST7979,DP878,Delivered,Sandwich,2,801.83,38,3.70,4.40,
+ZM100686,12/2/2025,2:52:00 PM,Little Italy,Fast Food,CUST8208,DP527,Delivered,Tacos,4,715.67,29,4.10,4.80,
+ZM100639,11/16/2025,3:09:00 PM,Barbeque Nation,Thai,CUST8793,DP980,Delivered,Burger Combo,3,888.27,47,3.40,3.10,
+ZM100954,11/23/2025,8:26:00 AM,Biriyani Zone,South Indian,CUST2802,DP850,Cancelled by Partner,Fried Rice,,,,,,Vehicle issue
+ZM100153,11/28/2025,8:34:00 PM,Koshy’s,Chinese,CUST8126,DP640,Delivered,Tacos,4,394.21,22,4.50,4.80,
+ZM100435,11/30/2025,7:34:00 AM,Five Star Chicken,Chinese,CUST3863,DP734,Delivered,Veg Biryani,4,493.09,54,3.10,3.70,
+ZM100937,11/20/2025,3:13:00 AM,Little Italy,Bakery,CUST8105,DP652,Cancelled by Restaurant,Chicken Wings,,,,,,High demand
+ZM100729,12/6/2025,12:19:00 PM,Tunday Kababi,South Indian,CUST3130,DP743,Delivered,Paneer Butter Masala,4,766.18,25,3.20,3.80,
+ZM100342,12/6/2025,5:04:00 PM,KFC,Bakery,CUST7704,DP791,Delivered,Fried Rice,3,442.22,29,3.30,3.40,
+ZM100543,11/16/2025,8:21:00 PM,Paradise Biryani,Fast Food,CUST1003,DP887,Delivered,Chicken Wings,1,190.62,28,4.80,4.80,
+ZM100438,11/29/2025,11:55:00 PM,Taco Bell,Fast Food,CUST4744,DP916,Delivered,Sandwich,4,338.11,31,4.10,5.00,
+ZM100182,11/27/2025,6:33:00 AM,Barbeque Nation,American,CUST9011,DP662,Delivered,Fried Rice,3,295.40,39,4.50,4.40,
+ZM100154,11/22/2025,1:57:00 AM,Truffles,Bakery,CUST8179,DP517,Delivered,Farmhouse Pizza,2,863.18,29,4.70,4.40,
+ZM100965,11/20/2025,7:48:00 AM,Truffles,American,CUST6123,DP932,Cancelled by Partner,Burger Combo,,,,,,Personal emergency
+ZM100736,11/30/2025,4:13:00 PM,Leon Grill,Chinese,CUST3440,DP943,Delivered,Momos,2,513.72,49,4.50,4.30,
+ZM100086,11/26/2025,3:35:00 PM,Empire Restaurant,Chinese,CUST2315,DP936,Delivered,Burger Combo,2,178.37,36,3.70,4.40,
+ZM100994,11/15/2025,1:44:00 AM,Koshy’s,Thai,CUST4791,DP613,Cancelled by Partner,Margherita Pizza,,,,,,Personal emergency
+ZM100862,12/6/2025,5:10:00 AM,Beijing Bites,North Indian,CUST8270,DP878,Cancelled by Customer,Chicken Tikka,,,,,,Delivery too far
+ZM100341,11/24/2025,10:02:00 AM,Tunday Kababi,South Indian,CUST8736,DP955,Delivered,Chicken Wings,1,795.79,57,4.20,4.20,
+ZM100630,12/1/2025,4:44:00 AM,Tunday Kababi,Biryani,CUST4643,DP565,Delivered,Fried Rice,3,254.32,39,3.10,4.60,
+ZM100078,12/12/2025,10:26:00 PM,Burger King,Mexican,CUST8242,DP889,Delivered,Burger Combo,1,266.31,43,4.20,4.00,
+ZM100365,11/16/2025,8:01:00 AM,Truffles,Mexican,CUST9148,DP881,Delivered,Chicken Wings,4,188.66,51,3.90,3.20,
+ZM100767,12/12/2025,1:22:00 PM,WOW Momo,South Indian,CUST1415,DP877,Cancelled by Customer,Noodles,,,,,,Ordered by mistake
+ZM100104,11/21/2025,7:14:00 AM,Leon Grill,North Indian,CUST4394,DP800,Delivered,Veg Biryani,3,309.98,28,4.60,3.40,
+ZM100694,11/18/2025,1:44:00 PM,A2B - Adyar Ananda Bhavan,Chinese,CUST3151,DP683,Delivered,Chicken Biryani,3,502.86,47,4.50,4.80,
+ZM100808,11/17/2025,4:58:00 PM,Biriyani Zone,Bakery,CUST3942,DP726,Cancelled by Customer,Veg Biryani,,,,,,Found cheaper elsewhere
+ZM100173,11/30/2025,12:29:00 PM,Meghana Foods,Bakery,CUST5582,DP922,Delivered,Veg Biryani,2,402.77,38,3.10,4.00,
+ZM100503,12/10/2025,11:29:00 PM,Onesta,Chinese,CUST8763,DP570,Delivered,Fried Rice,4,675.37,43,3.40,3.80,
+ZM100115,11/18/2025,9:30:00 AM,Five Star Chicken,Italian,CUST1430,DP811,Delivered,Momos,4,779.22,59,4.20,4.30,
+ZM100749,12/7/2025,6:13:00 PM,Five Star Chicken,South Indian,CUST5578,DP949,Delivered,Margherita Pizza,1,428.34,27,4.70,4.50,
+ZM100231,11/30/2025,12:25:00 AM,A2B - Adyar Ananda Bhavan,Bakery,CUST9537,DP586,Delivered,Burger Combo,1,685.38,55,4.80,5.00,
+ZM100293,11/28/2025,6:58:00 PM,Burger King,Italian,CUST4641,DP566,Delivered,Chicken Biryani,4,199.49,28,3.20,3.10,
+ZM100671,12/11/2025,9:21:00 AM,Truffles,Mexican,CUST2644,DP922,Delivered,Chicken Wings,4,842.67,41,4.40,4.80,
+ZM100361,11/13/2025,4:39:00 PM,KFC,Bakery,CUST9598,DP892,Delivered,Chicken Wings,1,169.40,40,3.00,4.70,
+ZM100150,11/30/2025,6:32:00 PM,Onesta,American,CUST3039,DP909,Delivered,Veg Biryani,2,343.17,23,4.70,3.70,
+ZM100394,11/22/2025,4:55:00 AM,A2B - Adyar Ananda Bhavan,Fast Food,CUST9970,DP984,Delivered,Veg Biryani,2,216.12,20,4.10,3.80,
+ZM100437,11/15/2025,8:51:00 AM,Little Italy,Thai,CUST7945,DP607,Delivered,Margherita Pizza,2,330.14,59,3.70,3.40,
+ZM100232,11/21/2025,12:59:00 PM,Little Italy,Chinese,CUST7899,DP653,Delivered,Margherita Pizza,3,329.36,29,3.10,3.90,
+ZM100024,12/11/2025,5:20:00 PM,Truffles,Chinese,CUST5033,DP796,Delivered,Chicken Biryani,1,646.67,35,3.80,4.90,
+ZM100860,12/12/2025,9:02:00 PM,A2B - Adyar Ananda Bhavan,Italian,CUST8020,DP887,Cancelled by Customer,Tacos,,,,,,Change of mind
+ZM100841,11/13/2025,4:39:00 AM,Tunday Kababi,Mexican,CUST2117,DP542,Cancelled by Customer,Chicken Wings,,,,,,Found cheaper elsewhere
+ZM100145,12/9/2025,5:03:00 PM,Leon Grill,Thai,CUST4941,DP792,Delivered,Veg Biryani,2,680.46,38,3.90,4.20,
+ZM100425,12/6/2025,1:08:00 AM,Leon Grill,Thai,CUST3579,DP544,Delivered,Fried Rice,2,599.85,22,3.70,4.30,
+ZM100523,12/2/2025,11:39:00 AM,Paradise Biryani,Biryani,CUST8849,DP969,Delivered,Noodles,1,768.99,32,3.70,3.70,
+ZM100702,11/25/2025,12:36:00 AM,Empire Restaurant,Bakery,CUST8974,DP655,Delivered,Chicken Biryani,1,253.95,50,3.90,3.80,
+ZM100935,11/22/2025,10:17:00 PM,Taco Bell,North Indian,CUST2910,DP542,Cancelled by Restaurant,Chicken Biryani,,,,,,Kitchen closed
+ZM100557,11/27/2025,2:48:00 AM,McDonald's,Thai,CUST1232,DP879,Delivered,Chicken Biryani,3,316.60,59,3.60,4.70,
+ZM100105,12/6/2025,7:57:00 AM,WOW Momo,Chinese,CUST3858,DP556,Delivered,Momos,1,336.27,29,5.00,4.10,
+ZM100045,11/23/2025,10:49:00 AM,Tunday Kababi,Biryani,CUST8777,DP730,Delivered,Sandwich,4,767.84,55,3.90,3.30,
+ZM100740,12/12/2025,9:23:00 AM,Beijing Bites,Italian,CUST1737,DP751,Delivered,Sandwich,4,186.03,54,4.20,3.80,
+ZM100126,12/9/2025,4:59:00 AM,Biriyani Zone,Italian,CUST9095,DP737,Delivered,Paneer Butter Masala,2,712.97,24,3.40,4.50,
+ZM100907,12/10/2025,10:17:00 AM,Burger King,Mexican,CUST8311,DP988,Cancelled by Restaurant,Paneer Butter Masala,,,,,,High demand
+ZM100730,12/6/2025,3:13:00 PM,Truffles,Fast Food,CUST9172,DP825,Delivered,Pasta Alfredo,4,578.83,53,4.60,4.70,
+ZM100273,11/15/2025,7:24:00 PM,Koshy’s,Fast Food,CUST5295,DP610,Delivered,Fried Rice,2,714.93,24,3.00,3.10,
+ZM100708,11/30/2025,4:35:00 PM,Chianti,Biryani,CUST6174,DP783,Delivered,Tacos,4,300.89,23,4.10,3.80,
+ZM100556,11/17/2025,7:14:00 PM,Biriyani Zone,North Indian,CUST1447,DP646,Delivered,Pasta Alfredo,4,570.95,56,3.10,5.00,
+ZM100057,11/21/2025,8:29:00 PM,KFC,Biryani,CUST6590,DP506,Delivered,Momos,1,390.82,47,4.30,3.10,
+ZM100249,11/23/2025,8:08:00 PM,Truffles,Chinese,CUST9369,DP698,Delivered,Farmhouse Pizza,1,306.09,27,3.40,4.40,
+ZM100158,12/9/2025,4:37:00 AM,Truffles,Mexican,CUST9882,DP648,Delivered,Paneer Butter Masala,4,897.86,40,4.30,4.40,
+ZM100780,12/1/2025,2:22:00 PM,Leon Grill,Mexican,CUST4983,DP570,Cancelled by Customer,Paneer Butter Masala,,,,,,Delivery too far
+ZM100995,12/2/2025,2:32:00 PM,Meghana Foods,Thai,CUST1846,DP655,Cancelled by Partner,Burger Combo,,,,,,Personal emergency
+ZM100314,11/21/2025,9:36:00 AM,A2B - Adyar Ananda Bhavan,Italian,CUST6911,DP501,Delivered,Chicken Biryani,1,426.46,55,4.70,3.30,
+ZM100167,12/3/2025,4:29:00 PM,Barbeque Nation,Bakery,CUST8609,DP604,Delivered,Margherita Pizza,4,176.92,23,3.30,3.80,
+ZM100454,11/29/2025,7:08:00 PM,Koshy’s,Bakery,CUST2297,DP716,Delivered,Chicken Tikka,2,677.65,44,4.70,3.40,
+ZM100576,11/19/2025,8:14:00 PM,Barbeque Nation,Mexican,CUST8361,DP994,Delivered,Burger Combo,1,738.34,39,4.00,4.90,
+ZM100491,12/2/2025,11:40:00 PM,KFC,American,CUST9952,DP767,Delivered,Chicken Wings,4,137.74,33,4.50,3.40,
+ZM100142,12/5/2025,12:57:00 AM,WOW Momo,South Indian,CUST8740,DP856,Delivered,Sandwich,3,737.28,28,3.10,4.80,
+ZM100207,12/4/2025,2:04:00 AM,Burger King,Biryani,CUST6642,DP982,Delivered,Tacos,2,608.27,47,4.10,3.10,
+ZM100087,12/2/2025,11:01:00 PM,Burger King,Bakery,CUST5708,DP616,Delivered,Farmhouse Pizza,4,800.46,22,4.20,3.50,
+ZM100346,12/2/2025,6:07:00 PM,Beijing Bites,North Indian,CUST6113,DP566,Delivered,Pasta Alfredo,1,608.82,35,3.50,4.80,
+ZM100555,11/27/2025,7:35:00 PM,WOW Momo,Bakery,CUST5981,DP872,Delivered,Farmhouse Pizza,3,345.58,22,4.40,4.20,
+ZM100849,12/12/2025,11:30:00 AM,Truffles,Italian,CUST3750,DP870,Cancelled by Customer,Chicken Biryani,,,,,,Ordered by mistake
+ZM100877,12/12/2025,5:05:00 PM,Taco Bell,Mexican,CUST7812,DP981,Cancelled by Restaurant,Burger Combo,,,,,,High demand
+ZM100948,12/3/2025,7:20:00 AM,Leon Grill,Thai,CUST6882,DP642,Cancelled by Partner,Chicken Tikka,,,,,,Vehicle issue
+ZM100614,11/24/2025,3:05:00 PM,WOW Momo,South Indian,CUST1406,DP705,Delivered,Tacos,4,822.14,28,4.40,3.20,
+ZM100642,12/5/2025,2:29:00 PM,Onesta,American,CUST7626,DP748,Delivered,Momos,3,709.92,45,3.70,4.30,
+ZM100757,12/12/2025,7:33:00 AM,Biriyani Zone,Fast Food,CUST2474,DP917,Cancelled by Customer,Chicken Tikka,,,,,,Change of mind
+ZM100864,11/17/2025,2:09:00 PM,Empire Restaurant,Italian,CUST6427,DP675,Cancelled by Customer,Sandwich,,,,,,Found cheaper elsewhere
+ZM100904,11/28/2025,7:58:00 AM,Onesta,Bakery,CUST2333,DP678,Cancelled by Restaurant,Tacos,,,,,,High demand
+ZM100846,11/28/2025,11:46:00 PM,Chianti,South Indian,CUST6051,DP727,Cancelled by Customer,Burger Combo,,,,,,Change of mind
+ZM100135,12/12/2025,12:22:00 PM,A2B - Adyar Ananda Bhavan,Chinese,CUST3538,DP539,Delivered,Chicken Tikka,3,859.18,51,3.40,5.00,
+ZM100946,11/27/2025,11:43:00 PM,Chianti,Fast Food,CUST9818,DP761,Cancelled by Partner,Noodles,,,,,,Personal emergency
+ZM100659,11/24/2025,9:23:00 PM,Meghana Foods,Thai,CUST5919,DP932,Delivered,Chicken Tikka,3,480.74,35,3.30,4.40,
+ZM100013,11/18/2025,6:06:00 PM,Empire Restaurant,Biryani,CUST6038,DP622,Delivered,Farmhouse Pizza,4,135.19,43,4.80,4.70,
+ZM100112,12/8/2025,11:26:00 PM,Onesta,South Indian,CUST3131,DP784,Delivered,Chicken Biryani,1,192.72,26,4.50,3.70,
+ZM100766,12/11/2025,7:39:00 AM,Biriyani Zone,Bakery,CUST8354,DP661,Cancelled by Customer,Fried Rice,,,,,,Change of mind
+ZM100892,12/6/2025,2:00:00 AM,Little Italy,Italian,CUST7697,DP725,Cancelled by Restaurant,Margherita Pizza,,,,,,High demand
+ZM100386,11/14/2025,10:57:00 AM,Paradise Biryani,South Indian,CUST7143,DP763,Delivered,Burger Combo,3,541.39,38,3.00,4.00,
+ZM100750,11/29/2025,7:11:00 AM,Chianti,Fast Food,CUST6613,DP825,Cancelled by Customer,Pasta Alfredo,,,,,,Wrong address entered
+ZM100617,12/11/2025,10:45:00 PM,Taco Bell,Bakery,CUST6047,DP728,Delivered,Paneer Butter Masala,4,408.31,43,3.00,3.70,
+ZM100012,11/26/2025,6:05:00 AM,Chianti,South Indian,CUST3646,DP776,Delivered,Sandwich,3,776.50,52,4.20,3.30,
+ZM100744,11/30/2025,4:07:00 AM,Meghana Foods,Italian,CUST1993,DP662,Delivered,Chicken Tikka,2,504.52,52,3.80,3.20,
+ZM100140,11/22/2025,4:24:00 PM,Taco Bell,Thai,CUST3414,DP925,Delivered,Chicken Biryani,1,342.35,30,3.50,4.80,
+ZM100539,11/18/2025,11:53:00 AM,Leon Grill,Biryani,CUST5949,DP772,Delivered,Paneer Butter Masala,1,436.44,26,3.70,4.30,
+ZM100741,11/15/2025,12:47:00 AM,WOW Momo,Bakery,CUST2878,DP550,Delivered,Paneer Butter Masala,4,138.76,53,3.60,3.50,
+ZM100102,11/29/2025,10:21:00 PM,KFC,Mexican,CUST8264,DP727,Delivered,Noodles,4,852.46,37,3.10,3.70,
+ZM100412,11/19/2025,10:35:00 PM,A2B - Adyar Ananda Bhavan,South Indian,CUST7730,DP807,Delivered,Chicken Tikka,4,593.09,50,4.70,3.30,
+ZM100660,11/29/2025,2:00:00 PM,WOW Momo,South Indian,CUST5201,DP851,Delivered,Pasta Alfredo,2,779.85,37,4.60,4.30,
+ZM100465,12/1/2025,10:00:00 PM,McDonald's,Thai,CUST6690,DP912,Delivered,Momos,1,218.15,34,3.60,4.10,
+ZM100251,12/7/2025,4:42:00 PM,A2B - Adyar Ananda Bhavan,Chinese,CUST1157,DP748,Delivered,Paneer Butter Masala,3,776.75,59,3.10,3.70,
+ZM100436,12/9/2025,11:50:00 PM,Chianti,Mexican,CUST6924,DP813,Delivered,Farmhouse Pizza,1,129.22,33,3.80,3.20,
+ZM100073,12/7/2025,10:29:00 AM,Leon Grill,Biryani,CUST9199,DP776,Delivered,Margherita Pizza,4,217.00,39,4.40,4.90,
+ZM100146,11/29/2025,6:23:00 AM,Truffles,Thai,CUST1333,DP699,Delivered,Farmhouse Pizza,1,863.65,54,4.00,5.00,
+ZM100071,11/20/2025,8:16:00 PM,Onesta,American,CUST4824,DP973,Delivered,Veg Biryani,2,344.72,38,4.40,3.90,
+ZM100192,12/10/2025,1:40:00 PM,KFC,Chinese,CUST8319,DP885,Delivered,Paneer Butter Masala,4,372.41,35,3.00,3.80,
+ZM100622,12/12/2025,12:05:00 AM,McDonald's,American,CUST5009,DP514,Delivered,Margherita Pizza,4,216.86,38,3.80,4.00,
+ZM100703,11/23/2025,9:03:00 PM,Taco Bell,Bakery,CUST1260,DP856,Delivered,Momos,3,188.36,28,3.00,3.20,
+ZM100403,11/28/2025,5:06:00 PM,Chianti,South Indian,CUST3717,DP887,Delivered,Burger Combo,3,511.69,35,4.70,4.60,
+ZM100181,11/27/2025,5:56:00 PM,Paradise Biryani,Fast Food,CUST5331,DP812,Delivered,Paneer Butter Masala,4,831.46,41,4.10,4.40,
+ZM100166,11/22/2025,7:41:00 PM,Biriyani Zone,Italian,CUST5745,DP828,Delivered,Momos,4,602.12,21,4.00,4.30,
+ZM100317,11/14/2025,1:01:00 PM,Taco Bell,Chinese,CUST2009,DP577,Delivered,Chicken Wings,1,325.37,49,3.50,4.70,
+ZM100021,11/22/2025,6:27:00 PM,Empire Restaurant,South Indian,CUST1960,DP584,Delivered,Momos,2,249.72,51,4.00,4.70,
+ZM100288,12/8/2025,9:45:00 PM,Paradise Biryani,South Indian,CUST6161,DP974,Delivered,Noodles,1,459.29,28,3.50,3.50,
+ZM100663,11/15/2025,1:26:00 AM,Onesta,North Indian,CUST7668,DP959,Delivered,Veg Biryani,1,364.85,39,4.70,4.80,
+ZM100184,11/18/2025,4:59:00 AM,A2B - Adyar Ananda Bhavan,North Indian,CUST4505,DP603,Delivered,Margherita Pizza,1,390.16,48,4.30,4.50,
+ZM100746,11/18/2025,6:56:00 PM,McDonald's,American,CUST3332,DP691,Delivered,Noodles,4,467.87,60,4.00,4.60,
+ZM100502,12/8/2025,6:18:00 AM,Empire Restaurant,Biryani,CUST1427,DP683,Delivered,Noodles,3,592.37,59,3.50,3.50,
+ZM100583,11/17/2025,9:34:00 PM,Leon Grill,Bakery,CUST2460,DP861,Delivered,Momos,2,132.19,51,3.20,3.00,
+ZM100193,12/4/2025,11:15:00 AM,A2B - Adyar Ananda Bhavan,Biryani,CUST2936,DP738,Delivered,Tacos,1,324.01,43,4.40,3.10,
+ZM100817,11/15/2025,6:24:00 AM,Koshy’s,Italian,CUST8372,DP936,Cancelled by Customer,Chicken Wings,,,,,,Delivery too far
+ZM100189,11/27/2025,6:21:00 AM,A2B - Adyar Ananda Bhavan,North Indian,CUST8444,DP828,Delivered,Veg Biryani,3,563.01,26,4.90,3.70,
+ZM100470,11/26/2025,11:19:00 PM,Onesta,Thai,CUST2092,DP522,Delivered,Paneer Butter Masala,3,371.63,40,3.20,4.00,
+ZM100185,11/16/2025,6:23:00 PM,Biriyani Zone,Thai,CUST1831,DP842,Delivered,Tacos,3,227.07,59,4.50,3.50,
+ZM100507,11/25/2025,1:30:00 PM,Meghana Foods,Thai,CUST5684,DP736,Delivered,Burger Combo,1,268.08,48,3.80,3.60,
+ZM100095,11/17/2025,3:02:00 PM,Meghana Foods,Biryani,CUST4289,DP567,Delivered,Farmhouse Pizza,2,190.30,38,3.70,3.80,
+ZM100490,12/1/2025,5:19:00 AM,Truffles,South Indian,CUST5713,DP507,Delivered,Tacos,1,309.58,59,4.90,4.70,
+ZM100853,12/12/2025,1:43:00 PM,Empire Restaurant,Bakery,CUST8516,DP612,Cancelled by Customer,Chicken Tikka,,,,,,Found cheaper elsewhere
+ZM100836,11/14/2025,9:26:00 PM,A2B - Adyar Ananda Bhavan,South Indian,CUST4559,DP965,Cancelled by Customer,Tacos,,,,,,Wrong address entered
+ZM100444,11/23/2025,9:46:00 AM,Tunday Kababi,Chinese,CUST7631,DP934,Delivered,Sandwich,2,619.65,41,3.80,4.20,
+ZM100743,11/23/2025,11:06:00 AM,Little Italy,North Indian,CUST6311,DP632,Delivered,Tacos,1,352.46,26,3.60,3.80,
+ZM100747,11/25/2025,5:44:00 AM,Barbeque Nation,Thai,CUST3742,DP500,Delivered,Burger Combo,4,152.60,49,4.90,4.20,
+ZM100237,11/18/2025,6:46:00 PM,Empire Restaurant,Mexican,CUST7703,DP844,Delivered,Tacos,2,461.99,38,4.70,3.10,
+ZM100961,11/24/2025,4:21:00 AM,Empire Restaurant,Thai,CUST3547,DP836,Cancelled by Partner,Tacos,,,,,,Personal emergency
+ZM100159,11/14/2025,10:14:00 AM,Little Italy,Chinese,CUST4878,DP904,Delivered,Momos,3,516.83,27,5.00,4.60,
+ZM100404,11/26/2025,4:47:00 AM,Tunday Kababi,Chinese,CUST8989,DP618,Delivered,Paneer Butter Masala,2,694.02,50,4.90,3.10,
+ZM100770,11/17/2025,9:22:00 PM,Biriyani Zone,Italian,CUST8759,DP622,Cancelled by Customer,Chicken Biryani,,,,,,Found cheaper elsewhere
+ZM100968,11/29/2025,11:06:00 PM,McDonald's,Mexican,CUST9437,DP850,Cancelled by Partner,Chicken Wings,,,,,,Customer unreachable
+ZM100595,11/19/2025,2:36:00 PM,Barbeque Nation,Italian,CUST1083,DP713,Delivered,Farmhouse Pizza,4,571.98,57,4.90,4.80,
+ZM100208,11/22/2025,10:54:00 PM,Paradise Biryani,Thai,CUST8758,DP623,Delivered,Farmhouse Pizza,4,438.44,39,3.80,4.50,
+ZM100275,12/10/2025,10:34:00 AM,Truffles,Thai,CUST2083,DP658,Delivered,Chicken Tikka,2,538.38,45,4.20,4.50,
+ZM100825,12/10/2025,1:10:00 PM,Beijing Bites,Italian,CUST9591,DP535,Cancelled by Customer,Margherita Pizza,,,,,,Found cheaper elsewhere
+ZM100867,11/15/2025,4:46:00 PM,Beijing Bites,North Indian,CUST3318,DP980,Cancelled by Customer,Pasta Alfredo,,,,,,Change of mind
+ZM100452,12/3/2025,12:21:00 AM,Empire Restaurant,Thai,CUST9059,DP984,Delivered,Sandwich,2,388.23,50,4.10,4.40,
+ZM100885,11/13/2025,6:26:00 AM,Little Italy,Bakery,CUST5951,DP756,Cancelled by Restaurant,Margherita Pizza,,,,,,Kitchen closed
+ZM100564,11/21/2025,8:05:00 PM,Beijing Bites,Thai,CUST1195,DP710,Delivered,Farmhouse Pizza,2,364.35,20,4.30,4.70,
+ZM100618,11/15/2025,7:08:00 PM,Truffles,Italian,CUST7944,DP873,Delivered,Tacos,4,698.39,46,4.60,3.60,
+ZM100649,11/30/2025,9:03:00 PM,Taco Bell,American,CUST1440,DP891,Delivered,Farmhouse Pizza,1,141.95,22,3.30,3.70,
+ZM100641,12/8/2025,1:28:00 PM,Paradise Biryani,Biryani,CUST7623,DP562,Delivered,Chicken Biryani,2,170.47,32,3.70,4.20,
+ZM100263,12/9/2025,9:22:00 PM,Tunday Kababi,North Indian,CUST3161,DP951,Delivered,Chicken Biryani,2,464.20,20,5.00,3.90,
+ZM100669,11/25/2025,1:07:00 PM,A2B - Adyar Ananda Bhavan,Fast Food,CUST7438,DP974,Delivered,Momos,1,537.23,35,4.70,3.80,
+ZM100391,11/30/2025,2:46:00 PM,WOW Momo,North Indian,CUST1745,DP858,Delivered,Burger Combo,1,537.17,59,3.10,4.50,
+ZM100704,12/6/2025,12:54:00 AM,Beijing Bites,Mexican,CUST9824,DP597,Delivered,Pasta Alfredo,2,626.80,47,4.70,4.70,
+ZM100763,11/15/2025,11:08:00 PM,Burger King,Biryani,CUST8437,DP501,Cancelled by Customer,Margherita Pizza,,,,,,Change of mind
+ZM100830,12/6/2025,5:09:00 PM,Biriyani Zone,Italian,CUST3337,DP728,Cancelled by Customer,Veg Biryani,,,,,,Delivery too far
+ZM100976,11/13/2025,10:24:00 AM,Chianti,North Indian,CUST8999,DP529,Cancelled by Partner,Chicken Wings,,,,,,Customer unreachable
+ZM100597,11/27/2025,8:12:00 AM,Truffles,Thai,CUST5846,DP622,Delivered,Momos,1,660.66,46,4.90,3.30,
+ZM100799,12/8/2025,5:20:00 PM,Onesta,Italian,CUST2333,DP901,Cancelled by Customer,Tacos,,,,,,Wrong address entered
+ZM100796,12/8/2025,4:27:00 AM,Beijing Bites,Thai,CUST7131,DP662,Cancelled by Customer,Burger Combo,,,,,,Ordered by mistake
+ZM100673,12/11/2025,9:53:00 PM,Little Italy,Mexican,CUST2347,DP556,Delivered,Momos,2,122.40,32,4.30,3.60,
+ZM100550,11/28/2025,11:44:00 PM,Leon Grill,Bakery,CUST6821,DP615,Delivered,Noodles,2,474.43,47,4.10,3.90,
+ZM100016,11/21/2025,10:10:00 PM,Taco Bell,Mexican,CUST4770,DP801,Delivered,Fried Rice,4,214.38,34,3.10,3.00,
+ZM100262,12/4/2025,11:01:00 AM,A2B - Adyar Ananda Bhavan,Fast Food,CUST1793,DP523,Delivered,Fried Rice,2,561.59,51,4.60,4.80,
+ZM100180,11/29/2025,11:34:00 PM,Beijing Bites,Bakery,CUST6325,DP839,Delivered,Fried Rice,4,800.80,23,4.40,4.00,
+ZM100286,12/2/2025,12:02:00 AM,Paradise Biryani,American,CUST3332,DP864,Delivered,Chicken Biryani,2,533.26,35,3.80,4.90,
+ZM100748,12/11/2025,4:27:00 PM,Biriyani Zone,Biryani,CUST5609,DP523,Delivered,Margherita Pizza,4,899.41,60,3.40,4.70,
+ZM100224,12/11/2025,2:32:00 AM,Biriyani Zone,Thai,CUST3362,DP885,Delivered,Noodles,1,259.90,40,3.00,3.40,
+ZM100364,12/7/2025,2:33:00 AM,Onesta,Fast Food,CUST7203,DP706,Delivered,Chicken Tikka,3,876.71,23,4.00,4.10,
+ZM100010,11/21/2025,2:24:00 PM,Leon Grill,South Indian,CUST1188,DP848,Delivered,Burger Combo,4,584.79,49,4.10,4.90,
+ZM100640,11/21/2025,12:32:00 PM,Little Italy,North Indian,CUST2392,DP561,Delivered,Pasta Alfredo,4,644.23,45,3.90,4.30,
+ZM100058,11/15/2025,2:20:00 PM,Onesta,South Indian,CUST9548,DP994,Delivered,Burger Combo,3,615.76,49,4.40,3.90,
+ZM100835,11/24/2025,3:15:00 AM,Meghana Foods,Italian,CUST3587,DP640,Cancelled by Customer,Sandwich,,,,,,Delivery too far
+ZM100301,11/17/2025,1:54:00 AM,Barbeque Nation,Biryani,CUST6878,DP967,Delivered,Sandwich,4,396.75,31,3.40,4.20,
+ZM100626,11/26/2025,9:48:00 PM,Truffles,Thai,CUST6180,DP923,Delivered,Chicken Tikka,2,716.46,58,4.50,4.10,
+ZM100418,11/23/2025,6:33:00 PM,Koshy’s,American,CUST1117,DP692,Delivered,Chicken Tikka,1,673.14,20,4.20,3.20,
+ZM100851,11/25/2025,9:23:00 PM,Leon Grill,Italian,CUST7472,DP980,Cancelled by Customer,Fried Rice,,,,,,Ordered by mistake
+ZM100739,11/23/2025,6:29:00 PM,Five Star Chicken,North Indian,CUST9713,DP592,Delivered,Noodles,2,705.44,52,4.80,3.20,
+ZM100270,12/4/2025,10:00:00 PM,Truffles,Italian,CUST5942,DP605,Delivered,Fried Rice,3,727.60,21,4.70,4.30,
+ZM100562,12/3/2025,3:19:00 PM,Paradise Biryani,Fast Food,CUST8074,DP812,Delivered,Fried Rice,1,195.94,54,4.30,4.90,
+ZM100722,12/3/2025,2:18:00 PM,Paradise Biryani,Thai,CUST5583,DP960,Delivered,Sandwich,3,682.81,40,4.80,3.00,
+ZM100085,11/21/2025,10:15:00 PM,McDonald's,Mexican,CUST8213,DP551,Delivered,Veg Biryani,2,511.79,57,3.70,3.20,
+ZM100332,11/30/2025,1:41:00 AM,Little Italy,Biryani,CUST7709,DP762,Delivered,Momos,2,788.55,34,4.40,3.50,
+ZM100377,12/4/2025,5:29:00 AM,A2B - Adyar Ananda Bhavan,American,CUST6876,DP916,Delivered,Paneer Butter Masala,1,658.66,38,3.40,4.10,
+ZM100986,11/19/2025,1:16:00 PM,KFC,South Indian,CUST1346,DP564,Cancelled by Partner,Momos,,,,,,Vehicle issue
+ZM100647,11/28/2025,1:13:00 AM,Meghana Foods,Chinese,CUST7374,DP749,Delivered,Fried Rice,3,810.07,30,4.00,3.30,
+ZM100932,11/29/2025,5:04:00 AM,Paradise Biryani,Italian,CUST2946,DP623,Cancelled by Restaurant,Veg Biryani,,,,,,High demand
+ZM100664,12/1/2025,10:55:00 PM,Truffles,Bakery,CUST9551,DP840,Delivered,Sandwich,2,304.11,56,4.50,4.90,
+ZM100001,11/29/2025,1:05:00 AM,Empire Restaurant,South Indian,CUST9928,DP714,Delivered,Chicken Tikka,2,514.18,21,4.10,4.40,
+ZM100118,12/1/2025,10:38:00 AM,WOW Momo,Biryani,CUST2336,DP639,Delivered,Noodles,1,809.01,29,3.30,4.20,
+ZM100547,12/12/2025,8:01:00 AM,Koshy’s,Biryani,CUST3841,DP743,Delivered,Burger Combo,3,675.18,45,3.80,4.10,
+ZM100981,12/1/2025,10:12:00 AM,Koshy’s,Chinese,CUST5415,DP555,Cancelled by Partner,Fried Rice,,,,,,Personal emergency
+ZM100843,12/7/2025,5:49:00 AM,Leon Grill,South Indian,CUST5819,DP563,Cancelled by Customer,Paneer Butter Masala,,,,,,Change of mind
+ZM100254,11/26/2025,3:51:00 AM,Five Star Chicken,South Indian,CUST4580,DP717,Delivered,Margherita Pizza,3,542.79,22,4.50,3.90,
+ZM100657,11/21/2025,6:25:00 PM,WOW Momo,Italian,CUST3958,DP951,Delivered,Burger Combo,4,315.99,52,3.90,4.50,
+ZM100052,11/30/2025,11:10:00 AM,Beijing Bites,Mexican,CUST7906,DP629,Delivered,Farmhouse Pizza,3,713.76,44,3.60,4.90,
+ZM100876,12/2/2025,4:39:00 AM,Onesta,Italian,CUST4106,DP502,Cancelled by Restaurant,Paneer Butter Masala,,,,,,High demand
+ZM100276,11/20/2025,2:55:00 PM,Barbeque Nation,North Indian,CUST6067,DP841,Delivered,Chicken Tikka,1,841.21,27,3.90,4.20,
+ZM100136,12/3/2025,3:27:00 AM,Chianti,Thai,CUST3658,DP592,Delivered,Sandwich,1,636.30,59,3.30,3.80,
+ZM100284,12/6/2025,9:57:00 AM,Five Star Chicken,American,CUST4201,DP875,Delivered,Tacos,2,481.86,57,4.90,5.00,
+ZM100151,12/1/2025,2:54:00 PM,Paradise Biryani,Mexican,CUST9507,DP636,Delivered,Burger Combo,3,879.50,51,4.40,3.70,
+ZM100654,11/23/2025,10:13:00 AM,Taco Bell,Bakery,CUST5708,DP635,Delivered,Chicken Tikka,4,615.65,24,4.70,4.10,
+ZM100040,11/19/2025,5:56:00 AM,Leon Grill,Biryani,CUST6279,DP738,Delivered,Margherita Pizza,4,547.39,20,3.60,3.40,
+ZM100298,12/6/2025,9:56:00 PM,Chianti,Italian,CUST6636,DP967,Delivered,Pasta Alfredo,1,891.73,42,4.00,4.60,
+ZM100984,11/29/2025,11:18:00 AM,Little Italy,Italian,CUST5354,DP560,Cancelled by Partner,Chicken Wings,,,,,,Vehicle issue
+ZM100949,12/8/2025,9:14:00 PM,Truffles,Thai,CUST5270,DP695,Cancelled by Partner,Margherita Pizza,,,,,,Personal emergency
+ZM100911,11/27/2025,10:53:00 PM,McDonald's,Thai,CUST9060,DP546,Cancelled by Restaurant,Pasta Alfredo,,,,,,Item not available
+ZM100229,11/30/2025,10:48:00 AM,Taco Bell,South Indian,CUST3170,DP544,Delivered,Chicken Biryani,1,855.51,48,3.70,3.50,
+ZM100175,11/23/2025,5:22:00 PM,Paradise Biryani,Thai,CUST3440,DP810,Delivered,Veg Biryani,1,150.35,41,4.60,4.00,
+ZM100121,12/6/2025,4:41:00 AM,Biriyani Zone,American,CUST4770,DP756,Delivered,Farmhouse Pizza,1,126.03,47,3.40,3.80,
+ZM100999,11/27/2025,12:24:00 PM,A2B - Adyar Ananda Bhavan,South Indian,CUST1223,DP849,Cancelled by Partner,Chicken Biryani,,,,,,Personal emergency
+ZM100274,12/11/2025,2:03:00 AM,Paradise Biryani,Thai,CUST3501,DP642,Delivered,Margherita Pizza,4,450.39,45,3.20,4.10,
+ZM100725,11/25/2025,9:41:00 AM,Beijing Bites,South Indian,CUST9846,DP803,Delivered,Fried Rice,3,526.64,60,3.30,3.10,
+ZM100303,12/3/2025,5:59:00 AM,Onesta,North Indian,CUST6435,DP969,Delivered,Chicken Biryani,1,301.45,34,3.00,4.00,
+ZM100225,11/16/2025,1:35:00 PM,Truffles,American,CUST7288,DP886,Delivered,Paneer Butter Masala,2,562.02,44,4.40,4.10,
+ZM100310,11/30/2025,2:57:00 PM,Koshy’s,Chinese,CUST8855,DP903,Delivered,Burger Combo,4,807.78,42,4.10,3.20,
+ZM100265,11/22/2025,10:25:00 AM,Barbeque Nation,Bakery,CUST4705,DP765,Delivered,Pasta Alfredo,1,668.88,20,3.40,3.20,
+ZM100537,11/28/2025,10:35:00 AM,Tunday Kababi,Mexican,CUST4004,DP858,Delivered,Chicken Tikka,2,232.10,59,3.50,3.70,
+ZM100737,11/19/2025,11:06:00 AM,Truffles,Biryani,CUST8259,DP876,Delivered,Pasta Alfredo,4,422.04,45,3.70,3.10,
+ZM100724,11/17/2025,10:08:00 PM,Paradise Biryani,Italian,CUST3064,DP766,Delivered,Margherita Pizza,1,148.84,41,3.80,4.40,
+ZM100920,11/21/2025,3:33:00 PM,Leon Grill,American,CUST1562,DP806,Cancelled by Restaurant,Paneer Butter Masala,,,,,,Item not available
+ZM100466,11/14/2025,2:58:00 PM,Beijing Bites,North Indian,CUST8168,DP786,Delivered,Tacos,4,399.37,28,3.50,3.10,
+ZM100938,11/24/2025,4:16:00 AM,WOW Momo,South Indian,CUST9806,DP594,Cancelled by Restaurant,Tacos,,,,,,Item not available
+ZM100919,11/15/2025,3:43:00 PM,McDonald's,American,CUST4586,DP755,Cancelled by Restaurant,Sandwich,,,,,,Kitchen closed
+ZM100009,11/24/2025,1:37:00 PM,Taco Bell,Italian,CUST3621,DP905,Delivered,Paneer Butter Masala,4,190.91,23,4.70,3.30,
+ZM100914,12/5/2025,7:37:00 AM,KFC,American,CUST2824,DP545,Cancelled by Restaurant,Chicken Biryani,,,,,,Kitchen closed
+ZM100606,12/4/2025,3:49:00 AM,McDonald's,Mexican,CUST9870,DP977,Delivered,Paneer Butter Masala,2,526.14,60,3.00,3.80,
+ZM100223,11/27/2025,2:48:00 PM,WOW Momo,Biryani,CUST8790,DP638,Delivered,Sandwich,1,817.94,22,3.50,4.80,
+ZM100585,12/5/2025,5:57:00 AM,Leon Grill,North Indian,CUST5934,DP678,Delivered,Noodles,2,679.42,59,4.90,4.30,
+ZM100163,12/9/2025,5:41:00 PM,McDonald's,American,CUST5653,DP933,Delivered,Paneer Butter Masala,2,371.68,34,3.70,4.90,
+ZM100003,11/18/2025,11:29:00 AM,KFC,South Indian,CUST8527,DP774,Delivered,Burger Combo,1,400.00,42,4.20,4.60,
+ZM100188,11/24/2025,7:55:00 AM,Burger King,North Indian,CUST7504,DP903,Delivered,Paneer Butter Masala,4,808.15,31,4.90,3.10,
+ZM100211,12/4/2025,12:52:00 PM,Leon Grill,Biryani,CUST8854,DP606,Delivered,Veg Biryani,1,266.77,57,4.40,4.10,
+ZM100278,11/16/2025,8:50:00 AM,Little Italy,Fast Food,CUST8034,DP639,Delivered,Paneer Butter Masala,3,691.69,27,4.50,3.10,
+ZM100621,12/7/2025,1:01:00 PM,A2B - Adyar Ananda Bhavan,Thai,CUST8593,DP614,Delivered,Chicken Wings,1,761.78,39,4.70,3.60,
+ZM100410,11/27/2025,4:21:00 PM,Beijing Bites,Biryani,CUST3207,DP822,Delivered,Paneer Butter Masala,4,137.51,22,3.30,4.20,
+ZM100399,11/29/2025,5:45:00 AM,Empire Restaurant,Fast Food,CUST6432,DP949,Delivered,Chicken Tikka,2,675.52,47,3.60,3.70,
+ZM100798,11/25/2025,10:02:00 AM,WOW Momo,Italian,CUST5588,DP946,Cancelled by Customer,Veg Biryani,,,,,,Ordered by mistake
+ZM100575,11/20/2025,1:18:00 PM,KFC,Fast Food,CUST4163,DP512,Delivered,Chicken Wings,1,810.47,48,4.50,3.30,
+ZM100979,11/29/2025,4:47:00 PM,Truffles,Thai,CUST3518,DP710,Cancelled by Partner,Fried Rice,,,,,,Vehicle issue
+ZM100521,12/12/2025,3:52:00 PM,KFC,Italian,CUST4478,DP505,Delivered,Momos,4,442.95,41,3.70,4.60,
+ZM100768,12/5/2025,11:32:00 PM,Truffles,Italian,CUST3694,DP668,Cancelled by Customer,Chicken Tikka,,,,,,Delivery too far
+ZM100448,11/18/2025,1:33:00 PM,Chianti,South Indian,CUST6068,DP617,Delivered,Chicken Biryani,3,602.12,25,4.30,4.80,
+ZM100169,11/25/2025,3:37:00 AM,WOW Momo,Italian,CUST7293,DP942,Delivered,Chicken Wings,1,328.63,35,3.30,3.10,
+ZM100958,11/16/2025,4:42:00 PM,Chianti,Fast Food,CUST5620,DP782,Cancelled by Partner,Tacos,,,,,,Vehicle issue
+ZM100525,11/19/2025,1:54:00 AM,Chianti,American,CUST6793,DP533,Delivered,Noodles,3,553.04,21,3.40,4.40,
+ZM100891,11/27/2025,6:12:00 AM,KFC,Mexican,CUST4482,DP595,Cancelled by Restaurant,Noodles,,,,,,High demand
+ZM100545,11/24/2025,11:11:00 PM,A2B - Adyar Ananda Bhavan,Bakery,CUST7622,DP933,Delivered,Tacos,3,892.43,57,3.00,5.00,
+ZM100701,11/21/2025,3:21:00 PM,Leon Grill,American,CUST2742,DP722,Delivered,Farmhouse Pizza,2,284.63,25,4.50,4.20,
+ZM100506,11/19/2025,12:59:00 PM,WOW Momo,Bakery,CUST5025,DP765,Delivered,Noodles,1,526.11,48,3.90,4.80,
+ZM100407,11/30/2025,12:28:00 PM,Five Star Chicken,South Indian,CUST6653,DP749,Delivered,Fried Rice,3,413.54,34,4.00,3.70,
+ZM100834,11/14/2025,9:05:00 PM,Tunday Kababi,Bakery,CUST4005,DP857,Cancelled by Customer,Pasta Alfredo,,,,,,Delivery too far
+ZM100758,11/23/2025,9:20:00 PM,Barbeque Nation,Italian,CUST6947,DP518,Cancelled by Customer,Chicken Wings,,,,,,Found cheaper elsewhere
+ZM100194,12/3/2025,5:27:00 AM,Paradise Biryani,Thai,CUST4618,DP612,Delivered,Tacos,3,658.43,60,4.80,3.60,
+ZM100710,11/19/2025,6:33:00 AM,Onesta,Fast Food,CUST8675,DP567,Delivered,Chicken Wings,2,515.96,57,4.80,3.70,
+ZM100813,12/4/2025,12:17:00 AM,A2B - Adyar Ananda Bhavan,Fast Food,CUST7616,DP984,Cancelled by Customer,Momos,,,,,,Found cheaper elsewhere
+ZM100062,11/25/2025,8:12:00 AM,Onesta,Mexican,CUST7046,DP742,Delivered,Chicken Wings,1,192.58,34,3.80,3.50,
+ZM100579,11/20/2025,10:08:00 PM,McDonald's,North Indian,CUST2047,DP918,Delivered,Paneer Butter Masala,1,825.64,26,3.90,3.30,
+ZM100046,12/4/2025,8:26:00 AM,Biriyani Zone,Thai,CUST6502,DP663,Delivered,Chicken Wings,2,334.19,24,4.40,3.50,
+ZM100296,11/30/2025,11:19:00 PM,Koshy’s,Chinese,CUST1567,DP814,Delivered,Farmhouse Pizza,2,828.48,37,3.60,4.80,
+ZM100132,12/3/2025,1:13:00 PM,Koshy’s,Fast Food,CUST7333,DP645,Delivered,Pasta Alfredo,1,735.60,41,3.10,3.20,
+ZM100713,11/25/2025,1:36:00 AM,Empire Restaurant,Fast Food,CUST1523,DP913,Delivered,Margherita Pizza,3,648.00,31,4.70,4.80,
+ZM100280,12/7/2025,8:42:00 AM,KFC,Biryani,CUST1201,DP625,Delivered,Pasta Alfredo,1,298.16,52,3.00,4.70,
+ZM100613,12/8/2025,3:38:00 PM,WOW Momo,Chinese,CUST3409,DP909,Delivered,Veg Biryani,3,624.85,38,3.90,3.60,
+ZM100170,11/23/2025,2:16:00 PM,Barbeque Nation,Chinese,CUST9433,DP739,Delivered,Sandwich,3,848.33,40,3.40,3.30,
+ZM100022,11/30/2025,12:04:00 AM,Paradise Biryani,American,CUST4111,DP651,Delivered,Momos,4,342.49,55,4.30,4.00,
+ZM100809,12/5/2025,9:03:00 AM,Taco Bell,South Indian,CUST9220,DP762,Cancelled by Customer,Margherita Pizza,,,,,,Change of mind
+ZM100515,11/22/2025,7:01:00 PM,Beijing Bites,North Indian,CUST5889,DP669,Delivered,Paneer Butter Masala,2,162.95,42,3.10,4.70,
+ZM100536,12/1/2025,10:39:00 AM,WOW Momo,Italian,CUST8672,DP549,Delivered,Tacos,1,879.47,49,4.10,3.20,
+ZM100429,11/28/2025,12:52:00 PM,Five Star Chicken,Mexican,CUST1448,DP746,Delivered,Momos,2,710.83,49,4.40,4.80,
+ZM100494,12/9/2025,12:39:00 AM,A2B - Adyar Ananda Bhavan,Bakery,CUST9709,DP545,Delivered,Chicken Tikka,4,516.66,26,4.80,4.00,
+ZM100069,11/26/2025,12:59:00 PM,Tunday Kababi,Mexican,CUST2625,DP985,Delivered,Margherita Pizza,4,358.20,59,3.10,4.90,
+ZM100446,11/14/2025,3:11:00 PM,Taco Bell,Biryani,CUST4844,DP838,Delivered,Fried Rice,4,442.91,31,4.70,3.30,
+ZM100120,12/3/2025,11:08:00 PM,Five Star Chicken,Mexican,CUST4349,DP654,Delivered,Fried Rice,3,155.43,45,5.00,3.10,
+ZM100734,11/17/2025,4:52:00 AM,McDonald's,Biryani,CUST9008,DP501,Delivered,Burger Combo,1,850.72,39,4.80,3.40,
+ZM100974,12/1/2025,3:51:00 AM,Barbeque Nation,Thai,CUST2931,DP648,Cancelled by Partner,Sandwich,,,,,,Personal emergency
+ZM100459,11/18/2025,4:59:00 AM,Meghana Foods,American,CUST5097,DP918,Delivered,Momos,4,175.68,50,3.40,4.80,
+ZM100374,11/29/2025,8:33:00 PM,Chianti,American,CUST5760,DP851,Delivered,Sandwich,3,675.26,55,4.30,3.40,
+ZM100916,12/2/2025,12:58:00 PM,Empire Restaurant,American,CUST9775,DP597,Cancelled by Restaurant,Veg Biryani,,,,,,High demand
+ZM100355,11/24/2025,10:50:00 PM,Onesta,Chinese,CUST8483,DP651,Delivered,Chicken Biryani,1,684.38,26,4.80,4.30,
+ZM100573,11/24/2025,6:16:00 PM,Taco Bell,Fast Food,CUST6985,DP773,Delivered,Pasta Alfredo,3,432.48,60,5.00,4.30,
+ZM100928,12/8/2025,3:04:00 PM,Onesta,American,CUST4436,DP611,Cancelled by Restaurant,Paneer Butter Masala,,,,,,High demand
+ZM100866,11/15/2025,1:01:00 PM,WOW Momo,Chinese,CUST1099,DP533,Cancelled by Customer,Chicken Wings,,,,,,Wrong address entered
+ZM100873,12/8/2025,4:27:00 PM,Paradise Biryani,Bakery,CUST2363,DP888,Cancelled by Restaurant,Sandwich,,,,,,Item not available
+ZM100777,11/29/2025,9:10:00 PM,KFC,Fast Food,CUST1425,DP732,Cancelled by Customer,Pasta Alfredo,,,,,,Wrong address entered
+ZM100898,11/29/2025,11:29:00 AM,WOW Momo,Fast Food,CUST4925,DP981,Cancelled by Restaurant,Sandwich,,,,,,Kitchen closed
+ZM100912,11/17/2025,11:36:00 PM,Barbeque Nation,Biryani,CUST2059,DP829,Cancelled by Restaurant,Momos,,,,,,Kitchen closed
+ZM100258,12/4/2025,5:33:00 PM,KFC,Chinese,CUST3174,DP627,Delivered,Momos,4,836.64,37,4.70,3.30,
+ZM100728,11/23/2025,7:58:00 AM,Taco Bell,American,CUST9461,DP798,Delivered,Margherita Pizza,2,677.19,53,4.50,3.20,
+ZM100563,11/13/2025,10:15:00 PM,Biriyani Zone,Fast Food,CUST4961,DP875,Delivered,Margherita Pizza,3,745.81,36,4.30,3.80,
+ZM100428,11/25/2025,2:28:00 AM,Chianti,American,CUST5098,DP855,Delivered,Farmhouse Pizza,1,746.29,36,4.80,4.60,
+ZM100196,12/5/2025,11:13:00 PM,Leon Grill,South Indian,CUST2011,DP924,Delivered,Fried Rice,4,531.98,43,3.20,4.10,
+ZM100130,11/13/2025,7:30:00 PM,Beijing Bites,Fast Food,CUST6626,DP865,Delivered,Noodles,4,511.07,23,3.90,4.60,
+ZM100044,11/29/2025,7:28:00 AM,Little Italy,Thai,CUST9702,DP786,Delivered,Chicken Wings,1,554.78,27,3.90,4.60,
+ZM100157,11/26/2025,1:12:00 PM,Burger King,South Indian,CUST9047,DP602,Delivered,Margherita Pizza,3,669.15,33,5.00,3.60,
+ZM100738,12/4/2025,10:02:00 PM,Truffles,Chinese,CUST2395,DP598,Delivered,Tacos,1,566.16,39,4.10,3.20,
+ZM100546,12/8/2025,10:02:00 AM,Meghana Foods,Fast Food,CUST5623,DP943,Delivered,Fried Rice,1,120.66,55,4.60,3.70,
+ZM100206,11/13/2025,7:39:00 PM,WOW Momo,Biryani,CUST7775,DP653,Delivered,Noodles,3,304.79,29,5.00,4.00,
+ZM100779,11/20/2025,2:18:00 AM,Beijing Bites,Biryani,CUST9337,DP631,Cancelled by Customer,Paneer Butter Masala,,,,,,Wrong address entered
+ZM100485,12/11/2025,10:59:00 PM,Paradise Biryani,Mexican,CUST6507,DP542,Delivered,Momos,1,293.23,38,4.60,3.30,
+ZM100742,11/25/2025,5:44:00 AM,A2B - Adyar Ananda Bhavan,Chinese,CUST3772,DP530,Delivered,Paneer Butter Masala,3,719.28,29,3.60,3.80,
+ZM100308,11/24/2025,3:33:00 AM,Onesta,Chinese,CUST2453,DP920,Delivered,Farmhouse Pizza,1,305.64,40,3.30,4.80,
+ZM100351,11/20/2025,3:57:00 AM,Koshy’s,Mexican,CUST1152,DP654,Delivered,Burger Combo,1,546.88,50,4.40,3.40,
+ZM100633,12/10/2025,10:17:00 AM,Empire Restaurant,South Indian,CUST6759,DP514,Delivered,Momos,1,837.68,33,4.20,3.40,
+ZM100559,12/7/2025,6:00:00 PM,Meghana Foods,Fast Food,CUST7765,DP894,Delivered,Chicken Biryani,2,584.52,29,4.70,4.50,
+ZM100076,11/16/2025,4:47:00 PM,Truffles,Mexican,CUST9117,DP647,Delivered,Farmhouse Pizza,4,379.98,26,4.70,3.70,
+ZM100101,12/9/2025,8:00:00 AM,Burger King,Chinese,CUST3531,DP953,Delivered,Burger Combo,4,409.39,54,3.80,4.50,
+ZM100947,12/6/2025,11:28:00 PM,Meghana Foods,Italian,CUST4081,DP572,Cancelled by Partner,Veg Biryani,,,,,,Vehicle issue
+ZM100456,12/8/2025,9:53:00 AM,KFC,Mexican,CUST3492,DP525,Delivered,Noodles,4,332.26,59,4.00,3.60,
+ZM100721,11/18/2025,5:36:00 AM,Koshy’s,North Indian,CUST9516,DP998,Delivered,Burger Combo,1,634.94,29,4.80,3.10,
+ZM100197,11/25/2025,5:15:00 PM,Beijing Bites,Biryani,CUST9008,DP546,Delivered,Fried Rice,2,248.34,53,3.90,4.40,
+ZM100195,12/8/2025,4:19:00 PM,McDonald's,Mexican,CUST4578,DP890,Delivered,Tacos,3,444.36,55,4.80,4.50,
+ZM100837,11/27/2025,2:02:00 PM,KFC,Fast Food,CUST2723,DP758,Cancelled by Customer,Chicken Biryani,,,,,,Wrong address entered
+ZM100670,11/13/2025,8:43:00 AM,A2B - Adyar Ananda Bhavan,South Indian,CUST7656,DP904,Delivered,Sandwich,2,351.99,30,4.80,4.30,
+ZM100905,11/29/2025,4:15:00 PM,KFC,Bakery,CUST4196,DP864,Cancelled by Restaurant,Margherita Pizza,,,,,,High demand
+ZM100934,11/20/2025,10:53:00 PM,Truffles,Mexican,CUST7260,DP640,Cancelled by Restaurant,Sandwich,,,,,,High demand
+ZM100600,11/20/2025,11:21:00 AM,Chianti,North Indian,CUST2326,DP817,Delivered,Margherita Pizza,4,707.25,59,4.10,4.60,
+ZM100042,11/16/2025,8:01:00 AM,A2B - Adyar Ananda Bhavan,Italian,CUST2193,DP733,Delivered,Momos,2,234.94,22,3.50,4.00,
+ZM100123,11/30/2025,9:51:00 PM,Koshy’s,American,CUST8538,DP925,Delivered,Chicken Biryani,4,136.27,40,3.30,4.90,
+ZM100616,12/12/2025,2:51:00 AM,Burger King,Mexican,CUST9381,DP983,Delivered,Pasta Alfredo,1,881.15,45,3.40,3.60,
+ZM100990,12/5/2025,9:35:00 AM,Biriyani Zone,Italian,CUST8031,DP601,Cancelled by Partner,Pasta Alfredo,,,,,,Vehicle issue
+ZM100644,11/19/2025,1:48:00 AM,Truffles,Mexican,CUST5960,DP818,Delivered,Pasta Alfredo,1,878.22,44,4.20,3.70,
+ZM100996,12/9/2025,9:11:00 AM,Biriyani Zone,Fast Food,CUST7849,DP626,Cancelled by Partner,Tacos,,,,,,Personal emergency
+ZM100108,11/17/2025,10:29:00 PM,Chianti,American,CUST2768,DP751,Delivered,Chicken Wings,1,167.44,50,4.70,3.90,
+ZM100908,12/9/2025,4:27:00 PM,Burger King,Italian,CUST4467,DP587,Cancelled by Restaurant,Chicken Tikka,,,,,,High demand
+ZM100089,12/1/2025,12:47:00 PM,Koshy’s,Chinese,CUST7267,DP817,Delivered,Chicken Tikka,4,561.42,31,3.30,3.20,
+ZM100393,11/30/2025,10:33:00 PM,Empire Restaurant,Mexican,CUST5832,DP991,Delivered,Paneer Butter Masala,2,226.38,45,4.60,4.70,
+ZM100598,11/22/2025,3:05:00 AM,Empire Restaurant,Mexican,CUST1399,DP999,Delivered,Pasta Alfredo,3,246.21,49,4.70,4.50,
+ZM100215,11/24/2025,7:33:00 AM,McDonald's,North Indian,CUST5026,DP755,Delivered,Margherita Pizza,4,350.25,32,3.70,3.80,
+ZM100282,12/2/2025,8:28:00 AM,Koshy’s,Fast Food,CUST3938,DP614,Delivered,Margherita Pizza,1,565.80,27,4.00,4.80,
+ZM100665,11/16/2025,7:48:00 PM,Chianti,American,CUST7388,DP912,Delivered,Chicken Wings,1,305.70,27,4.50,3.60,
+ZM100243,12/3/2025,11:42:00 AM,Tunday Kababi,Italian,CUST6225,DP534,Delivered,Fried Rice,4,391.67,26,3.90,4.40,
+ZM100380,12/5/2025,9:37:00 PM,Taco Bell,Biryani,CUST2220,DP595,Delivered,Fried Rice,2,725.39,32,3.60,3.40,
+ZM100619,11/14/2025,2:08:00 PM,McDonald's,Biryani,CUST6495,DP533,Delivered,Noodles,1,232.04,39,3.90,4.70,
+ZM100541,11/29/2025,7:21:00 PM,WOW Momo,Thai,CUST8972,DP558,Delivered,Tacos,2,255.01,24,4.50,4.40,
+ZM100603,11/18/2025,7:48:00 PM,Beijing Bites,Italian,CUST2038,DP690,Delivered,Farmhouse Pizza,3,820.39,52,4.40,3.60,
+ZM100797,11/23/2025,2:39:00 PM,Meghana Foods,Biryani,CUST4098,DP937,Cancelled by Customer,Noodles,,,,,,Ordered by mistake
+ZM100760,11/15/2025,9:28:00 AM,Chianti,Mexican,CUST4174,DP837,Cancelled by Customer,Paneer Butter Masala,,,,,,Wrong address entered
+ZM100370,11/13/2025,1:24:00 PM,Beijing Bites,Mexican,CUST3018,DP895,Delivered,Sandwich,2,679.09,26,4.50,3.10,
+ZM100829,11/29/2025,10:41:00 PM,Little Italy,Biryani,CUST6084,DP800,Cancelled by Customer,Noodles,,,,,,Delivery too far
+ZM100759,12/4/2025,4:49:00 PM,Beijing Bites,North Indian,CUST7489,DP556,Cancelled by Customer,Chicken Tikka,,,,,,Wrong address entered
+ZM100369,11/26/2025,12:45:00 PM,KFC,North Indian,CUST4072,DP561,Delivered,Paneer Butter Masala,4,229.55,46,3.20,4.20,
+ZM100339,12/3/2025,5:48:00 AM,Burger King,Chinese,CUST3999,DP984,Delivered,Margherita Pizza,1,487.21,36,4.50,4.10,
+ZM100133,12/4/2025,10:24:00 PM,Leon Grill,Chinese,CUST7421,DP566,Delivered,Farmhouse Pizza,1,574.54,29,4.80,3.60,
+ZM100882,11/27/2025,1:10:00 AM,Empire Restaurant,Chinese,CUST8462,DP983,Cancelled by Restaurant,Margherita Pizza,,,,,,Kitchen closed
+ZM100788,12/5/2025,12:07:00 AM,Barbeque Nation,Mexican,CUST4492,DP622,Cancelled by Customer,Noodles,,,,,,Ordered by mistake
+ZM100565,12/9/2025,5:55:00 PM,KFC,Mexican,CUST2506,DP529,Delivered,Farmhouse Pizza,2,685.70,36,3.40,3.00,
