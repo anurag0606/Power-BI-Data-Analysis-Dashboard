@@ -145,4 +145,4 @@ It helps researchers, analysts, and policymakers identify affected regions, anal
 
 ## 🖼️ Dashboard Preview
 
-![COVID-19 Global Analysis Report Dashboard](CCovid-19%20Global%20Analysis%20Report.png)
+![COVID-19 Global Analysis Report Dashboard](Covid-19%20Global%20Analysis%20Report.png)
