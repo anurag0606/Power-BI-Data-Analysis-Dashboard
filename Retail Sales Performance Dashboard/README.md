@@ -54,7 +54,7 @@ with budget?
 - Monthly Trend
 - Sales Map
 
-Image: `Screenshort/1%20Sales%20Overview.png`
+Image: Screenshort/1%20Sales%20Overview.png
 
 ### 2. Customer Details
 
