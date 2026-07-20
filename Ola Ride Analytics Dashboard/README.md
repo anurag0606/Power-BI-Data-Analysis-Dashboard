@@ -200,10 +200,6 @@ markdown
 
 ![Ratings Dashboard](Screenshort/5%20Rating.png)
 
-
-> After uploading to GitHub, place the screenshots inside an **Images**
-> folder with the same names.
-
 ---
 
 # 👨‍💻 Author
