@@ -191,14 +191,19 @@ OLA-Ride-Analytics/
 markdown
 ![Overall Dashboard](Ola%20Ride%20Analytics%20Dashboard/Screenshort/1%20Overall.png)
 
-![Vehicle Dashboard](Screenshort/2%20Vehicle%20Type.png)
+![Vehicle Dashboard](Ola%20Ride%20Analytics%20Dashboard/Screenshort/2%20Vehicle%20Type.png)
 
-![Revenue Dashboard](<Images/3%20Revenue(4).png>)
+![Revenue Dashboard](Ola%20Ride%20Analytics%20Dashboard/Screenshort/3%20Revenue.png)
 
-![Cancellation Dashboard](<Images/4%20Cancellation%20(3).png>)
+![Cancellation Dashboard](Ola%20Ride%20Analytics%20Dashboard/Screenshort/4%20Cancellation%20.png)
 
+<<<<<<< HEAD
 ![Ratings Dashboard](<Images/5%20Rating(4).png>)
 
+=======
+![Ratings Dashboard](Ola%20Ride%20Analytics%20Dashboard/Screenshort/5%20Rating.png)
+```
+>>>>>>> 1e08f83 (Updated Power BI dashboard)
 
 > After uploading to GitHub, place the screenshots inside an **Images**
 > folder with the same names.
