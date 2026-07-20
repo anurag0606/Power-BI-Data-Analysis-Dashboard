@@ -151,3 +151,4 @@ It helps decision-makers optimize marketing strategies, identify top-performing 
 ## 🖼️ Dashboard Preview
 
 ![E-commerce Retail Analytics Dashboard](E-commerce%20Retail%20Analytics%20Dashboard.png)
+![E-commerce Retail Analytics Dashboard2](E-commerce%20Retail%20Analytics%20Dashboard2.png)
