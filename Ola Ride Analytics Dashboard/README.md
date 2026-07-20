@@ -188,6 +188,7 @@ OLA-Ride-Analytics/
 
 # 🖼 Dashboard Preview
 
+```
 markdown
 ![Overall Dashboard](Ola%20Ride%20Analytics%20Dashboard/Screenshort/1%20Overall.png)
 
@@ -230,4 +231,7 @@ markdown
 
 ⭐ If you found this project useful, consider giving it a star on
 GitHub.
+
+```
+
 ```
