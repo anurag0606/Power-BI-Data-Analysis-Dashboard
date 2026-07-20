@@ -45,34 +45,46 @@ with budget?
 
 ## 📊 Dashboard Pages
 
-### 1. Sales Overview
+### 📈 1. Sales Overview
+
+**Features:**
 
 - Sales vs Budget KPI
 - Top Customers
 - Top Products
 - Category Analysis
-- Monthly Trend
-- Sales Map
+- Monthly Sales Trend
+- Sales by Customer City (Map)
 
-Image: `Screenshort/1%20Sales%20Overview.png`
+![Sales Overview](Screenshort/1%20Sales%20Overview.png)
 
-### 2. Customer Details
+---
 
-- Customer-wise sales
-- Monthly customer matrix
-- Sales vs Budget
-- Top Customers
+### 👥 2. Customer Details
 
-Image: `Screenshort/2%20Customer%20Details.png`
+**Features:**
 
-### 3. Product Details
+- Customer-wise Sales Analysis
+- Monthly Customer Sales Matrix
+- Sales vs Budget Comparison
+- Top 10 Customers
+- Customer Location Analysis
 
-- Product performance
-- Top Products
-- Category analysis
-- Monthly product matrix
+![Customer Details](Screenshort/2%20Customer%20Details.png)
 
-Image: `Screenshort/3%20Product%20Details.png`
+---
+
+### 📦 3. Product Details
+
+**Features:**
+
+- Product Performance Analysis
+- Top 10 Products
+- Category-wise Sales
+- Monthly Product Sales Matrix
+- Product Sales by City
+
+![Product Details](Screenshort/3%20Product%20Details.png)
 
 ## 📈 Key Insights
 
