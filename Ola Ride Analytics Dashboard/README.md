@@ -162,7 +162,7 @@ Images/5 Rating(4).png
 OLA-Ride-Analytics/
 │
 ├── Dashboard/
-│   └── OLA Project.pbix
+│   └── OLA Ride Analytics Dashboard.pbix
 │
 ├── Images/
 │   ├── 1 Overall(4).png
@@ -180,7 +180,7 @@ OLA-Ride-Analytics/
 
 1.  Install Microsoft Power BI Desktop.
 2.  Download this repository.
-3.  Open **OLA Project.pbix**.
+3.  Open **OLA Ride Analytics Dashboard.pbix**.
 4.  Refresh the dataset.
 5.  Explore the dashboard using slicers and filters.
 
@@ -197,13 +197,9 @@ markdown
 
 ![Cancellation Dashboard](Ola%20Ride%20Analytics%20Dashboard/Screenshort/4%20Cancellation%20.png)
 
-<<<<<<< HEAD
-![Ratings Dashboard](<Images/5%20Rating(4).png>)
-
-=======
 ![Ratings Dashboard](Ola%20Ride%20Analytics%20Dashboard/Screenshort/5%20Rating.png)
+
 ```
->>>>>>> 1e08f83 (Updated Power BI dashboard)
 
 > After uploading to GitHub, place the screenshots inside an **Images**
 > folder with the same names.
@@ -234,3 +230,4 @@ markdown
 
 ⭐ If you found this project useful, consider giving it a star on
 GitHub.
+```
