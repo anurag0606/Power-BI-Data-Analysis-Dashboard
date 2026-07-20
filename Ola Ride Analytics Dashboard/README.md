@@ -187,7 +187,7 @@ OLA-Ride-Analytics/
 ---
 
 # 🖼 Dashboard Preview
-```
+
 markdown
 
 ![Overall Dashboard](Screenshort/1%20Overall.png)
@@ -199,7 +199,7 @@ markdown
 ![Cancellation Dashboard](Screenshort/4%20Cancellation%20.png)
 
 ![Ratings Dashboard](Screenshort/5%20Rating.png)
-```
+
 
 > After uploading to GitHub, place the screenshots inside an **Images**
 > folder with the same names.
