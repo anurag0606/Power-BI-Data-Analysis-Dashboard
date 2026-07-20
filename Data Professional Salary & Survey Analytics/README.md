@@ -1,10 +1,11 @@
-# 📊 Data Professional Survey Breakdown
+# 📊 Data Professional Salary & Survey Analytics
 
 _An interactive Power BI dashboard analyzing global data professionals’ demographics, salaries, and work satisfaction insights._
 
 ---
 
 ## 📌 Table of Contents
+
 - [Overview](#overview)
 - [Business Problem](#business-problem)
 - [Dataset](#dataset)
@@ -22,12 +23,13 @@ _An interactive Power BI dashboard analyzing global data professionals’ demogr
 
 This project explores trends in the data industry by visualizing results from a **Data Professionals Survey**.  
 The Power BI dashboard reveals insights into:
-- Average salaries by job title  
-- Work–life balance satisfaction  
-- Popular programming languages  
-- Industry distribution  
-- Gender demographics  
-- Global participation  
+
+- Average salaries by job title
+- Work–life balance satisfaction
+- Popular programming languages
+- Industry distribution
+- Gender demographics
+- Global participation
 
 ---
 
@@ -35,18 +37,20 @@ The Power BI dashboard reveals insights into:
 
 The data industry is expanding rapidly, yet pay scales, satisfaction, and career growth vary widely.  
 This analysis helps answer key questions like:
-- Which data roles earn the highest salaries?  
-- How happy are professionals with their pay and work–life balance?  
-- Which programming languages dominate the field?  
-- How difficult is it to break into data-related careers?  
+
+- Which data roles earn the highest salaries?
+- How happy are professionals with their pay and work–life balance?
+- Which programming languages dominate the field?
+- How difficult is it to break into data-related careers?
 
 ---
 
 ## 📁 Dataset
 
-**Source:** Kaggle – *Data Professional Survey (2023)*  
+**Source:** Kaggle – _Data Professional Survey (2023)_
 
 **Key Columns Used:**
+
 - `Job Title`
 - `Average Salary`
 - `Programming Language`
@@ -59,78 +63,84 @@ This analysis helps answer key questions like:
 
 ## 🛠️ Tools & Technologies
 
-- **Microsoft Power BI** – for dashboard creation  
-- **Excel / CSV Data** – for raw data storage  
-- **Power Query** – for cleaning and transformation  
-- **DAX (Data Analysis Expressions)** – for calculated fields  
-- **Python / Pandas (optional)** – for preprocessing large datasets  
+- **Microsoft Power BI** – for dashboard creation
+- **Excel / CSV Data** – for raw data storage
+- **Power Query** – for cleaning and transformation
+- **DAX (Data Analysis Expressions)** – for calculated fields
+- **Python / Pandas (optional)** – for preprocessing large datasets
 
 ---
 
 ## 🧹 Data Preparation
 
-- Removed missing or duplicate responses  
-- Standardized job titles and industries  
-- Converted salary values to consistent scale  
+- Removed missing or duplicate responses
+- Standardized job titles and industries
+- Converted salary values to consistent scale
 - Created calculated columns for:
-  - Average salary per role  
-  - Happiness index  
-  - Percentage distribution by gender and country  
+  - Average salary per role
+  - Happiness index
+  - Percentage distribution by gender and country
 
 ---
 
 ## 📊 Dashboard Insights
 
 ### 🔹 Average Salary by Job Title
+
 Data Scientists and Engineers lead salary charts, while entry-level roles earn comparatively less.
 
 ### 🔹 Happiness with Salary & Work–Life Balance
-- Average salary satisfaction: **4.27 / 10**  
-- Work–life balance satisfaction: **5.74 / 10**  
+
+- Average salary satisfaction: **4.27 / 10**
+- Work–life balance satisfaction: **5.74 / 10**
 
 ### 🔹 Difficulty to Break into Data
-Most respondents rated it as *“Easy”* or *“Neither Easy nor Difficult”*, showing better accessibility into data careers.
+
+Most respondents rated it as _“Easy”_ or _“Neither Easy nor Difficult”_, showing better accessibility into data careers.
 
 ### 🔹 Favorite Programming Languages
+
 **Python** dominates, followed by **R** and **SQL**, reaffirming Python’s leadership in the data field.
 
 ### 🔹 Industry & Country Overview
-- Top industries: *Tech, Finance, and Healthcare*  
-- Top countries: *United States and India*  
+
+- Top industries: _Tech, Finance, and Healthcare_
+- Top countries: _United States and India_
 
 ### 🔹 Demographics
-- Average respondent age: **29.87 years**  
-- Gender split visualized via interactive filters  
+
+- Average respondent age: **29.87 years**
+- Gender split visualized via interactive filters
 
 ---
 
 ## 📈 Key Findings
 
-1. **Data Scientists** earn the highest average salaries among all roles.  
-2. **Python** remains the preferred language for most professionals.  
-3. **Work–life balance** satisfaction is higher than salary satisfaction.  
-4. **Majority of respondents** find it moderately easy to enter the data field.  
-5. **Tech industry** employs the largest number of data professionals.  
+1. **Data Scientists** earn the highest average salaries among all roles.
+2. **Python** remains the preferred language for most professionals.
+3. **Work–life balance** satisfaction is higher than salary satisfaction.
+4. **Majority of respondents** find it moderately easy to enter the data field.
+5. **Tech industry** employs the largest number of data professionals.
 
 ---
 
 ## 🚀 How to Run This Project
 
-1. Open Power BI Desktop.  
-2. Load the dataset (`data_professional_survey.csv`).  
+1. Open Power BI Desktop.
+2. Load the dataset (`data_professional_survey.csv`).
 3. Open the `.pbix` file:
    ```bash
    dashboard/data_professional_survey_breakdown.pbix
    ```
-4. Refresh data connections if needed.  
-5. Interact with slicers and filters to explore specific insights.  
+4. Refresh data connections if needed.
+5. Interact with slicers and filters to explore specific insights.
 
 ---
 
 ## 🧭 Conclusion
 
 The dashboard highlights how experience, role, and skills shape salaries and satisfaction in the data industry.  
-It serves as a benchmark for aspiring data professionals and organizations planning workforce development.  
+It serves as a benchmark for aspiring data professionals and organizations planning workforce development.
 
 ---
 
@@ -145,4 +155,4 @@ It serves as a benchmark for aspiring data professionals and organizations plann
 
 ## 🖼️ Dashboard Preview
 
-![Data Professional Survey Breakdown Dashboard](Data%20Professional%20Survey%20Breakdown.png)
+![Data Professional Salary & Survey Analytics Dashboard](Data%20Professional%20Salary%20%26%20Survey%20Analytics.png)
