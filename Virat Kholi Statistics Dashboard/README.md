@@ -159,4 +159,4 @@ It serves as a great example of **Power BI dashboards built for sports analytics
 
 ## 🖼️ Dashboard Preview
 
-![Virat Kohli Career Statistics Dashboard](Virat%20Kholi%20Statistics%20Dashboard%20ss.png)
+![Virat Kholi Statistics Dashboard](Virat%20Kholi%20Statistics%20Dashboard%20ss.png)
