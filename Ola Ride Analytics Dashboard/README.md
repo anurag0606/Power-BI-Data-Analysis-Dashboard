@@ -189,7 +189,7 @@ OLA-Ride-Analytics/
 # 🖼 Dashboard Preview
 
 ```markdown
-![Overall Dashboard](Screenshort/1%20Overall.png)
+![Overall Dashboard](Ola%20Ride%20Analytics%20Dashboard/Screenshort/1%20Overall.png)
 
 ![Vehicle Dashboard](Screenshort/2%20Vehicle%20Type.png)
 
